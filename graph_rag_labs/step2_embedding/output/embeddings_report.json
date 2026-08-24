@@ -1,0 +1,9 @@
+{
+  "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+  "dim": 384,
+  "n_vectors": 91,
+  "dtype": "float32",
+  "normalized": true,
+  "elapsed_seconds": 1.8478,
+  "ms_per_chunk": 20.31
+}

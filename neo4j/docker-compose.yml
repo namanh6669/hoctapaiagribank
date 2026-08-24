@@ -1,0 +1,26 @@
+services:
+  neo4j:
+    image: neo4j
+    container_name: neo4j-container
+    ports:
+      - "7474:7474" # HTTP Browser
+      - "7473:7473" # HTTPS Browser
+      - "7687:7687" # Bolt protocol
+    volumes:
+      - ./neo4j/data:/data
+      - ./neo4j/logs:/logs
+      - ./neo4j/import:/var/lib/neo4j/import
+      - ./neo4j/plugins:/plugins
+    environment:
+      # Set your database password (default user is 'neo4j')
+      - NEO4J_AUTH=neo4j/YourSecurePassword123
+      
+      # Optional: Enable APOC core plugins automatically
+      - NEO4JLABS_PLUGINS=["apoc"]
+      - NEO4J_dbms_security_procedures_unrestricted=apoc.*
+      
+      # Tuning memory settings for performance
+      - NEO4J_server_memory_pagecache_size=512M
+      - NEO4J_server_memory_heap_initial__size=512M
+      - NEO4J_server_memory_heap_max__size=1G
+    restart: unless-stopped

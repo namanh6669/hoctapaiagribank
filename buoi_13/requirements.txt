@@ -1,0 +1,6 @@
+# Chỉ cần `neo4j` + `python-dotenv` cho `scripts/load_neo4j.py`.
+# Ba script còn lại (inspect_data, build_entities, build_wiki, validate_wiki)
+# chỉ dùng Python stdlib (csv, pathlib, re, collections) — không cần pip install.
+
+neo4j>=5.0.0
+python-dotenv>=1.0.0

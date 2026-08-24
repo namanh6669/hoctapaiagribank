@@ -1,0 +1,1705 @@
+[
+  {
+    "id": "c0001-535e30",
+    "kind": "document",
+    "title": "Thông tư 02/2023/TT-NHNN",
+    "text": "",
+    "heading_path": [],
+    "parent_id": null,
+    "children_ids": [
+      "c0002-5198e9",
+      "c0003-4475c2",
+      "c0004-40285b",
+      "c0005-a20eda",
+      "c0006-f3b5e3",
+      "c0007-685c19",
+      "c0008-f7e51e",
+      "c0009-955596",
+      "c0010-308fb9",
+      "c0011-2bc1af",
+      "c0012-a1bafb",
+      "c0013-652e74",
+      "c0014-3eb422",
+      "c0015-b8bde4",
+      "c0016-b5137e",
+      "c0018-541035",
+      "c0021-e0526e",
+      "c0023-acf94d",
+      "c0024-5d4872",
+      "c0028-0510da",
+      "c0030-b4bb23",
+      "c0043-a49b56",
+      "c0049-a8aa05",
+      "c0059-7a363d",
+      "c0060-6c80e2",
+      "c0062-90a56d"
+    ],
+    "next_id": "c0002-5198e9",
+    "depth": 0,
+    "char_count": 0,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0002-5198e9",
+    "kind": "paragraph",
+    "title": "SAO Y\nNgân hàng Nhà nước Việt Nam\nThời gian ký: 24/04/2023 0...",
+    "text": "SAO Y\nNgân hàng Nhà nước Việt Nam\nThời gian ký: 24/04/2023 01:01:25 +07:00",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "SAO Y\nNgân hàng Nhà nước Việt Nam\nThời gian ký: 24/04/2023 0..."
+    ],
+    "parent_id": "c0001-535e30",
+    "children_ids": [],
+    "next_id": "c0003-4475c2",
+    "depth": 4,
+    "char_count": 74,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0003-4475c2",
+    "kind": "paragraph",
+    "title": "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+    "text": "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM"
+    ],
+    "parent_id": "c0001-535e30",
+    "children_ids": [],
+    "next_id": "c0004-40285b",
+    "depth": 4,
+    "char_count": 27,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0004-40285b",
+    "kind": "paragraph",
+    "title": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh ph...",
+    "text": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh ph..."
+    ],
+    "parent_id": "c0001-535e30",
+    "children_ids": [],
+    "next_id": "c0005-a20eda",
+    "depth": 4,
+    "char_count": 62,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0005-a20eda",
+    "kind": "paragraph",
+    "title": "Số: 02/2023/TT-NHNN",
+    "text": "Số: 02/2023/TT-NHNN",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Số: 02/2023/TT-NHNN"
+    ],
+    "parent_id": "c0001-535e30",
+    "children_ids": [],
+    "next_id": "c0006-f3b5e3",
+    "depth": 4,
+    "char_count": 19,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0006-f3b5e3",
+    "kind": "paragraph",
+    "title": "Hà Nội, ngày 23 tháng 4 năm 2023",
+    "text": "Hà Nội, ngày 23 tháng 4 năm 2023",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Hà Nội, ngày 23 tháng 4 năm 2023"
+    ],
+    "parent_id": "c0001-535e30",
+    "children_ids": [],
+    "next_id": "c0007-685c19",
+    "depth": 4,
+    "char_count": 32,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0007-685c19",
+    "kind": "paragraph",
+    "title": "Quy định về việc tổ chức tín dụng, chi nhánh ngân hàng nước ...",
+    "text": "Quy định về việc tổ chức tín dụng, chi nhánh ngân hàng nước ngoài cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ nhằm hỗ trợ khách hàng gặp khó khăn",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Quy định về việc tổ chức tín dụng, chi nhánh ngân hàng nước ..."
+    ],
+    "parent_id": "c0001-535e30",
+    "children_ids": [],
+    "next_id": "c0008-f7e51e",
+    "depth": 4,
+    "char_count": 150,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0008-f7e51e",
+    "kind": "paragraph",
+    "title": "Căn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm ...",
+    "text": "Căn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm 2010;",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Căn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm ..."
+    ],
+    "parent_id": "c0001-535e30",
+    "children_ids": [],
+    "next_id": "c0009-955596",
+    "depth": 4,
+    "char_count": 65,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0009-955596",
+    "kind": "paragraph",
+    "title": "Căn cứ Luật Các tổ chức tín dụng ngày 16 tháng 6 năm 2010; L...",
+    "text": "Căn cứ Luật Các tổ chức tín dụng ngày 16 tháng 6 năm 2010; Luật sửa đổi, bổ sung một số điều của Luật Các tổ chức tín dụng ngày 20 tháng 11 năm 2017;",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Căn cứ Luật Các tổ chức tín dụng ngày 16 tháng 6 năm 2010; L..."
+    ],
+    "parent_id": "c0001-535e30",
+    "children_ids": [],
+    "next_id": "c0010-308fb9",
+    "depth": 4,
+    "char_count": 149,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0010-308fb9",
+    "kind": "paragraph",
+    "title": "Căn cứ Nghị định 102/2022/NĐ-CP ngày 12 tháng 12 năm 2022 củ...",
+    "text": "Căn cứ Nghị định 102/2022/NĐ-CP ngày 12 tháng 12 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Căn cứ Nghị định 102/2022/NĐ-CP ngày 12 tháng 12 năm 2022 củ..."
+    ],
+    "parent_id": "c0001-535e30",
+    "children_ids": [],
+    "next_id": "c0011-2bc1af",
+    "depth": 4,
+    "char_count": 162,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0011-2bc1af",
+    "kind": "paragraph",
+    "title": "Căn cứ Nghị quyết số 50/NQ-CP ngày 08/4/2023 của Chính phủ v...",
+    "text": "Căn cứ Nghị quyết số 50/NQ-CP ngày 08/4/2023 của Chính phủ về hội nghị Chính phủ với địa phương và phiên họp thường kỳ Chính phủ tháng 3 năm 2023 và Nghị quyết số 59/NQ-CP ngày 23/4/2023 của Chính phủ về giải pháp hỗ trợ tháo gỡ khó khăn cho khách hàng vay phục vụ nhu cầu đời sống, tiêu dùng;",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Căn cứ Nghị quyết số 50/NQ-CP ngày 08/4/2023 của Chính phủ v..."
+    ],
+    "parent_id": "c0001-535e30",
+    "children_ids": [],
+    "next_id": "c0012-a1bafb",
+    "depth": 4,
+    "char_count": 293,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0012-a1bafb",
+    "kind": "paragraph",
+    "title": "Sau khi thống nhất với Bộ Tài chính;",
+    "text": "Sau khi thống nhất với Bộ Tài chính;",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Sau khi thống nhất với Bộ Tài chính;"
+    ],
+    "parent_id": "c0001-535e30",
+    "children_ids": [],
+    "next_id": "c0013-652e74",
+    "depth": 4,
+    "char_count": 36,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0013-652e74",
+    "kind": "paragraph",
+    "title": "Theo đề nghị của Vụ trưởng Vụ Tín dụng các ngành kinh tế;",
+    "text": "Theo đề nghị của Vụ trưởng Vụ Tín dụng các ngành kinh tế;",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Theo đề nghị của Vụ trưởng Vụ Tín dụng các ngành kinh tế;"
+    ],
+    "parent_id": "c0001-535e30",
+    "children_ids": [],
+    "next_id": "c0014-3eb422",
+    "depth": 4,
+    "char_count": 57,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0014-3eb422",
+    "kind": "paragraph",
+    "title": "Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy ...",
+    "text": "Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy định về việc tổ chức tín dụng, chi nhánh ngân hàng nước ngoài cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ nhằm hỗ trợ khách hàng gặp khó khăn.",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy ..."
+    ],
+    "parent_id": "c0001-535e30",
+    "children_ids": [],
+    "next_id": "c0015-b8bde4",
+    "depth": 4,
+    "char_count": 207,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0015-b8bde4",
+    "kind": "chapter",
+    "title": "Chương I - QUY ĐỊNH CHUNG",
+    "text": "",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN"
+    ],
+    "parent_id": "c0001-535e30",
+    "children_ids": [
+      "c0016-b5137e",
+      "c0018-541035",
+      "c0021-e0526e"
+    ],
+    "next_id": "c0016-b5137e",
+    "depth": 1,
+    "char_count": 25,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0016-b5137e",
+    "kind": "article",
+    "title": "Điều 1 - Phạm vi điều chỉnh",
+    "text": "",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương I - QUY ĐỊNH CHUNG"
+    ],
+    "parent_id": "c0015-b8bde4",
+    "children_ids": [
+      "c0017-6f088f"
+    ],
+    "next_id": "c0017-6f088f",
+    "depth": 3,
+    "char_count": 27,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0017-6f088f",
+    "kind": "paragraph",
+    "title": "Thông tư này quy định về việc tổ chức tín dụng, chi nhánh ng...",
+    "text": "Thông tư này quy định về việc tổ chức tín dụng, chi nhánh ngân hàng nước ngoài cơ cấu lại thời hạn trả nợ, giữ nguyên nhóm nợ nhằm hỗ trợ khách hàng gặp khó khăn trong hoạt động sản xuất kinh doanh và khách hàng gặp khó khăn trả nợ vay phục vụ nhu cầu đời sống, tiêu dùng.",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương I - QUY ĐỊNH CHUNG",
+      "Điều 1 - Phạm vi điều chỉnh",
+      "Thông tư này quy định về việc tổ chức tín dụng, chi nhánh ng..."
+    ],
+    "parent_id": "c0016-b5137e",
+    "children_ids": [],
+    "next_id": "c0018-541035",
+    "depth": 4,
+    "char_count": 272,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0018-541035",
+    "kind": "article",
+    "title": "Điều 2 - Đối tượng áp dụng",
+    "text": "",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương I - QUY ĐỊNH CHUNG",
+      "Điều 1 - Phạm vi điều chỉnh"
+    ],
+    "parent_id": "c0015-b8bde4",
+    "children_ids": [
+      "c0019-29f773",
+      "c0020-4df86c"
+    ],
+    "next_id": "c0019-29f773",
+    "depth": 3,
+    "char_count": 26,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0019-29f773",
+    "kind": "list",
+    "title": "Tổ chức tín dụng (không bao gồm ngân hàng chính sách), chi n...",
+    "text": "Tổ chức tín dụng (không bao gồm ngân hàng chính sách), chi nhánh ngân hàng nước ngoài.",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương I - QUY ĐỊNH CHUNG",
+      "Điều 2 - Đối tượng áp dụng",
+      "Tổ chức tín dụng (không bao gồm ngân hàng chính sách), chi n..."
+    ],
+    "parent_id": "c0018-541035",
+    "children_ids": [],
+    "next_id": "c0020-4df86c",
+    "depth": 4,
+    "char_count": 86,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0020-4df86c",
+    "kind": "list",
+    "title": "Khách hàng của tổ chức tín dụng, chi nhánh ngân hàng nước ng...",
+    "text": "Khách hàng của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài (trừ khách hàng là tổ chức tín dụng, chi nhánh ngân hàng nước ngoài).\nTổ chức, cá nhân khác có liên quan đến việc cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ nhằm hỗ trợ khách hàng gặp khó khăn.",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương I - QUY ĐỊNH CHUNG",
+      "Điều 2 - Đối tượng áp dụng",
+      "Khách hàng của tổ chức tín dụng, chi nhánh ngân hàng nước ng..."
+    ],
+    "parent_id": "c0018-541035",
+    "children_ids": [],
+    "next_id": "c0021-e0526e",
+    "depth": 4,
+    "char_count": 263,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0021-e0526e",
+    "kind": "article",
+    "title": "Điều 3 - Áp dụng các văn bản quy phạm pháp luật có liên quan",
+    "text": "",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương I - QUY ĐỊNH CHUNG",
+      "Điều 2 - Đối tượng áp dụng"
+    ],
+    "parent_id": "c0015-b8bde4",
+    "children_ids": [
+      "c0022-49522c"
+    ],
+    "next_id": "c0022-49522c",
+    "depth": 3,
+    "char_count": 60,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0022-49522c",
+    "kind": "paragraph",
+    "title": "Việc cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ, trích...",
+    "text": "Việc cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ, trích lập dự phòng rủi ro nhằm hỗ trợ khách hàng gặp khó khăn trong hoạt động sản xuất kinh doanh và khách hàng gặp khó khăn trả nợ vay phục vụ nhu cầu đời sống, tiêu dùng thực hiện theo quy định tại Thông tư này; các nội dung liên quan đến cơ cấu lại thời hạn trả nợ, phân loại nợ, trích lập và sử dụng dự phòng để xử lý rủi ro không quy định tại Thông tư này thực hiện theo quy định tại các văn bản quy phạm pháp luật khác có liên quan.",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương I - QUY ĐỊNH CHUNG",
+      "Điều 3 - Áp dụng các văn bản quy phạm pháp luật có liên quan",
+      "Việc cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ, trích..."
+    ],
+    "parent_id": "c0021-e0526e",
+    "children_ids": [],
+    "next_id": "c0023-acf94d",
+    "depth": 4,
+    "char_count": 493,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0023-acf94d",
+    "kind": "chapter",
+    "title": "Chương II - QUY ĐỊNH CỤ THỂ",
+    "text": "",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương I - QUY ĐỊNH CHUNG",
+      "Điều 3 - Áp dụng các văn bản quy phạm pháp luật có liên quan"
+    ],
+    "parent_id": "c0001-535e30",
+    "children_ids": [
+      "c0024-5d4872",
+      "c0028-0510da",
+      "c0030-b4bb23",
+      "c0043-a49b56",
+      "c0049-a8aa05"
+    ],
+    "next_id": "c0024-5d4872",
+    "depth": 1,
+    "char_count": 27,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0024-5d4872",
+    "kind": "article",
+    "title": "Điều 4 - Cơ cấu lại thời hạn trả nợ",
+    "text": "",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ"
+    ],
+    "parent_id": "c0023-acf94d",
+    "children_ids": [
+      "c0025-4fbef3",
+      "c0026-6fa9b3",
+      "c0027-2c5d40"
+    ],
+    "next_id": "c0025-4fbef3",
+    "depth": 3,
+    "char_count": 35,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0025-4fbef3",
+    "kind": "paragraph",
+    "title": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài được xem xé...",
+    "text": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài được xem xét quyết định cơ cấu lại thời hạn trả nợ đối với số dư nợ gốc và/hoặc lãi của khoản nợ (bao gồm cả các khoản nợ thuộc phạm vi điều chỉnh của Nghị định số 55/2015/NĐ-CP ngày 09 tháng 6 năm 2015 của Chính phủ về chính sách tín dụng phục vụ phát triển nông nghiệp, nông thôn (đã được sửa đổi, bổ sung)) trên cơ sở đề nghị của khách hàng, khả năng tài chính của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và đáp ứng các quy định sau đây:",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 4 - Cơ cấu lại thời hạn trả nợ",
+      "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài được xem xé..."
+    ],
+    "parent_id": "c0024-5d4872",
+    "children_ids": [],
+    "next_id": "c0026-6fa9b3",
+    "depth": 4,
+    "char_count": 498,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0026-6fa9b3",
+    "kind": "list",
+    "title": "Dư nợ gốc phát sinh trước ngày Thông tư này có hiệu lực và t...",
+    "text": "Dư nợ gốc phát sinh trước ngày Thông tư này có hiệu lực và từ hoạt động cho vay, cho thuê tài chính.\nPhát sinh nghĩa vụ trả nợ gốc và/hoặc lãi trong khoảng thời gian từ ngày Thông tư này có hiệu lực đến hết ngày 30/6/2024.\nSố dư nợ của khoản nợ được cơ cấu lại thời hạn trả nợ còn trong hạn hoặc quá hạn đến 10 (mười) ngày kể từ ngày đến hạn thanh toán, thời hạn trả nợ theo hợp đồng, thỏa thuận.\nĐược tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đánh giá khách hàng không có khả năng trả nợ đúng hạn nợ gốc và/hoặc lãi theo hợp đồng, thỏa thuận do doanh thu, thu nhập sụt giảm so với doanh thu, thu nhập tại phương án trả nợ gốc và/hoặc lãi theo hợp đồng, thỏa thuận.\nKhách hàng được tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đánh giá có khả năng trả nợ đầy đủ nợ gốc và/hoặc lãi theo thời hạn trả nợ được cơ cấu lại.\nTổ chức tín dụng, chi nhánh ngân hàng nước ngoài không thực hiện cơ cấu lại thời hạn trả nợ đối với khoản nợ vi phạm quy định pháp luật.",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 4 - Cơ cấu lại thời hạn trả nợ",
+      "Dư nợ gốc phát sinh trước ngày Thông tư này có hiệu lực và t..."
+    ],
+    "parent_id": "c0024-5d4872",
+    "children_ids": [],
+    "next_id": "c0027-2c5d40",
+    "depth": 4,
+    "char_count": 966,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0027-2c5d40",
+    "kind": "list",
+    "title": "Thời gian cơ cấu lại thời hạn trả nợ (kể cả trường hợp gia h...",
+    "text": "Thời gian cơ cấu lại thời hạn trả nợ (kể cả trường hợp gia hạn nợ) được xác định phù hợp với mức độ khó khăn của khách hàng và không vượt quá 12 tháng kể từ ngày đến hạn của số dư nợ được cơ cấu lại thời hạn trả nợ.\nViệc cơ cấu lại thời hạn trả nợ cho khách hàng theo quy định tại Thông tư này được thực hiện kể từ ngày Thông tư này có hiệu lực đến hết ngày 30/6/2024.",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 4 - Cơ cấu lại thời hạn trả nợ",
+      "Thời gian cơ cấu lại thời hạn trả nợ (kể cả trường hợp gia h..."
+    ],
+    "parent_id": "c0024-5d4872",
+    "children_ids": [],
+    "next_id": "c0028-0510da",
+    "depth": 4,
+    "char_count": 368,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0028-0510da",
+    "kind": "article",
+    "title": "Điều 5 - Giữ nguyên nhóm nợ và phân loại nợ",
+    "text": "",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 4 - Cơ cấu lại thời hạn trả nợ"
+    ],
+    "parent_id": "c0023-acf94d",
+    "children_ids": [
+      "c0029-1eb5fd"
+    ],
+    "next_id": "c0029-1eb5fd",
+    "depth": 3,
+    "char_count": 43,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0029-1eb5fd",
+    "kind": "list",
+    "title": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài được giữ ng...",
+    "text": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài được giữ nguyên nhóm nợ đối với khoản nợ có số dư nợ gốc và/hoặc lãi được cơ cấu lại thời hạn trả nợ (sau đây là khoản nợ được cơ cấu lại thời hạn trả nợ) theo quy định tại Thông tư này như nhóm nợ đã được phân loại theo quy định của Thống đốc Ngân hàng Nhà nước Việt Nam về phân loại tài sản có, mức trích, phương pháp trích lập dự phòng rủi ro và việc sử dụng dự phòng để xử lý rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài tại thời điểm gần nhất trước khi cơ cấu lại thời hạn trả nợ theo quy định tại Thông tư này.\nKhoản nợ sau khi cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ theo quy định tại khoản 1 Điều này còn trong hạn theo thời hạn cơ cấu lại, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài không phải áp dụng nguyên tắc điều chỉnh, phân loại lại vào nhóm nợ có mức độ rủi ro cao hơn theo quy định của Thống đốc Ngân hàng Nhà nước Việt Nam về phân loại tài sản có, mức trích, phương pháp trích lập dự phòng rủi ro và việc sử dụng dự phòng để xử lý rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài.\nTrường hợp khoản nợ sau khi cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ theo quy định tại khoản 1 Điều này quá hạn theo thời hạn cơ cấu lại mà không được tổ chức tín dụng, chi nhánh ngân hàng nước ngoài tiếp tục cơ cấu lại thời hạn trả nợ theo quy định tại Thông tư này, thì tổ chức tín dụng, chi nhánh ngân hàng nước ngoài phải thực hiện phân loại nợ theo quy định của Thống đốc Ngân hàng Nhà nước Việt Nam về phân loại tài sản có, mức trích, phương pháp trích lập dự phòng rủi ro và việc sử dụng dự phòng để xử lý rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài.\nĐối với số lãi phải thu của khoản nợ được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ đủ tiêu chuẩn (nhóm 1) theo quy định tại Thông tư này, kể từ ngày được cơ cấu lại, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài không phải hạch toán thu nhập (dự thu) mà thực hiện theo dõi ngoại bảng để đôn đốc thu; thực hiện hạch toán vào thu nhập khi thu được theo quy định của pháp luật về chế độ tài chính đối với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài.",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 5 - Giữ nguyên nhóm nợ và phân loại nợ",
+      "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài được giữ ng..."
+    ],
+    "parent_id": "c0028-0510da",
+    "children_ids": [],
+    "next_id": "c0030-b4bb23",
+    "depth": 4,
+    "char_count": 2181,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0030-b4bb23",
+    "kind": "article",
+    "title": "Điều 6 - Trích lập dự phòng rủi ro",
+    "text": "",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 5 - Giữ nguyên nhóm nợ và phân loại nợ"
+    ],
+    "parent_id": "c0023-acf94d",
+    "children_ids": [
+      "c0031-ecd9a7",
+      "c0032-565145",
+      "c0033-229d69",
+      "c0034-721124",
+      "c0035-9988d2",
+      "c0036-f3c678",
+      "c0037-4b96d1",
+      "c0038-064d59",
+      "c0039-6520a8",
+      "c0040-252f48",
+      "c0041-0025ac",
+      "c0042-715f88"
+    ],
+    "next_id": "c0031-ecd9a7",
+    "depth": 3,
+    "char_count": 34,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0031-ecd9a7",
+    "kind": "list",
+    "title": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài thực hiện t...",
+    "text": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài thực hiện trích lập dự phòng cụ thể đối với khách hàng có số dư nợ được cơ cấu lại thời hạn trả nợ theo quy định tại Thông tư này như sau:",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro",
+      "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài thực hiện t..."
+    ],
+    "parent_id": "c0030-b4bb23",
+    "children_ids": [],
+    "next_id": "c0032-565145",
+    "depth": 4,
+    "char_count": 187,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0032-565145",
+    "kind": "paragraph",
+    "title": "a) Căn cứ quy định của Thống đốc Ngân hàng Nhà nước Việt Nam...",
+    "text": "a) Căn cứ quy định của Thống đốc Ngân hàng Nhà nước Việt Nam về trích lập dự phòng rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro",
+      "a) Căn cứ quy định của Thống đốc Ngân hàng Nhà nước Việt Nam..."
+    ],
+    "parent_id": "c0030-b4bb23",
+    "children_ids": [],
+    "next_id": "c0033-229d69",
+    "depth": 4,
+    "char_count": 147,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0033-229d69",
+    "kind": "paragraph",
+    "title": "nước ngoài, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài...",
+    "text": "nước ngoài, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài thực hiện trích lập số tiền dự phòng cụ thể đối với toàn bộ dư nợ của khách hàng theo kết quả phân loại nợ quy định tại Điều 5 Thông tư này đối với khoản nợ được giữ nguyên nhóm nợ và kết quả phân loại nợ đối với dư nợ còn lại của khách hàng theo quy định của Thống đốc Ngân hàng Nhà nước Việt Nam về phân loại tài sản có, mức trích, phương pháp trích lập dự phòng rủi ro và việc sử dụng dự phòng để xử lý rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài.",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro",
+      "nước ngoài, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài..."
+    ],
+    "parent_id": "c0030-b4bb23",
+    "children_ids": [],
+    "next_id": "c0034-721124",
+    "depth": 4,
+    "char_count": 543,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0034-721124",
+    "kind": "paragraph",
+    "title": "b) Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài xác định...",
+    "text": "b) Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài xác định số tiền dự phòng cụ thể phải trích đối với toàn bộ dư nợ của khách hàng theo kết quả phân loại nợ theo quy định của Thống đốc Ngân hàng Nhà nước Việt Nam về phân loại tài sản có, mức trích, phương pháp trích lập dự phòng rủi ro và việc sử dụng dự phòng để xử lý rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài (không áp dụng quy định giữ nguyên nhóm nợ theo quy định tại Điều 5 Thông tư này).",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro",
+      "b) Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài xác định..."
+    ],
+    "parent_id": "c0030-b4bb23",
+    "children_ids": [],
+    "next_id": "c0035-9988d2",
+    "depth": 4,
+    "char_count": 481,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0035-9988d2",
+    "kind": "paragraph",
+    "title": "c) Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài xác định...",
+    "text": "c) Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài xác định số tiền dự phòng cụ thể phải trích bổ sung theo công thức sau:",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro",
+      "c) Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài xác định..."
+    ],
+    "parent_id": "c0030-b4bb23",
+    "children_ids": [],
+    "next_id": "c0036-f3c678",
+    "depth": 4,
+    "char_count": 123,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0036-f3c678",
+    "kind": "paragraph",
+    "title": "Số tiền dự phòng cụ thể phải trích bổ sung = A - B",
+    "text": "Số tiền dự phòng cụ thể phải trích bổ sung = A - B",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro",
+      "Số tiền dự phòng cụ thể phải trích bổ sung = A - B"
+    ],
+    "parent_id": "c0030-b4bb23",
+    "children_ids": [],
+    "next_id": "c0037-4b96d1",
+    "depth": 4,
+    "char_count": 50,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0037-4b96d1",
+    "kind": "paragraph",
+    "title": "Trong đó:",
+    "text": "Trong đó:",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro",
+      "Trong đó:"
+    ],
+    "parent_id": "c0030-b4bb23",
+    "children_ids": [],
+    "next_id": "c0038-064d59",
+    "depth": 4,
+    "char_count": 9,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0038-064d59",
+    "kind": "list",
+    "title": "A: Số tiền dự phòng cụ thể phải trích quy định tại điểm b kh...",
+    "text": "A: Số tiền dự phòng cụ thể phải trích quy định tại điểm b khoản 1 Điều này.\nB: Số tiền dự phòng cụ thể đã trích quy định tại điểm a khoản 1 Điều này.",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro",
+      "A: Số tiền dự phòng cụ thể phải trích quy định tại điểm b kh..."
+    ],
+    "parent_id": "c0030-b4bb23",
+    "children_ids": [],
+    "next_id": "c0039-6520a8",
+    "depth": 4,
+    "char_count": 149,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0039-6520a8",
+    "kind": "paragraph",
+    "title": "d) Trường hợp số tiền dự phòng cụ thể phải trích bổ sung đượ...",
+    "text": "d) Trường hợp số tiền dự phòng cụ thể phải trích bổ sung được xác định theo quy định tại điểm c khoản 1 Điều này là dương, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài thực hiện trích bổ sung dự phòng cụ thể như sau:",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro",
+      "d) Trường hợp số tiền dự phòng cụ thể phải trích bổ sung đượ..."
+    ],
+    "parent_id": "c0030-b4bb23",
+    "children_ids": [],
+    "next_id": "c0040-252f48",
+    "depth": 4,
+    "char_count": 220,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0040-252f48",
+    "kind": "paragraph",
+    "title": "(i) Đến thời điểm 31/12/2023: Tối thiểu 50% số tiền dự phòng...",
+    "text": "(i) Đến thời điểm 31/12/2023: Tối thiểu 50% số tiền dự phòng cụ thể phải trích bổ sung;",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro",
+      "(i) Đến thời điểm 31/12/2023: Tối thiểu 50% số tiền dự phòng..."
+    ],
+    "parent_id": "c0030-b4bb23",
+    "children_ids": [],
+    "next_id": "c0041-0025ac",
+    "depth": 4,
+    "char_count": 87,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0041-0025ac",
+    "kind": "paragraph",
+    "title": "(ii) Đến thời điểm 31/12/2024: Trích thêm số còn lại để đủ 1...",
+    "text": "(ii) Đến thời điểm 31/12/2024: Trích thêm số còn lại để đủ 100% số tiền dự phòng cụ thể phải trích bổ sung.",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro",
+      "(ii) Đến thời điểm 31/12/2024: Trích thêm số còn lại để đủ 1..."
+    ],
+    "parent_id": "c0030-b4bb23",
+    "children_ids": [],
+    "next_id": "c0042-715f88",
+    "depth": 4,
+    "char_count": 107,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0042-715f88",
+    "kind": "list",
+    "title": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài thực hiện t...",
+    "text": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài thực hiện trích lập dự phòng chung đối với toàn bộ dư nợ của khách hàng theo kết quả phân loại nợ được xác định theo quy định tại điểm b khoản 1 Điều này.",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro",
+      "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài thực hiện t..."
+    ],
+    "parent_id": "c0030-b4bb23",
+    "children_ids": [],
+    "next_id": "c0043-a49b56",
+    "depth": 4,
+    "char_count": 203,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0043-a49b56",
+    "kind": "article",
+    "title": "Điều 7 - Trách nhiệm của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",
+    "text": "",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro"
+    ],
+    "parent_id": "c0023-acf94d",
+    "children_ids": [
+      "c0044-c5f8bb",
+      "c0045-42cae7",
+      "c0046-1e2437",
+      "c0047-7a68a6",
+      "c0048-51c5c5"
+    ],
+    "next_id": "c0044-c5f8bb",
+    "depth": 3,
+    "char_count": 73,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0044-c5f8bb",
+    "kind": "list",
+    "title": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài chịu trách ...",
+    "text": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài chịu trách nhiệm về quyết định cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ theo quy định tại Thông tư này, thực hiện kiểm tra, kiểm soát nội bộ đảm bảo giám sát chặt chẽ, an toàn, phòng ngừa, ngăn chặn việc lợi dụng cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ để trục lợi.\nBan hành quy định nội bộ về cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ theo quy định của Thông tư này để thực hiện thống nhất trong toàn hệ thống, trong đó quy định cụ thể các nội dung sau:",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 7 - Trách nhiệm của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",
+      "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài chịu trách ..."
+    ],
+    "parent_id": "c0043-a49b56",
+    "children_ids": [],
+    "next_id": "c0045-42cae7",
+    "depth": 4,
+    "char_count": 527,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0045-42cae7",
+    "kind": "paragraph",
+    "title": "a) Tiêu chí xác định số dư nợ của khoản nợ được cơ cấu lại t...",
+    "text": "a) Tiêu chí xác định số dư nợ của khoản nợ được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ theo quy định tại Thông tư này;",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 7 - Trách nhiệm của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",
+      "a) Tiêu chí xác định số dư nợ của khoản nợ được cơ cấu lại t..."
+    ],
+    "parent_id": "c0043-a49b56",
+    "children_ids": [],
+    "next_id": "c0046-1e2437",
+    "depth": 4,
+    "char_count": 128,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0046-1e2437",
+    "kind": "paragraph",
+    "title": "b) Trình tự, thủ tục, phân công, phân cấp, nhiệm vụ, trách n...",
+    "text": "b) Trình tự, thủ tục, phân công, phân cấp, nhiệm vụ, trách nhiệm của từng cá nhân, bộ phận trong việc thực hiện cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ bảo đảm nguyên tắc cá nhân, bộ phận quyết định cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ không là cá nhân, bộ phận phê duyệt cấp tín dụng, trừ trường hợp việc cấp tín dụng do Hội đồng quản trị, Hội đồng thành viên, Tổng Giám đốc/Giám đốc, ngân hàng mẹ (đối với chi nhánh ngân hàng nước ngoài) thông qua. Trường hợp việc xét duyệt cấp tín dụng và xét duyệt cơ cấu lại thời hạn trả nợ thực hiện thông qua cơ chế hội đồng thì Chủ tịch Hội đồng xét duyệt cơ cấu lại thời hạn trả nợ không phải là Chủ tịch Hội đồng xét duyệt cấp tín dụng và ít nhất hai phần ba (2/3) thành viên Hội đồng xét duyệt cơ cấu lại thời hạn trả nợ không phải là thành viên của Hội đồng xét duyệt tín dụng;",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 7 - Trách nhiệm của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",
+      "b) Trình tự, thủ tục, phân công, phân cấp, nhiệm vụ, trách n..."
+    ],
+    "parent_id": "c0043-a49b56",
+    "children_ids": [],
+    "next_id": "c0047-7a68a6",
+    "depth": 4,
+    "char_count": 844,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0047-7a68a6",
+    "kind": "paragraph",
+    "title": "c) Tần suất rà soát, đánh giá khả năng trả nợ của khách hàng...",
+    "text": "c) Tần suất rà soát, đánh giá khả năng trả nợ của khách hàng sau khi được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ theo quy định pháp luật; theo dõi, kiểm tra, kiểm soát, giám sát đối với việc cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ.",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 7 - Trách nhiệm của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",
+      "c) Tần suất rà soát, đánh giá khả năng trả nợ của khách hàng..."
+    ],
+    "parent_id": "c0043-a49b56",
+    "children_ids": [],
+    "next_id": "c0048-51c5c5",
+    "depth": 4,
+    "char_count": 250,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0048-51c5c5",
+    "kind": "list",
+    "title": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài gửi 01 (một...",
+    "text": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài gửi 01 (một) bản quy định nội bộ quy định tại khoản 2 Điều này cho Ngân hàng Nhà nước (Cơ quan Thanh tra, giám sát ngân hàng, Ngân hàng Nhà nước chi nhánh tỉnh, thành phố trực thuộc trung ương nơi đặt trụ sở chính) theo quy định pháp luật.\nTrong thời hạn 10 (mười) ngày đầu tiên của mỗi tháng, tổ chức tín dụng (trừ quỹ tín dụng nhân dân), chi nhánh ngân hàng nước ngoài phải gửi báo cáo Ngân hàng Nhà nước Việt Nam (Vụ Tín dụng các ngành kinh tế, Cơ quan Thanh tra giám sát ngân hàng) về tình hình thực hiện cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ đến ngày cuối cùng của tháng liền trước theo quy định tại Phụ lục 01 và Phụ lục 02 đính kèm Thông tư này.\nTrong thời hạn 10 (mười) ngày đầu tiên của mỗi tháng, tổ chức tín dụng là Quỹ tín dụng nhân dân phải gửi báo cáo cho Ngân hàng Nhà nước chi nhánh tỉnh, thành phố trực thuộc trung ương (sau đây gọi tắt là Ngân hàng Nhà nước chi nhánh) nơi đặt trụ sở chính về tình hình thực hiện cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ đến ngày cuối cùng của tháng liền trước theo quy định tại Phụ lục 01 và Phụ lục 02 đính kèm Thông tư này.",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 7 - Trách nhiệm của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",
+      "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài gửi 01 (một..."
+    ],
+    "parent_id": "c0043-a49b56",
+    "children_ids": [],
+    "next_id": "c0049-a8aa05",
+    "depth": 4,
+    "char_count": 1145,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0049-a8aa05",
+    "kind": "article",
+    "title": "Điều 8 - Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước Việt Nam",
+    "text": "",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 7 - Trách nhiệm của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài"
+    ],
+    "parent_id": "c0023-acf94d",
+    "children_ids": [
+      "c0050-6ea6ca",
+      "c0051-4e1423",
+      "c0052-89c3a3",
+      "c0053-a4fc70",
+      "c0054-bb594c",
+      "c0055-6b4663",
+      "c0056-ffc4c1",
+      "c0057-b2e66b",
+      "c0058-78568c"
+    ],
+    "next_id": "c0050-6ea6ca",
+    "depth": 3,
+    "char_count": 69,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0050-6ea6ca",
+    "kind": "list",
+    "title": "Trách nhiệm của Vụ Tín dụng các ngành kinh tế",
+    "text": "Trách nhiệm của Vụ Tín dụng các ngành kinh tế",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 8 - Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước Việt Nam",
+      "Trách nhiệm của Vụ Tín dụng các ngành kinh tế"
+    ],
+    "parent_id": "c0049-a8aa05",
+    "children_ids": [],
+    "next_id": "c0051-4e1423",
+    "depth": 4,
+    "char_count": 45,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0051-4e1423",
+    "kind": "paragraph",
+    "title": "a) Tổng hợp báo cáo quy định tại khoản 4 Điều 7 Thông tư này...",
+    "text": "a) Tổng hợp báo cáo quy định tại khoản 4 Điều 7 Thông tư này và điểm a khoản 3 Điều này;",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 8 - Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước Việt Nam",
+      "a) Tổng hợp báo cáo quy định tại khoản 4 Điều 7 Thông tư này..."
+    ],
+    "parent_id": "c0049-a8aa05",
+    "children_ids": [],
+    "next_id": "c0052-89c3a3",
+    "depth": 4,
+    "char_count": 88,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0052-89c3a3",
+    "kind": "paragraph",
+    "title": "b) Chủ trì, phối hợp với Vụ Chính sách tiền tệ, Cơ quan Than...",
+    "text": "b) Chủ trì, phối hợp với Vụ Chính sách tiền tệ, Cơ quan Thanh tra, giám sát ngân hàng và các đơn vị liên quan trong việc tham mưu cho Thống đốc Ngân hàng",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 8 - Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước Việt Nam",
+      "b) Chủ trì, phối hợp với Vụ Chính sách tiền tệ, Cơ quan Than..."
+    ],
+    "parent_id": "c0049-a8aa05",
+    "children_ids": [],
+    "next_id": "c0053-a4fc70",
+    "depth": 4,
+    "char_count": 153,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0053-a4fc70",
+    "kind": "paragraph",
+    "title": "Nhà nước Việt Nam xử lý các vấn đề phát sinh trong quá trình...",
+    "text": "Nhà nước Việt Nam xử lý các vấn đề phát sinh trong quá trình triển khai thực hiện.",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 8 - Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước Việt Nam",
+      "Nhà nước Việt Nam xử lý các vấn đề phát sinh trong quá trình..."
+    ],
+    "parent_id": "c0049-a8aa05",
+    "children_ids": [],
+    "next_id": "c0054-bb594c",
+    "depth": 4,
+    "char_count": 82,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0054-bb594c",
+    "kind": "list",
+    "title": "Trách nhiệm của Cơ quan Thanh tra, giám sát ngân hàng",
+    "text": "Trách nhiệm của Cơ quan Thanh tra, giám sát ngân hàng",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 8 - Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước Việt Nam",
+      "Trách nhiệm của Cơ quan Thanh tra, giám sát ngân hàng"
+    ],
+    "parent_id": "c0049-a8aa05",
+    "children_ids": [],
+    "next_id": "c0055-6b4663",
+    "depth": 4,
+    "char_count": 53,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0055-6b4663",
+    "kind": "paragraph",
+    "title": "Thực hiện thanh tra, giám sát việc tổ chức tín dụng, chi nhá...",
+    "text": "Thực hiện thanh tra, giám sát việc tổ chức tín dụng, chi nhánh ngân hàng nước ngoài thực hiện Thông tư này theo chức năng, nhiệm vụ.",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 8 - Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước Việt Nam",
+      "Thực hiện thanh tra, giám sát việc tổ chức tín dụng, chi nhá..."
+    ],
+    "parent_id": "c0049-a8aa05",
+    "children_ids": [],
+    "next_id": "c0056-ffc4c1",
+    "depth": 4,
+    "char_count": 132,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0056-ffc4c1",
+    "kind": "list",
+    "title": "Trách nhiệm của Ngân hàng Nhà nước chi nhánh",
+    "text": "Trách nhiệm của Ngân hàng Nhà nước chi nhánh",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 8 - Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước Việt Nam",
+      "Trách nhiệm của Ngân hàng Nhà nước chi nhánh"
+    ],
+    "parent_id": "c0049-a8aa05",
+    "children_ids": [],
+    "next_id": "c0057-b2e66b",
+    "depth": 4,
+    "char_count": 44,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0057-b2e66b",
+    "kind": "paragraph",
+    "title": "a) Trong thời hạn 15 (mười lăm) ngày đầu tiên của mỗi tháng,...",
+    "text": "a) Trong thời hạn 15 (mười lăm) ngày đầu tiên của mỗi tháng, tổng hợp báo cáo của quỹ tín dụng nhân dân trên địa bàn theo khoản 5 Điều 7 Thông tư này và gửi Vụ Tín dụng các ngành kinh tế để tổng hợp;",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 8 - Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước Việt Nam",
+      "a) Trong thời hạn 15 (mười lăm) ngày đầu tiên của mỗi tháng,..."
+    ],
+    "parent_id": "c0049-a8aa05",
+    "children_ids": [],
+    "next_id": "c0058-78568c",
+    "depth": 4,
+    "char_count": 199,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0058-78568c",
+    "kind": "paragraph",
+    "title": "b) Thực hiện thanh tra, giám sát việc tổ chức tín dụng, chi ...",
+    "text": "b) Thực hiện thanh tra, giám sát việc tổ chức tín dụng, chi nhánh ngân hàng nước ngoài thực hiện Thông tư này theo chức năng, nhiệm vụ.",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 8 - Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước Việt Nam",
+      "b) Thực hiện thanh tra, giám sát việc tổ chức tín dụng, chi ..."
+    ],
+    "parent_id": "c0049-a8aa05",
+    "children_ids": [],
+    "next_id": "c0059-7a363d",
+    "depth": 4,
+    "char_count": 135,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0059-7a363d",
+    "kind": "chapter",
+    "title": "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+    "text": "",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 8 - Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước Việt Nam"
+    ],
+    "parent_id": "c0001-535e30",
+    "children_ids": [
+      "c0060-6c80e2",
+      "c0062-90a56d"
+    ],
+    "next_id": "c0060-6c80e2",
+    "depth": 1,
+    "char_count": 35,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0060-6c80e2",
+    "kind": "article",
+    "title": "Điều 9 - Hiệu lực thi hành",
+    "text": "",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:"
+    ],
+    "parent_id": "c0059-7a363d",
+    "children_ids": [
+      "c0061-60117a"
+    ],
+    "next_id": "c0061-60117a",
+    "depth": 3,
+    "char_count": 26,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0061-60117a",
+    "kind": "paragraph",
+    "title": "Thông tư này có hiệu lực kể từ ngày 24 tháng 4 năm 2023.",
+    "text": "Thông tư này có hiệu lực kể từ ngày 24 tháng 4 năm 2023.",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 9 - Hiệu lực thi hành",
+      "Thông tư này có hiệu lực kể từ ngày 24 tháng 4 năm 2023."
+    ],
+    "parent_id": "c0060-6c80e2",
+    "children_ids": [],
+    "next_id": "c0062-90a56d",
+    "depth": 4,
+    "char_count": 56,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0062-90a56d",
+    "kind": "article",
+    "title": "Điều 10 - Tổ chức thực hiện",
+    "text": "",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 9 - Hiệu lực thi hành"
+    ],
+    "parent_id": "c0059-7a363d",
+    "children_ids": [
+      "c0063-099fcc",
+      "c0064-5de918",
+      "c0065-632d36",
+      "c0066-778c09",
+      "c0067-55bf35",
+      "c0068-360feb",
+      "c0069-2c1969",
+      "c0070-30edd8",
+      "c0071-e969dd",
+      "c0072-8a812d",
+      "c0073-93f080",
+      "c0074-ca5605",
+      "c0075-7181d9",
+      "c0076-6d4a82",
+      "c0077-fedcef",
+      "c0078-f8735e",
+      "c0079-4d5af3",
+      "c0080-8fbea7",
+      "c0081-dd4b7c",
+      "c0082-839ca1",
+      "c0083-f1caaa",
+      "c0084-572721",
+      "c0085-e1659a",
+      "c0086-1a7609",
+      "c0087-1c21f5",
+      "c0088-865e50",
+      "c0089-c15461",
+      "c0090-203bd8",
+      "c0091-6d25cd"
+    ],
+    "next_id": "c0063-099fcc",
+    "depth": 3,
+    "char_count": 27,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0063-099fcc",
+    "kind": "paragraph",
+    "title": "Chánh Văn phòng, Vụ trưởng Vụ Tín dụng các ngành kinh tế, Ch...",
+    "text": "Chánh Văn phòng, Vụ trưởng Vụ Tín dụng các ngành kinh tế, Chánh Thanh tra giám sát, ngân hàng, Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, Giám đốc Ngân hàng Nhà nước chi nhánh, Chủ tịch Hội đồng quản trị, Chủ tịch Hội đồng thành viên và Tổng Giám đốc (Giám đốc) tổ chức tín dụng, chi nhánh ngân hàng nước ngoài chịu trách nhiệm tổ chức thực hiện Thông tư này.",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Chánh Văn phòng, Vụ trưởng Vụ Tín dụng các ngành kinh tế, Ch..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0064-5de918",
+    "depth": 4,
+    "char_count": 373,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0064-5de918",
+    "kind": "paragraph",
+    "title": "Nơi nhận:",
+    "text": "Nơi nhận:",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Nơi nhận:"
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0065-632d36",
+    "depth": 4,
+    "char_count": 9,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0065-632d36",
+    "kind": "list",
+    "title": "Như Điều 10;\nBan lãnh đạo NHNN;\nVăn phòng Chính phủ;\nBộ Tư p...",
+    "text": "Như Điều 10;\nBan lãnh đạo NHNN;\nVăn phòng Chính phủ;\nBộ Tư pháp (để kiểm tra);\nCông báo;\nLưu VT, PC, TDCNKT (5b).",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Như Điều 10;\nBan lãnh đạo NHNN;\nVăn phòng Chính phủ;\nBộ Tư p..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0066-778c09",
+    "depth": 4,
+    "char_count": 113,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0066-778c09",
+    "kind": "paragraph",
+    "title": "KT. THỐNG ĐỐC\nPHÓ THỐNG ĐỐC",
+    "text": "KT. THỐNG ĐỐC\nPHÓ THỐNG ĐỐC",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "KT. THỐNG ĐỐC\nPHÓ THỐNG ĐỐC"
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0067-55bf35",
+    "depth": 4,
+    "char_count": 27,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0067-55bf35",
+    "kind": "paragraph",
+    "title": "Signature and stamp of the State Bank of Vietnam",
+    "text": "Signature and stamp of the State Bank of Vietnam",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Signature and stamp of the State Bank of Vietnam"
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0068-360feb",
+    "depth": 4,
+    "char_count": 48,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0068-360feb",
+    "kind": "paragraph",
+    "title": "Đào Minh Tú",
+    "text": "Đào Minh Tú",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Đào Minh Tú"
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0069-2c1969",
+    "depth": 4,
+    "char_count": 11,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0069-2c1969",
+    "kind": "paragraph",
+    "title": "(Ban hành kèm theo Thông tư số 02/2023/TT-NHNN ngày 23/4/202...",
+    "text": "(Ban hành kèm theo Thông tư số 02/2023/TT-NHNN ngày 23/4/2023 của Thống đốc Ngân hàng Nhà nước Việt Nam)",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "(Ban hành kèm theo Thông tư số 02/2023/TT-NHNN ngày 23/4/202..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0070-30edd8",
+    "depth": 4,
+    "char_count": 104,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0070-30edd8",
+    "kind": "paragraph",
+    "title": "Seal of the State Bank of Vietnam",
+    "text": "Seal of the State Bank of Vietnam",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Seal of the State Bank of Vietnam"
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0071-e969dd",
+    "depth": 4,
+    "char_count": 33,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0071-e969dd",
+    "kind": "paragraph",
+    "title": "TỔ CHỨC TÍN DỤNG, CHI NHÁNH NGÂN HÀNG NƯỚC NGOÀI",
+    "text": "TỔ CHỨC TÍN DỤNG, CHI NHÁNH NGÂN HÀNG NƯỚC NGOÀI",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "TỔ CHỨC TÍN DỤNG, CHI NHÁNH NGÂN HÀNG NƯỚC NGOÀI"
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0072-8a812d",
+    "depth": 4,
+    "char_count": 48,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0072-8a812d",
+    "kind": "paragraph",
+    "title": "Kỳ báo cáo tháng ... năm ...",
+    "text": "Kỳ báo cáo tháng ... năm ...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Kỳ báo cáo tháng ... năm ..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0073-93f080",
+    "depth": 4,
+    "char_count": 28,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0073-93f080",
+    "kind": "paragraph",
+    "title": "Đơn vị: tỷ đồng, khách hàng",
+    "text": "Đơn vị: tỷ đồng, khách hàng",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Đơn vị: tỷ đồng, khách hàng"
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0074-ca5605",
+    "depth": 4,
+    "char_count": 27,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0074-ca5605",
+    "kind": "table",
+    "title": "STT\nChỉ tiêu\nCơ cấu lại thời hạn trả nợ và giữ nguyên nhóm n...",
+    "text": "STT\nChỉ tiêu\nCơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ\nTổng dư nợ của khách hàng có số dư được cơ cấu lại thời hạn trả nợ tại cuối kỳ báo cáo\nNợ không bị chuyển sang nhóm nợ xấu do được giữ nguyên nhóm nợ\nDự phòng\nSố lãi phải thu hạch toán ngoại bảng theo quy định tại khoản 4 Điều 5 Thông tư này\nLũy kế\nTại cuối kỳ báo cáo\nTổng số dư nợ của khách hàng hàng có khoản nợ không bị chuyển sang nhóm nợ xấu do được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ tại cuối kỳ báo cáo\nTrong đó:\nSố dư nợ được cơ cấu lại thời hạn trả nợ không bị chuyển sang nhóm nợ xấu\nSố khách hàng bị chuyển sang nhóm nợ xấu tại cuối kỳ báo cáo\nSố tiền dự phòng phải trích tại cuối kỳ báo cáo\nTrong đó:\nSố tiền dự phòng đã trích\nTổng giá trị nợ đã được cơ cấu lại thời hạn trả nợ lũy kế\nSố lượt khách hàng được cơ cấu lại thời hạn trả nợ lũy kế (gốc và/hoặc lãi)\nDư nợ được cơ cấu lại thời hạn trả nợ tại cuối kỳ báo cáo\nSố khách hàng được cơ cấu lại thời hạn trả nợ tại cuối kỳ báo cáo (gốc và/hoặc lãi)\nGốc\nLãi\nGốc\nLãi\n(1)\n(2)\n(3)\n(4)\n(5)\n(6)\n(7)\n(8)\n(9)\n(10)\n(11)\n(12)\n(13)\n(14)\n(15)\nI\nPhân theo khách hàng\n1\nCá nhân\n2\nDoanh nghiệp\n3\nHợp tác xã, liên hiệp hợp tác xã\n4\nKhác\nII\nPhân theo mục đích vay vốn\n1\nPhục vụ nhu cầu đời sống, tiêu dùng\n2\nPhục vụ hoạt động sản xuất kinh doanh\nIII\nPhân theo 21 ngành kinh tế\n1\nNông nghiệp, lâm nghiệp và thủy sản\n2\nKhai khoáng",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "STT\nChỉ tiêu\nCơ cấu lại thời hạn trả nợ và giữ nguyên nhóm n..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0075-7181d9",
+    "depth": 4,
+    "char_count": 1354,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0075-7181d9",
+    "kind": "paragraph",
+    "title": "vauay",
+    "text": "vauay",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "vauay"
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0076-6d4a82",
+    "depth": 4,
+    "char_count": 5,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0076-6d4a82",
+    "kind": "table",
+    "title": "STT\nChỉ tiêu\nCơ cấu lại thời hạn trả nợ và giữ nguyên nhóm n...",
+    "text": "STT\nChỉ tiêu\nCơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ\nTổng dư nợ của khách hàng có số dư được cơ cấu lại thời hạn trả nợ tại cuối kỳ báo cáo\nNợ không bị chuyển sang nhóm nợ xấu do được giữ nguyên nhóm nợ\nDự phòng\nSố lãi phải thu hạch toán ngoại bảng theo quy định tại khoản 4 Điều 5 Thông tư này\nLũy kế\nTại cuối kỳ báo cáo\nTổng số dư nợ của khách hàng có khoản nợ không bị chuyển sang nhóm nợ xấu do được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ tại cuối kỳ báo cáo\nTrong đó:\nSố khách hàng bị chuyển sang nhóm nợ xấu tại cuối kỳ báo cáo\nSố tiền dự phòng phải trích tại cuối kỳ báo cáo\nTrong đó:\nTổng giá trị nợ đã được cơ cấu lại thời hạn trả nợ lũy kế\nSố lượt khách hàng được cơ cấu lại thời hạn trả nợ lũy kế (gốc và/hoặc lãi)\nDư nợ được cơ cấu lại thời hạn trả nợ tại cuối kỳ báo cáo\nSố khách hàng được cơ cấu lại thời hạn trả nợ tại cuối kỳ báo cáo (gốc và/hoặc lãi)\nSố dư nợ được cơ cấu lại thời hạn trả nợ không bị chuyển sang nhóm nợ xấu\nSố tiền dự phòng đã trích\nGốc\nLãi\nGốc\nLãi\n(1)\n(2)\n(3)\n(4)\n(5)\n(6)\n(7)\n(8)\n(9)\n(10)\n(11)\n(12)\n(13)\n(14)\n(15)\n3\nCông nghiệp chế biến, chế tạo\n4\nSản xuất và phân phối điện, khí đốt, nước nóng, hơi nước và điều hoà không khí\n5\nCung cấp nước; hoạt động quản lý và xử lý rác thải, nước thải.\n6\nXây dựng\n7\nBán buôn và bán lẻ; sửa chữa ô tô, mô tô, xe máy và xe có động cơ khác\n8\nVận tải kho bãi\n9\nDịch vụ lưu trú và ăn uống\n10\nThông tin và truyền thông\n11\nHoạt động tài chính, ngân hàng và bảo hiểm\n12\nHoạt động kinh doanh bất động sản\n13\nHoạt động chuyên môn, khoa học và công nghệ\n14\nHoạt động hành chính và dịch vụ hỗ trợ",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "STT\nChỉ tiêu\nCơ cấu lại thời hạn trả nợ và giữ nguyên nhóm n..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0077-fedcef",
+    "depth": 4,
+    "char_count": 1578,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0077-fedcef",
+    "kind": "table",
+    "title": "STT\nChi tiêu\nCơ cấu lại thời hạn trả nợ và giữ nguyên nhóm n...",
+    "text": "STT\nChi tiêu\nCơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ\nTổng dư nợ của khách hàng có số dư được cơ cấu lại thời hạn trả nợ tại cuối kỳ báo cáo\nNợ không bị chuyển sang nhóm nợ xấu do được giữ nguyên nhóm nợ\nDự phòng\nSố lãi phải thu hạch toán ngoại bảng theo quy định tại khoản 4 Điều 5 Thông tư này\nLũy kế\nTại cuối kỳ báo cáo\nTổng số dư nợ của khách hàng có khoản nợ không bị chuyển sang nhóm nợ xấu do được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ tại cuối kỳ báo cáo\nTrong đó:\nSố dư nợ được cơ cấu lại thời hạn trả nợ không bị chuyển sang nhóm nợ xấu\nSố khách hàng không bị chuyển sang nhóm nợ xấu tại cuối kỳ báo cáo\nSố tiền dự phòng phải trích tại cuối kỳ báo cáo\nTrong đó:\nSố tiền dự phòng đã trích\nTổng giá trị nợ đã được cơ cấu lại thời hạn trả nợ lũy kế\nSố lượt khách hàng được cơ cấu lại thời hạn trả nợ lũy kế (gốc và/hoặc lãi)\nDư nợ được cơ cấu lại thời hạn trả nợ tại cuối kỳ báo cáo\nSố khách hàng được cơ cấu lại thời hạn trả nợ tại cuối kỳ báo cáo (gốc và/hoặc lãi)\nGốc\nLãi\nGốc\nLãi\n(1)\n(2)\n(3)\n(4)\n(5)\n(6)\n(7)\n(8)\n(9)\n(10)\n(11)\n(12)\n(13)\n(14)\n(15)\n15\nHoạt động của đảng Cộng sản, tổ chức chính trị - xã hội, quản lý nhà nước, an ninh quốc phòng; bảo đảm xã hội bắt buộc\n16\nGiáo dục và đào tạo\n17\nY tế và hoạt động trợ giúp xã hội\n18\nNghệ thuật, vui chơi và giải trí\n19\nHoạt động dịch vụ khác\n20\nHoạt động làm thuê các công việc trong các hộ gia đình, sản xuất sản phẩm vật chất và dịch vụ tự tiêu dùng của hộ gia đình\n21\nHoạt động của các tổ chức và cơ quan quốc tế",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "STT\nChi tiêu\nCơ cấu lại thời hạn trả nợ và giữ nguyên nhóm n..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0078-f8735e",
+    "depth": 4,
+    "char_count": 1492,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0078-f8735e",
+    "kind": "paragraph",
+    "title": "HƯỚNG DẪN LẬP BÁO CÁO:",
+    "text": "HƯỚNG DẪN LẬP BÁO CÁO:",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "HƯỚNG DẪN LẬP BÁO CÁO:"
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0079-4d5af3",
+    "depth": 4,
+    "char_count": 22,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0079-4d5af3",
+    "kind": "list",
+    "title": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài (gọi chung ...",
+    "text": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài (gọi chung là tổ chức tín dụng) báo cáo thông qua Hệ thống báo cáo thống kê tập trung của Ngân hàng Nhà nước Việt Nam, bao gồm số liệu toàn hệ thống và số liệu từng chi nhánh tổ chức tín dụng, chi nhánh ngân hàng nước ngoài.\nTổ chức tín dụng thực hiện báo cáo định kỳ hàng tháng theo quy định tại Khoản 4, Khoản 5 Điều 7 Thông tư này.\nCột (3): Lũy kế từ ngày Thông tư này có hiệu lực, tổng giá trị nợ gốc phát sinh nghĩa vụ trả nợ trong khoảng thời gian quy định tại khoản 2 Điều 4 Thông tư này đã được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ (lưu ý chỉ báo cáo nợ gốc phát sinh nghĩa vụ trả nợ trong khoảng thời gian quy định tại khoản 2 Điều 4 Thông tư này, không phải toàn bộ dư nợ của khoản nợ).\nCột (4): Lũy kế từ ngày Thông tư này có hiệu lực, số tiền lãi đã được cơ cấu lại thời hạn trả nợ được thực hiện theo Thông tư này.",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài (gọi chung ..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0080-8fbea7",
+    "depth": 4,
+    "char_count": 888,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0080-8fbea7",
+    "kind": "paragraph",
+    "title": "signature",
+    "text": "signature",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "signature"
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0081-dd4b7c",
+    "depth": 4,
+    "char_count": 9,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0081-dd4b7c",
+    "kind": "table",
+    "title": "Cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ\nNợ không bị...",
+    "text": "Cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ\nNợ không bị chuyển sang nhóm nợ xấu do được giữ nguyên nhóm nợ\nDự phòng\nLũy kế\nTại cuối kỳ báo cáo\nTổng giá trị nợ đã được cơ cấu lại thời hạn trả nợ lũy kế\nSố lượt khách hàng được cơ cấu lại thời hạn trả nợ lũy kế (gốc và/hoặc lãi)\nDư nợ được cơ cấu lại thời hạn trả nợ tại cuối kỳ báo cáo\nSố khách hàng được cơ cấu lại thời hạn trả nợ tại cuối kỳ báo cáo (gốc và/hoặc lãi)\nTổng dư nợ của khách hàng có số dư được cơ cấu lại thời hạn trả nợ tại cuối kỳ báo cáo\nTổng số dư nợ của khách hàng có khoản nợ không bị chuyển sang nhóm nợ xấu do được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ tại cuối kỳ báo cáo\nTrong đó:\nSố khách hàng không bị chuyển sang nhóm nợ xấu tại cuối kỳ báo cáo\nDự phòng\nSố lãi phải thu hạch toán ngoại bảng theo quy định tại khoản 4 Điều 5 Thông tư này\nGốc\nLãi\nSố lượt khách hàng được cơ cấu lại thời hạn trả nợ lũy kế (gốc và/hoặc lãi)\nGốc\nLãi\nSố khách hàng được cơ cấu lại thời hạn trả nợ tại cuối kỳ báo cáo (gốc và/hoặc lãi)\nTổng dư nợ của khách hàng có số dư được cơ cấu lại thời hạn trả nợ tại cuối kỳ báo cáo\nTổng số dư nợ của khách hàng có khoản nợ không bị chuyển sang nhóm nợ xấu do được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ tại cuối kỳ báo cáo\nSố dư nợ được cơ cấu lại thời hạn trả nợ không bị chuyển sang nhóm nợ xấu\nSố khách hàng không bị chuyển sang nhóm nợ xấu tại cuối kỳ báo cáo\nSố tiền dự phòng phải trích tại cuối kỳ báo cáo\nSố tiền dự phòng đã trích\nSố lãi phải thu hạch toán ngoại bảng theo quy định tại khoản 4 Điều 5 Thông tư này\n(1)\n(2)\n(3)\n(4)\n(5)\n(6)\n(7)\n(8)\n(9)\n(10)\n(11)\n(12)\n(13)\n(14)\n(15)",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ\nNợ không bị..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0082-839ca1",
+    "depth": 4,
+    "char_count": 1608,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0082-839ca1",
+    "kind": "list",
+    "title": "Cột (5): Lũy kế từ ngày Thông tư có hiệu lực, số lượt khách ...",
+    "text": "Cột (5): Lũy kế từ ngày Thông tư có hiệu lực, số lượt khách hàng đã được cơ cấu lại thời hạn trả nợ (gốc và/hoặc lãi) và giữ nguyên nhóm nợ được thực hiện theo Thông tư này.\nCột (6): Số dư nợ gốc phát sinh nghĩa vụ trả nợ trong khoảng thời gian quy định tại khoản 2 Điều 4 Thông tư này được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ tại cuối kỳ báo cáo (lưu ý chỉ báo cáo nợ gốc phát sinh nghĩa vụ trả nợ trong khoảng thời gian quy định tại khoản 2 Điều 4 Thông tư này, không phải toàn bộ dư nợ của khoản nợ; trường hợp đã kết thúc thời hạn cơ cấu nhưng khách hàng chưa trả hết nợ được cơ cấu thì báo cáo số dư nợ cơ cấu còn lại thực tế tại cuối kỳ báo cáo).\nCột (7): Số tiền lãi được cơ cấu lại thời hạn trả nợ được thực hiện theo Thông tư này tại cuối kỳ báo cáo. (Lưu ý trường hợp đã kết thúc thời hạn cơ cấu nhưng khách hàng chưa trả hết tiền lãi được cơ cấu, tổ chức tín dụng báo cáo số tiền lãi được cơ cấu còn lại thực tế tại cuối kỳ báo cáo).\nCột (8): Số khách hàng được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ (gốc và/hoặc lãi) tại cuối kỳ báo cáo (tương ứng với số liệu tại cột 6, cột 7).\nCột (9): Tổng dư nợ (gốc và lãi) của khách hàng có số dư được cơ cấu lại thời hạn trả nợ theo Thông tư này tại cuối kỳ báo cáo (tương ứng với các khách hàng được thống kê tại cột 8).\nCột (10): Tổng dư nợ gốc của khách hàng có khoản nợ có số dư nợ đã được cơ cấu lại thời hạn trả nợ theo quy định tại Thông tư này đang được phân loại ở nhóm 1, 2 nhưng sẽ phải chuyển sang nhóm 3, 4, 5 nếu thực hiện phân loại lại theo quy định của Ngân hàng Nhà nước Việt Nam về phân loại nợ, trích lập và sử dụng dự phòng để xử lý rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài tại cuối kỳ báo cáo.\nCột (11): Số dư nợ gốc được cơ cấu lại thời hạn trả nợ theo quy định tại Thông tư này của khách hàng được thống kê tại cột 8 đang được phân loại ở nhóm 1, 2 nhưng sẽ phải chuyển sang nhóm 3, 4, 5 nếu thực hiện phân loại lại theo quy định của Ngân hàng Nhà nước Việt Nam về phân loại nợ, trích lập và sử dụng dự phòng để xử lý rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài tại cuối kỳ báo cáo.\nCột (12): Tổng số khách hàng có số dư nợ được thống kê tại cột 11 tại cuối kỳ báo cáo.\nCột (13): Tổng số tiền dự phòng phải trích của các khách hàng có số nợ được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ theo quy định tại Khoản 1 Điều 6 Thông tư này tại cuối kỳ báo cáo.\nCột (14): Tổng số tiền dự phòng đã trích của các khách hàng có số nợ được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ theo quy định tại khoản 2 Điều 6 Thông tư này tại cuối kỳ báo cáo.\nCột (15): Số lãi phải thu theo dõi ngoại bảng của các khách hàng được thống kê tại cột 8 đối với số dư nợ được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ theo quy định tại khoản 4 Điều 5 Thông tư này.\nDòng II báo cáo số liệu phân theo mục đích cho vay: (1) Phục vụ nhu cầu đời sống, tiêu dùng (theo quy định tại Thông tư 39/2016/TT-NHNN và Thông tư số 43/2016/TT-NHNN); (2) Phục vụ hoạt động sản xuất, kinh doanh (là khoản cho vay/cho thuê tài chính nhằm phục vụ các mục đích ngoài mục đích tại dòng II.1).\nDòng III báo cáo số liệu phân theo 21 ngành kinh tế theo quy định tại Quyết định 27/2018/QĐ-TTg ngày 06/7/2018 của Thủ tướng Chính phủ ban hành hệ thống ngành kinh tế Việt Nam.",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Cột (5): Lũy kế từ ngày Thông tư có hiệu lực, số lượt khách ..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0083-f1caaa",
+    "depth": 4,
+    "char_count": 3307,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0083-f1caaa",
+    "kind": "paragraph",
+    "title": "PHỤ LỤC 02",
+    "text": "PHỤ LỤC 02",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "PHỤ LỤC 02"
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0084-572721",
+    "depth": 4,
+    "char_count": 10,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0084-572721",
+    "kind": "paragraph",
+    "title": "(Ban hành kèm theo Thông tư số 02/2023/TT-NHNN ngày 23/4/202...",
+    "text": "(Ban hành kèm theo Thông tư số 02/2023/TT-NHNN ngày 23/4/2023 của Thống đốc Ngân hàng Nhà nước Việt Nam)",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "(Ban hành kèm theo Thông tư số 02/2023/TT-NHNN ngày 23/4/202..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0085-e1659a",
+    "depth": 4,
+    "char_count": 104,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0085-e1659a",
+    "kind": "paragraph",
+    "title": "Seal of the State Bank of Vietnam",
+    "text": "Seal of the State Bank of Vietnam",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Seal of the State Bank of Vietnam"
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0086-1a7609",
+    "depth": 4,
+    "char_count": 33,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0086-1a7609",
+    "kind": "paragraph",
+    "title": "TỔ CHỨC TÍN DỤNG, CHI NHÁNH NGÂN HÀNG NƯỚC NGOÀI",
+    "text": "TỔ CHỨC TÍN DỤNG, CHI NHÁNH NGÂN HÀNG NƯỚC NGOÀI",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "TỔ CHỨC TÍN DỤNG, CHI NHÁNH NGÂN HÀNG NƯỚC NGOÀI"
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0087-1c21f5",
+    "depth": 4,
+    "char_count": 48,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0087-1c21f5",
+    "kind": "paragraph",
+    "title": "Kỳ báo cáo tháng ... năm ...",
+    "text": "Kỳ báo cáo tháng ... năm ...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Kỳ báo cáo tháng ... năm ..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0088-865e50",
+    "depth": 4,
+    "char_count": 28,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0088-865e50",
+    "kind": "paragraph",
+    "title": "Đơn vị: khách hàng",
+    "text": "Đơn vị: khách hàng",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Đơn vị: khách hàng"
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0089-c15461",
+    "depth": 4,
+    "char_count": 18,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0089-c15461",
+    "kind": "table",
+    "title": "STT\nChi tiêu\nSố lũy kế đến thời điểm cuối kỳ báo cáo\nSố phát...",
+    "text": "STT\nChi tiêu\nSố lũy kế đến thời điểm cuối kỳ báo cáo\nSố phát sinh trong kỳ báo cáo\nTổng số khách hàng có đề nghị được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ lũy kế\nTrong đó:\nTổng số khách hàng có đề nghị được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ trong kỳ báo cáo\nTrong đó:\nSố khách hàng được cơ cấu lại thời hạn trả nợ (gốc và/hoặc lãi) và giữ nguyên nhóm nợ lũy kế\nSố khách hàng không được cơ cấu lại thời hạn trả nợ lũy kế\nSố khách hàng được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ tại cuối kỳ báo cáo (gốc và/hoặc lãi)\nSố khách hàng không được cơ cấu lại thời hạn trả nợ tại cuối kỳ báo cáo\nNguyên nhân TCTD không cơ cấu lại thời hạn trả nợ cho khách hàng (nêu nguyên nhân chính, chủ yếu)\n(1)\n(2)\n(3)\n(4)\n(5)\n(6)\n(7)\n(8)\n(9)\n1\nCá nhân\n2\nDoanh nghiệp\n3\nHợp tác xã, liên hiệp hợp tác xã\n4\nKhác\nTỔNG CỘNG",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "STT\nChi tiêu\nSố lũy kế đến thời điểm cuối kỳ báo cáo\nSố phát..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0090-203bd8",
+    "depth": 4,
+    "char_count": 835,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0090-203bd8",
+    "kind": "list",
+    "title": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài (gọi chung ...",
+    "text": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài (gọi chung là tổ chức tín dụng) báo cáo thông qua hệ thống báo cáo thống kê tập trung của Ngân hàng Nhà nước Việt Nam số liệu toàn hệ thống.\nTổ chức tín dụng thực hiện báo cáo định kỳ hàng tháng theo quy định tại Khoản 4, Khoản 5 Điều 7 Thông tư này.\nCột (3): Lũy kế từ ngày Thông tư có hiệu lực đến thời điểm cuối kỳ báo cáo, Tổng số khách hàng đề nghị tổ chức tín dụng xem xét cơ cấu lại thời hạn trả nợ theo Thông tư này.\nCột (4): Lũy kế từ ngày Thông tư có hiệu lực đến thời điểm cuối kỳ báo cáo, số khách hàng đã được cơ cấu lại thời hạn trả nợ (gốc và/hoặc lãi) và giữ nguyên nhóm nợ được thực hiện theo Thông tư này.\nCột (5): Lũy kế từ ngày Thông tư có hiệu lực đến thời điểm cuối kỳ báo cáo, số khách hàng không được chấp thuận cơ cấu lại thời hạn trả nợ (gốc và/hoặc lãi) theo quy định tại Thông tư này\nCột (6): Tổng số khách hàng có đề nghị được cơ cấu lại thời hạn trả nợ theo Thông tư này trong kỳ báo cáo.\nCột (7): Số khách hàng được cơ cấu lại thời hạn trả nợ (gốc và/hoặc lãi) và giữ nguyên nhóm nợ theo quy định tại Thông tư này tại cuối kỳ báo cáo.\nCột (8): Số khách hàng không được tổ chức tín dụng chấp thuận cơ cấu lại thời hạn trả nợ (gốc và/hoặc lãi) tại cuối kỳ báo cáo\nCột (9): Nguyên nhân tổ chức tín dụng không chấp thuận đề nghị cơ cấu lại thời hạn trả nợ của khách hàng (chỉ nêu nguyên nhân chính, chủ yếu)\nDòng Tổng cộng = Dòng (1) + (2) + (3) + (4)",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài (gọi chung ..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0091-6d25cd",
+    "depth": 4,
+    "char_count": 1427,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0091-6d25cd",
+    "kind": "paragraph",
+    "title": "vuan",
+    "text": "vuan",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "vuan"
+    ],
+    "parent_id": "c0062-90a56d",
+    "children_ids": [],
+    "next_id": "c0001-535e30",
+    "depth": 4,
+    "char_count": 4,
+    "source_doc": "TT_02_2023_NHNN.md"
+  }
+]

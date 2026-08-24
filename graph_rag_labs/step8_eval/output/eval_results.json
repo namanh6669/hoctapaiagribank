@@ -1,0 +1,1294 @@
+[
+  {
+    "id": "Q1",
+    "query": "Nghị định 46/2023/NĐ-CP thay thế cho nghị định nào, và nghị định bị thay thế đó có nội dung gì nổi bật về kinh doanh bảo hiểm?",
+    "expected": "Nghị định 46/2023 thay thế Nghị định 90/2013. NĐ 90/2013 quy định chi tiết về kinh doanh bảo hiểm, tổ chức và hoạt động của doanh nghiệp bảo hiểm.",
+    "runs": [
+      {
+        "num_hops": 0,
+        "n_docs": 2,
+        "n_chunks": 4,
+        "chunk_sources": [
+          {
+            "source": "vector",
+            "score": 0.9406353831291199,
+            "kind": "paragraph",
+            "doc_id": "c0001-9d3d51"
+          },
+          {
+            "source": "vector",
+            "score": 0.9314395189285278,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9311093091964722,
+            "kind": "paragraph",
+            "doc_id": "c0001-9d3d51"
+          },
+          {
+            "source": "vector",
+            "score": 0.9310637712478638,
+            "kind": "article",
+            "doc_id": "c0001-9d3d51"
+          }
+        ],
+        "document_paths": [
+          {
+            "doc_id": "c0001-9d3d51",
+            "title": "Thông tư 02/2023/TT-NHNN",
+            "hops": 0,
+            "via": null
+          },
+          {
+            "doc_id": "c0001-66de38",
+            "title": "Thông tư 06/2023/TT-NHNN",
+            "hops": 0,
+            "via": null
+          }
+        ],
+        "answer": "[LLM unavailable: ClientError]",
+        "elapsed_ms": 0.0,
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.7-flash\\nPlease retry in 43.297805898s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.7-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '43s'}]}}",
+        "status": "llm-unavailable"
+      },
+      {
+        "num_hops": 1,
+        "n_docs": 8,
+        "n_chunks": 7,
+        "chunk_sources": [
+          {
+            "source": "vector",
+            "score": 0.9406353831291199,
+            "kind": "paragraph",
+            "doc_id": "c0001-9d3d51"
+          },
+          {
+            "source": "vector",
+            "score": 0.9314395189285278,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9311093091964722,
+            "kind": "paragraph",
+            "doc_id": "c0001-9d3d51"
+          },
+          {
+            "source": "vector",
+            "score": 0.9310637712478638,
+            "kind": "article",
+            "doc_id": "c0001-9d3d51"
+          },
+          {
+            "source": "hop:1",
+            "score": 0.85,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "hop:1",
+            "score": 0.85,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "hop:1",
+            "score": 0.85,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          }
+        ],
+        "document_paths": [
+          {
+            "doc_id": "c0001-9d3d51",
+            "title": "Thông tư 02/2023/TT-NHNN",
+            "hops": 0,
+            "via": null
+          },
+          {
+            "doc_id": "c0001-66de38",
+            "title": "Thông tư 06/2023/TT-NHNN",
+            "hops": 0,
+            "via": null
+          },
+          {
+            "doc_id": "doc-quy-dinh-cua-thong-doc-ngan-hang-nha-nuoc-viet-nam-ve-trich-lap-du-phong-rui-ro-trong-hoat-dong-cua-to-chuc-tin-dung-chi-nhanh-ngan-hang",
+            "title": "quy định của Thống đốc Ngân hàng Nhà nước Việt Nam về trích lập dự phòng rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "doc-nghi-quyet-so-50-nq-cp-ngay-08-4-2023-cua-chinh-phu-ve-hoi-nghi-chinh-phu-voi-dia-phuong",
+            "title": "Nghị quyết số 50/NQ-CP ngày 08/4/2023 của Chính phủ về hội nghị Chính phủ với địa phương và phiên họp thường kỳ Chính phủ tháng 3 năm 2023 và Nghị quyết số 59/NQ-CP ngày 23/4/2023 của Chính phủ về giải pháp hỗ trợ tháo gỡ khó khăn cho khách hàng vay phục vụ nhu cầu đời sống, tiêu dùng;*",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "102/2022/NĐ-CP",
+            "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;*",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "doc-luat-cac-to-chuc-tin-dung",
+            "title": "Luật Các tổ chức tín dụng",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "doc-luat-ngan-hang-nha-nuoc-viet-nam",
+            "title": "Luật Ngân hàng Nhà nước Việt Nam",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "c0001-1d15c8",
+            "title": "Thông tư 39/2016/TT-NHNN",
+            "hops": 1,
+            "via": "THAY_THE"
+          }
+        ],
+        "answer": "[LLM unavailable: ClientError]",
+        "elapsed_ms": 0.0,
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.7-flash\\nPlease retry in 12.105841256s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.7-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12s'}]}}",
+        "status": "llm-unavailable"
+      },
+      {
+        "num_hops": 2,
+        "n_docs": 9,
+        "n_chunks": 7,
+        "chunk_sources": [
+          {
+            "source": "vector",
+            "score": 0.9406353831291199,
+            "kind": "paragraph",
+            "doc_id": "c0001-9d3d51"
+          },
+          {
+            "source": "vector",
+            "score": 0.9314395189285278,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9311093091964722,
+            "kind": "paragraph",
+            "doc_id": "c0001-9d3d51"
+          },
+          {
+            "source": "vector",
+            "score": 0.9310637712478638,
+            "kind": "article",
+            "doc_id": "c0001-9d3d51"
+          },
+          {
+            "source": "hop:1",
+            "score": 0.85,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "hop:1",
+            "score": 0.85,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "hop:1",
+            "score": 0.85,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          }
+        ],
+        "document_paths": [
+          {
+            "doc_id": "c0001-9d3d51",
+            "title": "Thông tư 02/2023/TT-NHNN",
+            "hops": 0,
+            "via": null
+          },
+          {
+            "doc_id": "c0001-66de38",
+            "title": "Thông tư 06/2023/TT-NHNN",
+            "hops": 0,
+            "via": null
+          },
+          {
+            "doc_id": "doc-quy-dinh-cua-thong-doc-ngan-hang-nha-nuoc-viet-nam-ve-trich-lap-du-phong-rui-ro-trong-hoat-dong-cua-to-chuc-tin-dung-chi-nhanh-ngan-hang",
+            "title": "quy định của Thống đốc Ngân hàng Nhà nước Việt Nam về trích lập dự phòng rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "doc-nghi-quyet-so-50-nq-cp-ngay-08-4-2023-cua-chinh-phu-ve-hoi-nghi-chinh-phu-voi-dia-phuong",
+            "title": "Nghị quyết số 50/NQ-CP ngày 08/4/2023 của Chính phủ về hội nghị Chính phủ với địa phương và phiên họp thường kỳ Chính phủ tháng 3 năm 2023 và Nghị quyết số 59/NQ-CP ngày 23/4/2023 của Chính phủ về giải pháp hỗ trợ tháo gỡ khó khăn cho khách hàng vay phục vụ nhu cầu đời sống, tiêu dùng;*",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "102/2022/NĐ-CP",
+            "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;*",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "doc-luat-cac-to-chuc-tin-dung",
+            "title": "Luật Các tổ chức tín dụng",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "doc-luat-ngan-hang-nha-nuoc-viet-nam",
+            "title": "Luật Ngân hàng Nhà nước Việt Nam",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "c0001-1d15c8",
+            "title": "Thông tư 39/2016/TT-NHNN",
+            "hops": 1,
+            "via": "THAY_THE"
+          },
+          {
+            "doc_id": "156/2013/NĐ-CP",
+            "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam",
+            "hops": 2,
+            "via": "THAY_THE"
+          }
+        ],
+        "answer": "[LLM unavailable: ClientError]",
+        "elapsed_ms": 0.0,
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.7-flash\\nPlease retry in 41.102739244s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.7-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '41s'}]}}",
+        "status": "llm-unavailable"
+      }
+    ]
+  },
+  {
+    "id": "Q2",
+    "query": "Văn bản hợp nhất số 52/VBHN-NHNN được hợp nhất từ văn bản nào, và quy định về hồ sơ, thủ tục cấp giấy phép lần đầu của ngân hàng thương mại gồm những tài liệu gì?",
+    "expected": "VBHN 52/2020 hợp nhất từ Thông tư 22/2014 và các văn bản sửa đổi. Hồ sơ cấp giấy phép lần đầu gồm: đơn đề nghị, đề án thành lập, phương án kinh doanh 5 năm, vốn điều lệ tối thiểu, v.v.",
+    "runs": [
+      {
+        "num_hops": 0,
+        "n_docs": 2,
+        "n_chunks": 4,
+        "chunk_sources": [
+          {
+            "source": "vector",
+            "score": 0.9218364953994751,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9111665487289429,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "vector",
+            "score": 0.9109290242195129,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "vector",
+            "score": 0.9107952117919922,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          }
+        ],
+        "document_paths": [
+          {
+            "doc_id": "c0001-66de38",
+            "title": "Thông tư 06/2023/TT-NHNN",
+            "hops": 0,
+            "via": null
+          },
+          {
+            "doc_id": "c0001-1d15c8",
+            "title": "Thông tư 39/2016/TT-NHNN",
+            "hops": 0,
+            "via": null
+          }
+        ],
+        "answer": "[LLM unavailable: ClientError]",
+        "elapsed_ms": 0.0,
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.7-flash\\nPlease retry in 9.88196671s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.7-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '9s'}]}}",
+        "status": "llm-unavailable"
+      },
+      {
+        "num_hops": 1,
+        "n_docs": 6,
+        "n_chunks": 4,
+        "chunk_sources": [
+          {
+            "source": "vector",
+            "score": 0.9218364953994751,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9111665487289429,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "vector",
+            "score": 0.9109290242195129,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "vector",
+            "score": 0.9107952117919922,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          }
+        ],
+        "document_paths": [
+          {
+            "doc_id": "c0001-66de38",
+            "title": "Thông tư 06/2023/TT-NHNN",
+            "hops": 0,
+            "via": null
+          },
+          {
+            "doc_id": "c0001-1d15c8",
+            "title": "Thông tư 39/2016/TT-NHNN",
+            "hops": 0,
+            "via": null
+          },
+          {
+            "doc_id": "102/2022/NĐ-CP",
+            "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;*",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "doc-luat-cac-to-chuc-tin-dung",
+            "title": "Luật Các tổ chức tín dụng",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "doc-luat-ngan-hang-nha-nuoc-viet-nam",
+            "title": "Luật Ngân hàng Nhà nước Việt Nam",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "156/2013/NĐ-CP",
+            "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam",
+            "hops": 1,
+            "via": "CAN_CU"
+          }
+        ],
+        "answer": "[LLM unavailable: ClientError]",
+        "elapsed_ms": 0.0,
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.7-flash\\nPlease retry in 38.86938394s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.7-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '38s'}]}}",
+        "status": "llm-unavailable"
+      },
+      {
+        "num_hops": 2,
+        "n_docs": 7,
+        "n_chunks": 7,
+        "chunk_sources": [
+          {
+            "source": "vector",
+            "score": 0.9218364953994751,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9111665487289429,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "vector",
+            "score": 0.9109290242195129,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "vector",
+            "score": 0.9107952117919922,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "hop:2",
+            "score": 0.7224999999999999,
+            "kind": "list",
+            "doc_id": "c0001-9d3d51"
+          },
+          {
+            "source": "hop:2",
+            "score": 0.7224999999999999,
+            "kind": "list",
+            "doc_id": "c0001-9d3d51"
+          },
+          {
+            "source": "hop:2",
+            "score": 0.7224999999999999,
+            "kind": "table",
+            "doc_id": "c0001-9d3d51"
+          }
+        ],
+        "document_paths": [
+          {
+            "doc_id": "c0001-66de38",
+            "title": "Thông tư 06/2023/TT-NHNN",
+            "hops": 0,
+            "via": null
+          },
+          {
+            "doc_id": "c0001-1d15c8",
+            "title": "Thông tư 39/2016/TT-NHNN",
+            "hops": 0,
+            "via": null
+          },
+          {
+            "doc_id": "102/2022/NĐ-CP",
+            "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;*",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "doc-luat-cac-to-chuc-tin-dung",
+            "title": "Luật Các tổ chức tín dụng",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "doc-luat-ngan-hang-nha-nuoc-viet-nam",
+            "title": "Luật Ngân hàng Nhà nước Việt Nam",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "156/2013/NĐ-CP",
+            "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "c0001-9d3d51",
+            "title": "Thông tư 02/2023/TT-NHNN",
+            "hops": 2,
+            "via": "CAN_CU"
+          }
+        ],
+        "answer": "[LLM unavailable: ClientError]",
+        "elapsed_ms": 0.0,
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.7-flash\\nPlease retry in 7.587211955s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.7-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '7s'}]}}",
+        "status": "llm-unavailable"
+      }
+    ]
+  },
+  {
+    "id": "Q3",
+    "query": "Thông tư số 01/2025/TT-NHNN quy định về cấp giấy phép quỹ tín dụng nhân dân được sửa đổi, bổ sung bởi văn bản nào, và những nội dung sửa đổi bổ sung chính là gì?",
+    "expected": "Thông tư 01/2025/TT-NHNN được sửa đổi bởi Thông tư 02/2025/TT-NHNN. Nội dung sửa đổi: điều kiện cấp giấy phép, mức vốn điều lệ tối thiểu, thủ tục thành lập.",
+    "runs": [
+      {
+        "num_hops": 0,
+        "n_docs": 1,
+        "n_chunks": 4,
+        "chunk_sources": [
+          {
+            "source": "vector",
+            "score": 0.9646381735801697,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9637686014175415,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9618839025497437,
+            "kind": "article",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9605187177658081,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          }
+        ],
+        "document_paths": [
+          {
+            "doc_id": "c0001-66de38",
+            "title": "Thông tư 06/2023/TT-NHNN",
+            "hops": 0,
+            "via": null
+          }
+        ],
+        "answer": "[LLM unavailable: ClientError]",
+        "elapsed_ms": 0.0,
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.7-flash\\nPlease retry in 36.752608154s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.7-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '36s'}]}}",
+        "status": "llm-unavailable"
+      },
+      {
+        "num_hops": 1,
+        "n_docs": 5,
+        "n_chunks": 7,
+        "chunk_sources": [
+          {
+            "source": "vector",
+            "score": 0.9646381735801697,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9637686014175415,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9618839025497437,
+            "kind": "article",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9605187177658081,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "hop:1",
+            "score": 0.85,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "hop:1",
+            "score": 0.85,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "hop:1",
+            "score": 0.85,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          }
+        ],
+        "document_paths": [
+          {
+            "doc_id": "c0001-66de38",
+            "title": "Thông tư 06/2023/TT-NHNN",
+            "hops": 0,
+            "via": null
+          },
+          {
+            "doc_id": "c0001-1d15c8",
+            "title": "Thông tư 39/2016/TT-NHNN",
+            "hops": 1,
+            "via": "THAY_THE"
+          },
+          {
+            "doc_id": "102/2022/NĐ-CP",
+            "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;*",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "doc-luat-cac-to-chuc-tin-dung",
+            "title": "Luật Các tổ chức tín dụng",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "doc-luat-ngan-hang-nha-nuoc-viet-nam",
+            "title": "Luật Ngân hàng Nhà nước Việt Nam",
+            "hops": 1,
+            "via": "CAN_CU"
+          }
+        ],
+        "answer": "[LLM unavailable: ClientError]",
+        "elapsed_ms": 0.0,
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.7-flash\\nPlease retry in 5.749206184s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.7-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '5s'}]}}",
+        "status": "llm-unavailable"
+      },
+      {
+        "num_hops": 2,
+        "n_docs": 7,
+        "n_chunks": 10,
+        "chunk_sources": [
+          {
+            "source": "vector",
+            "score": 0.9646381735801697,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9637686014175415,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9618839025497437,
+            "kind": "article",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9605187177658081,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "hop:1",
+            "score": 0.85,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "hop:1",
+            "score": 0.85,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "hop:1",
+            "score": 0.85,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "hop:2",
+            "score": 0.7224999999999999,
+            "kind": "list",
+            "doc_id": "c0001-9d3d51"
+          },
+          {
+            "source": "hop:2",
+            "score": 0.7224999999999999,
+            "kind": "list",
+            "doc_id": "c0001-9d3d51"
+          },
+          {
+            "source": "hop:2",
+            "score": 0.7224999999999999,
+            "kind": "table",
+            "doc_id": "c0001-9d3d51"
+          }
+        ],
+        "document_paths": [
+          {
+            "doc_id": "c0001-66de38",
+            "title": "Thông tư 06/2023/TT-NHNN",
+            "hops": 0,
+            "via": null
+          },
+          {
+            "doc_id": "c0001-1d15c8",
+            "title": "Thông tư 39/2016/TT-NHNN",
+            "hops": 1,
+            "via": "THAY_THE"
+          },
+          {
+            "doc_id": "102/2022/NĐ-CP",
+            "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;*",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "doc-luat-cac-to-chuc-tin-dung",
+            "title": "Luật Các tổ chức tín dụng",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "doc-luat-ngan-hang-nha-nuoc-viet-nam",
+            "title": "Luật Ngân hàng Nhà nước Việt Nam",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "156/2013/NĐ-CP",
+            "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam",
+            "hops": 2,
+            "via": "THAY_THE"
+          },
+          {
+            "doc_id": "c0001-9d3d51",
+            "title": "Thông tư 02/2023/TT-NHNN",
+            "hops": 2,
+            "via": "CAN_CU"
+          }
+        ],
+        "answer": "[LLM unavailable: ClientError]",
+        "elapsed_ms": 0.0,
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.7-flash\\nPlease retry in 34.566196117s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.7-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '34s'}]}}",
+        "status": "llm-unavailable"
+      }
+    ]
+  },
+  {
+    "id": "Q4",
+    "query": "Thông tư số 41/2016/TT-NHNN về tỷ lệ an toàn vốn của ngân hàng căn cứ vào luật nào, và luật đó quy định chức năng nhiệm vụ của cơ quan nào?",
+    "expected": "Thông tư 41/2016 căn cứ Luật Các tổ chức tín dụng 2010 (sửa đổi 2017). Luật này quy định chức năng NHNN là cơ quan quản lý nhà nước về tiền tệ, ngân hàng, hoạt động ngân hàng.",
+    "runs": [
+      {
+        "num_hops": 0,
+        "n_docs": 1,
+        "n_chunks": 4,
+        "chunk_sources": [
+          {
+            "source": "vector",
+            "score": 0.9288617372512817,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9266992211341858,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.924089789390564,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9220392107963562,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          }
+        ],
+        "document_paths": [
+          {
+            "doc_id": "c0001-66de38",
+            "title": "Thông tư 06/2023/TT-NHNN",
+            "hops": 0,
+            "via": null
+          }
+        ],
+        "answer": "[LLM unavailable: ClientError]",
+        "elapsed_ms": 0.0,
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.7-flash\\nPlease retry in 3.122934669s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.7-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '3s'}]}}",
+        "status": "llm-unavailable"
+      },
+      {
+        "num_hops": 1,
+        "n_docs": 5,
+        "n_chunks": 7,
+        "chunk_sources": [
+          {
+            "source": "vector",
+            "score": 0.9288617372512817,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9266992211341858,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.924089789390564,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9220392107963562,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "hop:1",
+            "score": 0.85,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "hop:1",
+            "score": 0.85,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "hop:1",
+            "score": 0.85,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          }
+        ],
+        "document_paths": [
+          {
+            "doc_id": "c0001-66de38",
+            "title": "Thông tư 06/2023/TT-NHNN",
+            "hops": 0,
+            "via": null
+          },
+          {
+            "doc_id": "c0001-1d15c8",
+            "title": "Thông tư 39/2016/TT-NHNN",
+            "hops": 1,
+            "via": "THAY_THE"
+          },
+          {
+            "doc_id": "102/2022/NĐ-CP",
+            "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;*",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "doc-luat-cac-to-chuc-tin-dung",
+            "title": "Luật Các tổ chức tín dụng",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "doc-luat-ngan-hang-nha-nuoc-viet-nam",
+            "title": "Luật Ngân hàng Nhà nước Việt Nam",
+            "hops": 1,
+            "via": "CAN_CU"
+          }
+        ],
+        "answer": "[LLM unavailable: ClientError]",
+        "elapsed_ms": 0.0,
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.7-flash\\nPlease retry in 32.097710364s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.7-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32s'}]}}",
+        "status": "llm-unavailable"
+      },
+      {
+        "num_hops": 2,
+        "n_docs": 7,
+        "n_chunks": 10,
+        "chunk_sources": [
+          {
+            "source": "vector",
+            "score": 0.9288617372512817,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9266992211341858,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.924089789390564,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9220392107963562,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "hop:1",
+            "score": 0.85,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "hop:1",
+            "score": 0.85,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "hop:1",
+            "score": 0.85,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "hop:2",
+            "score": 0.7224999999999999,
+            "kind": "list",
+            "doc_id": "c0001-9d3d51"
+          },
+          {
+            "source": "hop:2",
+            "score": 0.7224999999999999,
+            "kind": "list",
+            "doc_id": "c0001-9d3d51"
+          },
+          {
+            "source": "hop:2",
+            "score": 0.7224999999999999,
+            "kind": "table",
+            "doc_id": "c0001-9d3d51"
+          }
+        ],
+        "document_paths": [
+          {
+            "doc_id": "c0001-66de38",
+            "title": "Thông tư 06/2023/TT-NHNN",
+            "hops": 0,
+            "via": null
+          },
+          {
+            "doc_id": "c0001-1d15c8",
+            "title": "Thông tư 39/2016/TT-NHNN",
+            "hops": 1,
+            "via": "THAY_THE"
+          },
+          {
+            "doc_id": "102/2022/NĐ-CP",
+            "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;*",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "doc-luat-cac-to-chuc-tin-dung",
+            "title": "Luật Các tổ chức tín dụng",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "doc-luat-ngan-hang-nha-nuoc-viet-nam",
+            "title": "Luật Ngân hàng Nhà nước Việt Nam",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "156/2013/NĐ-CP",
+            "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam",
+            "hops": 2,
+            "via": "THAY_THE"
+          },
+          {
+            "doc_id": "c0001-9d3d51",
+            "title": "Thông tư 02/2023/TT-NHNN",
+            "hops": 2,
+            "via": "CAN_CU"
+          }
+        ],
+        "answer": "[LLM unavailable: ClientError]",
+        "elapsed_ms": 0.0,
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.7-flash\\nPlease retry in 1.188782823s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.7-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '1s'}]}}",
+        "status": "llm-unavailable"
+      }
+    ]
+  },
+  {
+    "id": "Q5",
+    "query": "Hoạt động giao nhận, vận chuyển tiền mặt và tài sản quý của Ngân hàng Nhà nước được điều chỉnh bởi Thông tư nào, và Thông tư đó có được sửa đổi bổ sung bởi văn bản nào không?",
+    "expected": "Điều chỉnh bởi Thông tư 21/2012/TT-NHNN (và các phiên bản sửa đổi). Có thể sửa đổi bổ sung bởi các Thông tư sau nếu có.",
+    "runs": [
+      {
+        "num_hops": 0,
+        "n_docs": 2,
+        "n_chunks": 4,
+        "chunk_sources": [
+          {
+            "source": "vector",
+            "score": 0.9364680647850037,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9358256459236145,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.932408332824707,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9302908778190613,
+            "kind": "paragraph",
+            "doc_id": "c0001-9d3d51"
+          }
+        ],
+        "document_paths": [
+          {
+            "doc_id": "c0001-66de38",
+            "title": "Thông tư 06/2023/TT-NHNN",
+            "hops": 0,
+            "via": null
+          },
+          {
+            "doc_id": "c0001-9d3d51",
+            "title": "Thông tư 02/2023/TT-NHNN",
+            "hops": 0,
+            "via": null
+          }
+        ],
+        "answer": "[LLM unavailable: ClientError]",
+        "elapsed_ms": 0.0,
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.7-flash\\nPlease retry in 30.165315317s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.7-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30s'}]}}",
+        "status": "llm-unavailable"
+      },
+      {
+        "num_hops": 1,
+        "n_docs": 8,
+        "n_chunks": 7,
+        "chunk_sources": [
+          {
+            "source": "vector",
+            "score": 0.9364680647850037,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9358256459236145,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.932408332824707,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9302908778190613,
+            "kind": "paragraph",
+            "doc_id": "c0001-9d3d51"
+          },
+          {
+            "source": "hop:1",
+            "score": 0.85,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "hop:1",
+            "score": 0.85,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "hop:1",
+            "score": 0.85,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          }
+        ],
+        "document_paths": [
+          {
+            "doc_id": "c0001-66de38",
+            "title": "Thông tư 06/2023/TT-NHNN",
+            "hops": 0,
+            "via": null
+          },
+          {
+            "doc_id": "c0001-9d3d51",
+            "title": "Thông tư 02/2023/TT-NHNN",
+            "hops": 0,
+            "via": null
+          },
+          {
+            "doc_id": "doc-quy-dinh-cua-thong-doc-ngan-hang-nha-nuoc-viet-nam-ve-trich-lap-du-phong-rui-ro-trong-hoat-dong-cua-to-chuc-tin-dung-chi-nhanh-ngan-hang",
+            "title": "quy định của Thống đốc Ngân hàng Nhà nước Việt Nam về trích lập dự phòng rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "doc-nghi-quyet-so-50-nq-cp-ngay-08-4-2023-cua-chinh-phu-ve-hoi-nghi-chinh-phu-voi-dia-phuong",
+            "title": "Nghị quyết số 50/NQ-CP ngày 08/4/2023 của Chính phủ về hội nghị Chính phủ với địa phương và phiên họp thường kỳ Chính phủ tháng 3 năm 2023 và Nghị quyết số 59/NQ-CP ngày 23/4/2023 của Chính phủ về giải pháp hỗ trợ tháo gỡ khó khăn cho khách hàng vay phục vụ nhu cầu đời sống, tiêu dùng;*",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "102/2022/NĐ-CP",
+            "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;*",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "doc-luat-cac-to-chuc-tin-dung",
+            "title": "Luật Các tổ chức tín dụng",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "doc-luat-ngan-hang-nha-nuoc-viet-nam",
+            "title": "Luật Ngân hàng Nhà nước Việt Nam",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "c0001-1d15c8",
+            "title": "Thông tư 39/2016/TT-NHNN",
+            "hops": 1,
+            "via": "THAY_THE"
+          }
+        ],
+        "answer": "[LLM unavailable: ClientError]",
+        "elapsed_ms": 0.0,
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.7-flash\\nPlease retry in 59.106670338s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.7-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '59s'}]}}",
+        "status": "llm-unavailable"
+      },
+      {
+        "num_hops": 2,
+        "n_docs": 9,
+        "n_chunks": 7,
+        "chunk_sources": [
+          {
+            "source": "vector",
+            "score": 0.9364680647850037,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9358256459236145,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.932408332824707,
+            "kind": "paragraph",
+            "doc_id": "c0001-66de38"
+          },
+          {
+            "source": "vector",
+            "score": 0.9302908778190613,
+            "kind": "paragraph",
+            "doc_id": "c0001-9d3d51"
+          },
+          {
+            "source": "hop:1",
+            "score": 0.85,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "hop:1",
+            "score": 0.85,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          },
+          {
+            "source": "hop:1",
+            "score": 0.85,
+            "kind": "list",
+            "doc_id": "c0001-1d15c8"
+          }
+        ],
+        "document_paths": [
+          {
+            "doc_id": "c0001-66de38",
+            "title": "Thông tư 06/2023/TT-NHNN",
+            "hops": 0,
+            "via": null
+          },
+          {
+            "doc_id": "c0001-9d3d51",
+            "title": "Thông tư 02/2023/TT-NHNN",
+            "hops": 0,
+            "via": null
+          },
+          {
+            "doc_id": "doc-quy-dinh-cua-thong-doc-ngan-hang-nha-nuoc-viet-nam-ve-trich-lap-du-phong-rui-ro-trong-hoat-dong-cua-to-chuc-tin-dung-chi-nhanh-ngan-hang",
+            "title": "quy định của Thống đốc Ngân hàng Nhà nước Việt Nam về trích lập dự phòng rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "doc-nghi-quyet-so-50-nq-cp-ngay-08-4-2023-cua-chinh-phu-ve-hoi-nghi-chinh-phu-voi-dia-phuong",
+            "title": "Nghị quyết số 50/NQ-CP ngày 08/4/2023 của Chính phủ về hội nghị Chính phủ với địa phương và phiên họp thường kỳ Chính phủ tháng 3 năm 2023 và Nghị quyết số 59/NQ-CP ngày 23/4/2023 của Chính phủ về giải pháp hỗ trợ tháo gỡ khó khăn cho khách hàng vay phục vụ nhu cầu đời sống, tiêu dùng;*",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "102/2022/NĐ-CP",
+            "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;*",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "doc-luat-cac-to-chuc-tin-dung",
+            "title": "Luật Các tổ chức tín dụng",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "doc-luat-ngan-hang-nha-nuoc-viet-nam",
+            "title": "Luật Ngân hàng Nhà nước Việt Nam",
+            "hops": 1,
+            "via": "CAN_CU"
+          },
+          {
+            "doc_id": "c0001-1d15c8",
+            "title": "Thông tư 39/2016/TT-NHNN",
+            "hops": 1,
+            "via": "THAY_THE"
+          },
+          {
+            "doc_id": "156/2013/NĐ-CP",
+            "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam",
+            "hops": 2,
+            "via": "THAY_THE"
+          }
+        ],
+        "answer": "[LLM unavailable: ClientError]",
+        "elapsed_ms": 0.0,
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.7-flash\\nPlease retry in 27.719705132s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.7-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '27s'}]}}",
+        "status": "llm-unavailable"
+      }
+    ]
+  }
+]

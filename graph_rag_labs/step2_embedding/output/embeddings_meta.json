@@ -1,0 +1,1409 @@
+[
+  {
+    "id": "c0001-535e30",
+    "kind": "document",
+    "title": "Thông tư 02/2023/TT-NHNN",
+    "heading_path": [],
+    "parent_id": null,
+    "next_id": "c0002-5198e9",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0002-5198e9",
+    "kind": "paragraph",
+    "title": "SAO Y\nNgân hàng Nhà nước Việt Nam\nThời gian ký: 24/04/2023 0...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "SAO Y\nNgân hàng Nhà nước Việt Nam\nThời gian ký: 24/04/2023 0..."
+    ],
+    "parent_id": "c0001-535e30",
+    "next_id": "c0003-4475c2",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0003-4475c2",
+    "kind": "paragraph",
+    "title": "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM"
+    ],
+    "parent_id": "c0001-535e30",
+    "next_id": "c0004-40285b",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0004-40285b",
+    "kind": "paragraph",
+    "title": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh ph...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh ph..."
+    ],
+    "parent_id": "c0001-535e30",
+    "next_id": "c0005-a20eda",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0005-a20eda",
+    "kind": "paragraph",
+    "title": "Số: 02/2023/TT-NHNN",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Số: 02/2023/TT-NHNN"
+    ],
+    "parent_id": "c0001-535e30",
+    "next_id": "c0006-f3b5e3",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0006-f3b5e3",
+    "kind": "paragraph",
+    "title": "Hà Nội, ngày 23 tháng 4 năm 2023",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Hà Nội, ngày 23 tháng 4 năm 2023"
+    ],
+    "parent_id": "c0001-535e30",
+    "next_id": "c0007-685c19",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0007-685c19",
+    "kind": "paragraph",
+    "title": "Quy định về việc tổ chức tín dụng, chi nhánh ngân hàng nước ...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Quy định về việc tổ chức tín dụng, chi nhánh ngân hàng nước ..."
+    ],
+    "parent_id": "c0001-535e30",
+    "next_id": "c0008-f7e51e",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0008-f7e51e",
+    "kind": "paragraph",
+    "title": "Căn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm ...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Căn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm ..."
+    ],
+    "parent_id": "c0001-535e30",
+    "next_id": "c0009-955596",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0009-955596",
+    "kind": "paragraph",
+    "title": "Căn cứ Luật Các tổ chức tín dụng ngày 16 tháng 6 năm 2010; L...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Căn cứ Luật Các tổ chức tín dụng ngày 16 tháng 6 năm 2010; L..."
+    ],
+    "parent_id": "c0001-535e30",
+    "next_id": "c0010-308fb9",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0010-308fb9",
+    "kind": "paragraph",
+    "title": "Căn cứ Nghị định 102/2022/NĐ-CP ngày 12 tháng 12 năm 2022 củ...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Căn cứ Nghị định 102/2022/NĐ-CP ngày 12 tháng 12 năm 2022 củ..."
+    ],
+    "parent_id": "c0001-535e30",
+    "next_id": "c0011-2bc1af",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0011-2bc1af",
+    "kind": "paragraph",
+    "title": "Căn cứ Nghị quyết số 50/NQ-CP ngày 08/4/2023 của Chính phủ v...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Căn cứ Nghị quyết số 50/NQ-CP ngày 08/4/2023 của Chính phủ v..."
+    ],
+    "parent_id": "c0001-535e30",
+    "next_id": "c0012-a1bafb",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0012-a1bafb",
+    "kind": "paragraph",
+    "title": "Sau khi thống nhất với Bộ Tài chính;",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Sau khi thống nhất với Bộ Tài chính;"
+    ],
+    "parent_id": "c0001-535e30",
+    "next_id": "c0013-652e74",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0013-652e74",
+    "kind": "paragraph",
+    "title": "Theo đề nghị của Vụ trưởng Vụ Tín dụng các ngành kinh tế;",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Theo đề nghị của Vụ trưởng Vụ Tín dụng các ngành kinh tế;"
+    ],
+    "parent_id": "c0001-535e30",
+    "next_id": "c0014-3eb422",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0014-3eb422",
+    "kind": "paragraph",
+    "title": "Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy ...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy ..."
+    ],
+    "parent_id": "c0001-535e30",
+    "next_id": "c0015-b8bde4",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0015-b8bde4",
+    "kind": "chapter",
+    "title": "Chương I - QUY ĐỊNH CHUNG",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN"
+    ],
+    "parent_id": "c0001-535e30",
+    "next_id": "c0016-b5137e",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0016-b5137e",
+    "kind": "article",
+    "title": "Điều 1 - Phạm vi điều chỉnh",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương I - QUY ĐỊNH CHUNG"
+    ],
+    "parent_id": "c0015-b8bde4",
+    "next_id": "c0017-6f088f",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0017-6f088f",
+    "kind": "paragraph",
+    "title": "Thông tư này quy định về việc tổ chức tín dụng, chi nhánh ng...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương I - QUY ĐỊNH CHUNG",
+      "Điều 1 - Phạm vi điều chỉnh",
+      "Thông tư này quy định về việc tổ chức tín dụng, chi nhánh ng..."
+    ],
+    "parent_id": "c0016-b5137e",
+    "next_id": "c0018-541035",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0018-541035",
+    "kind": "article",
+    "title": "Điều 2 - Đối tượng áp dụng",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương I - QUY ĐỊNH CHUNG",
+      "Điều 1 - Phạm vi điều chỉnh"
+    ],
+    "parent_id": "c0015-b8bde4",
+    "next_id": "c0019-29f773",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0019-29f773",
+    "kind": "list",
+    "title": "Tổ chức tín dụng (không bao gồm ngân hàng chính sách), chi n...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương I - QUY ĐỊNH CHUNG",
+      "Điều 2 - Đối tượng áp dụng",
+      "Tổ chức tín dụng (không bao gồm ngân hàng chính sách), chi n..."
+    ],
+    "parent_id": "c0018-541035",
+    "next_id": "c0020-4df86c",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0020-4df86c",
+    "kind": "list",
+    "title": "Khách hàng của tổ chức tín dụng, chi nhánh ngân hàng nước ng...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương I - QUY ĐỊNH CHUNG",
+      "Điều 2 - Đối tượng áp dụng",
+      "Khách hàng của tổ chức tín dụng, chi nhánh ngân hàng nước ng..."
+    ],
+    "parent_id": "c0018-541035",
+    "next_id": "c0021-e0526e",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0021-e0526e",
+    "kind": "article",
+    "title": "Điều 3 - Áp dụng các văn bản quy phạm pháp luật có liên quan",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương I - QUY ĐỊNH CHUNG",
+      "Điều 2 - Đối tượng áp dụng"
+    ],
+    "parent_id": "c0015-b8bde4",
+    "next_id": "c0022-49522c",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0022-49522c",
+    "kind": "paragraph",
+    "title": "Việc cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ, trích...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương I - QUY ĐỊNH CHUNG",
+      "Điều 3 - Áp dụng các văn bản quy phạm pháp luật có liên quan",
+      "Việc cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ, trích..."
+    ],
+    "parent_id": "c0021-e0526e",
+    "next_id": "c0023-acf94d",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0023-acf94d",
+    "kind": "chapter",
+    "title": "Chương II - QUY ĐỊNH CỤ THỂ",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương I - QUY ĐỊNH CHUNG",
+      "Điều 3 - Áp dụng các văn bản quy phạm pháp luật có liên quan"
+    ],
+    "parent_id": "c0001-535e30",
+    "next_id": "c0024-5d4872",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0024-5d4872",
+    "kind": "article",
+    "title": "Điều 4 - Cơ cấu lại thời hạn trả nợ",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ"
+    ],
+    "parent_id": "c0023-acf94d",
+    "next_id": "c0025-4fbef3",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0025-4fbef3",
+    "kind": "paragraph",
+    "title": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài được xem xé...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 4 - Cơ cấu lại thời hạn trả nợ",
+      "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài được xem xé..."
+    ],
+    "parent_id": "c0024-5d4872",
+    "next_id": "c0026-6fa9b3",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0026-6fa9b3",
+    "kind": "list",
+    "title": "Dư nợ gốc phát sinh trước ngày Thông tư này có hiệu lực và t...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 4 - Cơ cấu lại thời hạn trả nợ",
+      "Dư nợ gốc phát sinh trước ngày Thông tư này có hiệu lực và t..."
+    ],
+    "parent_id": "c0024-5d4872",
+    "next_id": "c0027-2c5d40",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0027-2c5d40",
+    "kind": "list",
+    "title": "Thời gian cơ cấu lại thời hạn trả nợ (kể cả trường hợp gia h...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 4 - Cơ cấu lại thời hạn trả nợ",
+      "Thời gian cơ cấu lại thời hạn trả nợ (kể cả trường hợp gia h..."
+    ],
+    "parent_id": "c0024-5d4872",
+    "next_id": "c0028-0510da",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0028-0510da",
+    "kind": "article",
+    "title": "Điều 5 - Giữ nguyên nhóm nợ và phân loại nợ",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 4 - Cơ cấu lại thời hạn trả nợ"
+    ],
+    "parent_id": "c0023-acf94d",
+    "next_id": "c0029-1eb5fd",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0029-1eb5fd",
+    "kind": "list",
+    "title": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài được giữ ng...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 5 - Giữ nguyên nhóm nợ và phân loại nợ",
+      "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài được giữ ng..."
+    ],
+    "parent_id": "c0028-0510da",
+    "next_id": "c0030-b4bb23",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0030-b4bb23",
+    "kind": "article",
+    "title": "Điều 6 - Trích lập dự phòng rủi ro",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 5 - Giữ nguyên nhóm nợ và phân loại nợ"
+    ],
+    "parent_id": "c0023-acf94d",
+    "next_id": "c0031-ecd9a7",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0031-ecd9a7",
+    "kind": "list",
+    "title": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài thực hiện t...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro",
+      "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài thực hiện t..."
+    ],
+    "parent_id": "c0030-b4bb23",
+    "next_id": "c0032-565145",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0032-565145",
+    "kind": "paragraph",
+    "title": "a) Căn cứ quy định của Thống đốc Ngân hàng Nhà nước Việt Nam...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro",
+      "a) Căn cứ quy định của Thống đốc Ngân hàng Nhà nước Việt Nam..."
+    ],
+    "parent_id": "c0030-b4bb23",
+    "next_id": "c0033-229d69",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0033-229d69",
+    "kind": "paragraph",
+    "title": "nước ngoài, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro",
+      "nước ngoài, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài..."
+    ],
+    "parent_id": "c0030-b4bb23",
+    "next_id": "c0034-721124",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0034-721124",
+    "kind": "paragraph",
+    "title": "b) Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài xác định...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro",
+      "b) Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài xác định..."
+    ],
+    "parent_id": "c0030-b4bb23",
+    "next_id": "c0035-9988d2",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0035-9988d2",
+    "kind": "paragraph",
+    "title": "c) Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài xác định...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro",
+      "c) Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài xác định..."
+    ],
+    "parent_id": "c0030-b4bb23",
+    "next_id": "c0036-f3c678",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0036-f3c678",
+    "kind": "paragraph",
+    "title": "Số tiền dự phòng cụ thể phải trích bổ sung = A - B",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro",
+      "Số tiền dự phòng cụ thể phải trích bổ sung = A - B"
+    ],
+    "parent_id": "c0030-b4bb23",
+    "next_id": "c0037-4b96d1",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0037-4b96d1",
+    "kind": "paragraph",
+    "title": "Trong đó:",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro",
+      "Trong đó:"
+    ],
+    "parent_id": "c0030-b4bb23",
+    "next_id": "c0038-064d59",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0038-064d59",
+    "kind": "list",
+    "title": "A: Số tiền dự phòng cụ thể phải trích quy định tại điểm b kh...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro",
+      "A: Số tiền dự phòng cụ thể phải trích quy định tại điểm b kh..."
+    ],
+    "parent_id": "c0030-b4bb23",
+    "next_id": "c0039-6520a8",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0039-6520a8",
+    "kind": "paragraph",
+    "title": "d) Trường hợp số tiền dự phòng cụ thể phải trích bổ sung đượ...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro",
+      "d) Trường hợp số tiền dự phòng cụ thể phải trích bổ sung đượ..."
+    ],
+    "parent_id": "c0030-b4bb23",
+    "next_id": "c0040-252f48",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0040-252f48",
+    "kind": "paragraph",
+    "title": "(i) Đến thời điểm 31/12/2023: Tối thiểu 50% số tiền dự phòng...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro",
+      "(i) Đến thời điểm 31/12/2023: Tối thiểu 50% số tiền dự phòng..."
+    ],
+    "parent_id": "c0030-b4bb23",
+    "next_id": "c0041-0025ac",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0041-0025ac",
+    "kind": "paragraph",
+    "title": "(ii) Đến thời điểm 31/12/2024: Trích thêm số còn lại để đủ 1...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro",
+      "(ii) Đến thời điểm 31/12/2024: Trích thêm số còn lại để đủ 1..."
+    ],
+    "parent_id": "c0030-b4bb23",
+    "next_id": "c0042-715f88",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0042-715f88",
+    "kind": "list",
+    "title": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài thực hiện t...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro",
+      "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài thực hiện t..."
+    ],
+    "parent_id": "c0030-b4bb23",
+    "next_id": "c0043-a49b56",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0043-a49b56",
+    "kind": "article",
+    "title": "Điều 7 - Trách nhiệm của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 6 - Trích lập dự phòng rủi ro"
+    ],
+    "parent_id": "c0023-acf94d",
+    "next_id": "c0044-c5f8bb",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0044-c5f8bb",
+    "kind": "list",
+    "title": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài chịu trách ...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 7 - Trách nhiệm của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",
+      "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài chịu trách ..."
+    ],
+    "parent_id": "c0043-a49b56",
+    "next_id": "c0045-42cae7",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0045-42cae7",
+    "kind": "paragraph",
+    "title": "a) Tiêu chí xác định số dư nợ của khoản nợ được cơ cấu lại t...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 7 - Trách nhiệm của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",
+      "a) Tiêu chí xác định số dư nợ của khoản nợ được cơ cấu lại t..."
+    ],
+    "parent_id": "c0043-a49b56",
+    "next_id": "c0046-1e2437",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0046-1e2437",
+    "kind": "paragraph",
+    "title": "b) Trình tự, thủ tục, phân công, phân cấp, nhiệm vụ, trách n...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 7 - Trách nhiệm của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",
+      "b) Trình tự, thủ tục, phân công, phân cấp, nhiệm vụ, trách n..."
+    ],
+    "parent_id": "c0043-a49b56",
+    "next_id": "c0047-7a68a6",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0047-7a68a6",
+    "kind": "paragraph",
+    "title": "c) Tần suất rà soát, đánh giá khả năng trả nợ của khách hàng...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 7 - Trách nhiệm của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",
+      "c) Tần suất rà soát, đánh giá khả năng trả nợ của khách hàng..."
+    ],
+    "parent_id": "c0043-a49b56",
+    "next_id": "c0048-51c5c5",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0048-51c5c5",
+    "kind": "list",
+    "title": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài gửi 01 (một...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 7 - Trách nhiệm của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",
+      "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài gửi 01 (một..."
+    ],
+    "parent_id": "c0043-a49b56",
+    "next_id": "c0049-a8aa05",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0049-a8aa05",
+    "kind": "article",
+    "title": "Điều 8 - Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước Việt Nam",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 7 - Trách nhiệm của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài"
+    ],
+    "parent_id": "c0023-acf94d",
+    "next_id": "c0050-6ea6ca",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0050-6ea6ca",
+    "kind": "list",
+    "title": "Trách nhiệm của Vụ Tín dụng các ngành kinh tế",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 8 - Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước Việt Nam",
+      "Trách nhiệm của Vụ Tín dụng các ngành kinh tế"
+    ],
+    "parent_id": "c0049-a8aa05",
+    "next_id": "c0051-4e1423",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0051-4e1423",
+    "kind": "paragraph",
+    "title": "a) Tổng hợp báo cáo quy định tại khoản 4 Điều 7 Thông tư này...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 8 - Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước Việt Nam",
+      "a) Tổng hợp báo cáo quy định tại khoản 4 Điều 7 Thông tư này..."
+    ],
+    "parent_id": "c0049-a8aa05",
+    "next_id": "c0052-89c3a3",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0052-89c3a3",
+    "kind": "paragraph",
+    "title": "b) Chủ trì, phối hợp với Vụ Chính sách tiền tệ, Cơ quan Than...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 8 - Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước Việt Nam",
+      "b) Chủ trì, phối hợp với Vụ Chính sách tiền tệ, Cơ quan Than..."
+    ],
+    "parent_id": "c0049-a8aa05",
+    "next_id": "c0053-a4fc70",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0053-a4fc70",
+    "kind": "paragraph",
+    "title": "Nhà nước Việt Nam xử lý các vấn đề phát sinh trong quá trình...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 8 - Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước Việt Nam",
+      "Nhà nước Việt Nam xử lý các vấn đề phát sinh trong quá trình..."
+    ],
+    "parent_id": "c0049-a8aa05",
+    "next_id": "c0054-bb594c",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0054-bb594c",
+    "kind": "list",
+    "title": "Trách nhiệm của Cơ quan Thanh tra, giám sát ngân hàng",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 8 - Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước Việt Nam",
+      "Trách nhiệm của Cơ quan Thanh tra, giám sát ngân hàng"
+    ],
+    "parent_id": "c0049-a8aa05",
+    "next_id": "c0055-6b4663",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0055-6b4663",
+    "kind": "paragraph",
+    "title": "Thực hiện thanh tra, giám sát việc tổ chức tín dụng, chi nhá...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 8 - Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước Việt Nam",
+      "Thực hiện thanh tra, giám sát việc tổ chức tín dụng, chi nhá..."
+    ],
+    "parent_id": "c0049-a8aa05",
+    "next_id": "c0056-ffc4c1",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0056-ffc4c1",
+    "kind": "list",
+    "title": "Trách nhiệm của Ngân hàng Nhà nước chi nhánh",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 8 - Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước Việt Nam",
+      "Trách nhiệm của Ngân hàng Nhà nước chi nhánh"
+    ],
+    "parent_id": "c0049-a8aa05",
+    "next_id": "c0057-b2e66b",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0057-b2e66b",
+    "kind": "paragraph",
+    "title": "a) Trong thời hạn 15 (mười lăm) ngày đầu tiên của mỗi tháng,...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 8 - Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước Việt Nam",
+      "a) Trong thời hạn 15 (mười lăm) ngày đầu tiên của mỗi tháng,..."
+    ],
+    "parent_id": "c0049-a8aa05",
+    "next_id": "c0058-78568c",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0058-78568c",
+    "kind": "paragraph",
+    "title": "b) Thực hiện thanh tra, giám sát việc tổ chức tín dụng, chi ...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 8 - Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước Việt Nam",
+      "b) Thực hiện thanh tra, giám sát việc tổ chức tín dụng, chi ..."
+    ],
+    "parent_id": "c0049-a8aa05",
+    "next_id": "c0059-7a363d",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0059-7a363d",
+    "kind": "chapter",
+    "title": "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương II - QUY ĐỊNH CỤ THỂ",
+      "Điều 8 - Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước Việt Nam"
+    ],
+    "parent_id": "c0001-535e30",
+    "next_id": "c0060-6c80e2",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0060-6c80e2",
+    "kind": "article",
+    "title": "Điều 9 - Hiệu lực thi hành",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:"
+    ],
+    "parent_id": "c0059-7a363d",
+    "next_id": "c0061-60117a",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0061-60117a",
+    "kind": "paragraph",
+    "title": "Thông tư này có hiệu lực kể từ ngày 24 tháng 4 năm 2023.",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 9 - Hiệu lực thi hành",
+      "Thông tư này có hiệu lực kể từ ngày 24 tháng 4 năm 2023."
+    ],
+    "parent_id": "c0060-6c80e2",
+    "next_id": "c0062-90a56d",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0062-90a56d",
+    "kind": "article",
+    "title": "Điều 10 - Tổ chức thực hiện",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 9 - Hiệu lực thi hành"
+    ],
+    "parent_id": "c0059-7a363d",
+    "next_id": "c0063-099fcc",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0063-099fcc",
+    "kind": "paragraph",
+    "title": "Chánh Văn phòng, Vụ trưởng Vụ Tín dụng các ngành kinh tế, Ch...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Chánh Văn phòng, Vụ trưởng Vụ Tín dụng các ngành kinh tế, Ch..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0064-5de918",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0064-5de918",
+    "kind": "paragraph",
+    "title": "Nơi nhận:",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Nơi nhận:"
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0065-632d36",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0065-632d36",
+    "kind": "list",
+    "title": "Như Điều 10;\nBan lãnh đạo NHNN;\nVăn phòng Chính phủ;\nBộ Tư p...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Như Điều 10;\nBan lãnh đạo NHNN;\nVăn phòng Chính phủ;\nBộ Tư p..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0066-778c09",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0066-778c09",
+    "kind": "paragraph",
+    "title": "KT. THỐNG ĐỐC\nPHÓ THỐNG ĐỐC",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "KT. THỐNG ĐỐC\nPHÓ THỐNG ĐỐC"
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0067-55bf35",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0067-55bf35",
+    "kind": "paragraph",
+    "title": "Signature and stamp of the State Bank of Vietnam",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Signature and stamp of the State Bank of Vietnam"
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0068-360feb",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0068-360feb",
+    "kind": "paragraph",
+    "title": "Đào Minh Tú",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Đào Minh Tú"
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0069-2c1969",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0069-2c1969",
+    "kind": "paragraph",
+    "title": "(Ban hành kèm theo Thông tư số 02/2023/TT-NHNN ngày 23/4/202...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "(Ban hành kèm theo Thông tư số 02/2023/TT-NHNN ngày 23/4/202..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0070-30edd8",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0070-30edd8",
+    "kind": "paragraph",
+    "title": "Seal of the State Bank of Vietnam",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Seal of the State Bank of Vietnam"
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0071-e969dd",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0071-e969dd",
+    "kind": "paragraph",
+    "title": "TỔ CHỨC TÍN DỤNG, CHI NHÁNH NGÂN HÀNG NƯỚC NGOÀI",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "TỔ CHỨC TÍN DỤNG, CHI NHÁNH NGÂN HÀNG NƯỚC NGOÀI"
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0072-8a812d",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0072-8a812d",
+    "kind": "paragraph",
+    "title": "Kỳ báo cáo tháng ... năm ...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Kỳ báo cáo tháng ... năm ..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0073-93f080",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0073-93f080",
+    "kind": "paragraph",
+    "title": "Đơn vị: tỷ đồng, khách hàng",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Đơn vị: tỷ đồng, khách hàng"
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0074-ca5605",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0074-ca5605",
+    "kind": "table",
+    "title": "STT\nChỉ tiêu\nCơ cấu lại thời hạn trả nợ và giữ nguyên nhóm n...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "STT\nChỉ tiêu\nCơ cấu lại thời hạn trả nợ và giữ nguyên nhóm n..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0075-7181d9",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0075-7181d9",
+    "kind": "paragraph",
+    "title": "vauay",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "vauay"
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0076-6d4a82",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0076-6d4a82",
+    "kind": "table",
+    "title": "STT\nChỉ tiêu\nCơ cấu lại thời hạn trả nợ và giữ nguyên nhóm n...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "STT\nChỉ tiêu\nCơ cấu lại thời hạn trả nợ và giữ nguyên nhóm n..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0077-fedcef",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0077-fedcef",
+    "kind": "table",
+    "title": "STT\nChi tiêu\nCơ cấu lại thời hạn trả nợ và giữ nguyên nhóm n...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "STT\nChi tiêu\nCơ cấu lại thời hạn trả nợ và giữ nguyên nhóm n..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0078-f8735e",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0078-f8735e",
+    "kind": "paragraph",
+    "title": "HƯỚNG DẪN LẬP BÁO CÁO:",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "HƯỚNG DẪN LẬP BÁO CÁO:"
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0079-4d5af3",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0079-4d5af3",
+    "kind": "list",
+    "title": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài (gọi chung ...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài (gọi chung ..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0080-8fbea7",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0080-8fbea7",
+    "kind": "paragraph",
+    "title": "signature",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "signature"
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0081-dd4b7c",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0081-dd4b7c",
+    "kind": "table",
+    "title": "Cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ\nNợ không bị...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ\nNợ không bị..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0082-839ca1",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0082-839ca1",
+    "kind": "list",
+    "title": "Cột (5): Lũy kế từ ngày Thông tư có hiệu lực, số lượt khách ...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Cột (5): Lũy kế từ ngày Thông tư có hiệu lực, số lượt khách ..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0083-f1caaa",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0083-f1caaa",
+    "kind": "paragraph",
+    "title": "PHỤ LỤC 02",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "PHỤ LỤC 02"
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0084-572721",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0084-572721",
+    "kind": "paragraph",
+    "title": "(Ban hành kèm theo Thông tư số 02/2023/TT-NHNN ngày 23/4/202...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "(Ban hành kèm theo Thông tư số 02/2023/TT-NHNN ngày 23/4/202..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0085-e1659a",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0085-e1659a",
+    "kind": "paragraph",
+    "title": "Seal of the State Bank of Vietnam",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Seal of the State Bank of Vietnam"
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0086-1a7609",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0086-1a7609",
+    "kind": "paragraph",
+    "title": "TỔ CHỨC TÍN DỤNG, CHI NHÁNH NGÂN HÀNG NƯỚC NGOÀI",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "TỔ CHỨC TÍN DỤNG, CHI NHÁNH NGÂN HÀNG NƯỚC NGOÀI"
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0087-1c21f5",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0087-1c21f5",
+    "kind": "paragraph",
+    "title": "Kỳ báo cáo tháng ... năm ...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Kỳ báo cáo tháng ... năm ..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0088-865e50",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0088-865e50",
+    "kind": "paragraph",
+    "title": "Đơn vị: khách hàng",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Đơn vị: khách hàng"
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0089-c15461",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0089-c15461",
+    "kind": "table",
+    "title": "STT\nChi tiêu\nSố lũy kế đến thời điểm cuối kỳ báo cáo\nSố phát...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "STT\nChi tiêu\nSố lũy kế đến thời điểm cuối kỳ báo cáo\nSố phát..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0090-203bd8",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0090-203bd8",
+    "kind": "list",
+    "title": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài (gọi chung ...",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài (gọi chung ..."
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0091-6d25cd",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  },
+  {
+    "id": "c0091-6d25cd",
+    "kind": "paragraph",
+    "title": "vuan",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+      "Điều 10 - Tổ chức thực hiện",
+      "vuan"
+    ],
+    "parent_id": "c0062-90a56d",
+    "next_id": "c0001-535e30",
+    "dim": 384,
+    "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+    "normalized": true
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "model": "thuannc/vi-distilled-msmarco-MiniLM-L12-cos-v5",
+  "dim": 384,
+  "normalized": true,
+  "samples": [
+    {
+      "id": "c0001-535e30",
+      "kind": "document",
+      "title": "Thông tư 02/2023/TT-NHNN",
+      "heading_path": [],
+      "vec_first8": [
+        -0.114836,
+        -0.021125,
+        -0.042197,
+        0.042514,
+        -0.09593,
+        -0.007383,
+        -0.01204,
+        0.067619
+      ],
+      "l2_norm": 1.0
+    },
+    {
+      "id": "c0002-5198e9",
+      "kind": "paragraph",
+      "title": "SAO Y\nNgân hàng Nhà nước Việt Nam\nThời gian ký: 24/04/2023 0...",
+      "heading_path": [
+        "Thông tư 02/2023/TT-NHNN",
+        "SAO Y\nNgân hàng Nhà nước Việt Nam\nThời gian ký: 24/04/2023 0..."
+      ],
+      "vec_first8": [
+        -0.064017,
+        0.014035,
+        -0.037762,
+        0.027058,
+        -0.081621,
+        0.012081,
+        -0.049597,
+        0.026861
+      ],
+      "l2_norm": 1.0
+    },
+    {
+      "id": "c0003-4475c2",
+      "kind": "paragraph",
+      "title": "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+      "heading_path": [
+        "Thông tư 02/2023/TT-NHNN",
+        "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM"
+      ],
+      "vec_first8": [
+        -0.07751,
+        0.024328,
+        -0.045822,
+        0.039159,
+        -0.078237,
+        0.020428,
+        -0.010224,
+        0.019552
+      ],
+      "l2_norm": 1.0
+    }
+  ]
+}

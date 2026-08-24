@@ -1,0 +1,11 @@
+id,name,control_type,frequency,owner_role_id,effectiveness,data_origin,verification_status
+KS-001,Đối soát tự động giao dịch và sổ cái,Detective,Hang ngay,VT-OPS-CONTROL,Hieu qua,SYNTHETIC,VERIFIED
+KS-002,Kiểm tra hạn mức phê duyệt trên hệ thống,Preventive,Theo giao dich,VT-CREDIT-APPROVER,Hieu qua,SYNTHETIC,VERIFIED
+KS-003,Checklist điều kiện giải ngân bắt buộc,Preventive,Theo giao dich,VT-CREDIT-OFFICER,Can cai thien,SYNTHETIC,VERIFIED
+KS-004,Rà soát quyền truy cập định kỳ,Preventive,Hang quy,VT-IT-SECURITY,Hieu qua,SYNTHETIC,VERIFIED
+KS-005,Kiểm thử khả năng chịu tải và chuyển đổi dự phòng,Preventive,Hang quy,VT-IT-OPERATIONS,Can cai thien,SYNTHETIC,VERIFIED
+KS-006,Xác thực hai kênh với lệnh chuyển tiền ngoại lệ,Preventive,Theo giao dich,VT-OPS-CONTROL,Hieu qua,SYNTHETIC,VERIFIED
+KS-007,Theo dõi SLA xử lý cảnh báo AML,Detective,Hang ngay,VT-COMPLIANCE-AML,Can cai thien,SYNTHETIC,VERIFIED
+KS-008,Rà soát độc lập định giá tài sản bảo đảm,Detective,Hang nam,VT-CREDIT-REVIEW,Hieu qua,SYNTHETIC,VERIFIED
+KS-009,Hiệu chỉnh luật phát hiện giao dịch gian lận,Preventive,Hang thang,VT-OPS-CONTROL,Can cai thien,SYNTHETIC,VERIFIED
+KS-010,Đối chiếu dữ liệu nguồn trước khi phát hành báo cáo,Detective,Hang thang,VT-FINANCE-REPORTING,Hieu qua,SYNTHETIC,VERIFIED

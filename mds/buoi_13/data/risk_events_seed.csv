@@ -1,0 +1,13 @@
+id,risk_id,occurred_at,discovered_at,severity,loss_amount_vnd,description,data_origin,verification_status
+SK-001,RR-001,2024-03-15,2024-03-15,Trung binh,85000000,Sai lệch trạng thái giao dịch được phát hiện khi đối soát cuối ngày,SYNTHETIC,VERIFIED
+SK-002,RR-002,2024-04-02,2024-04-05,Cao,0,Hồ sơ tín dụng được phê duyệt vượt hạn mức của người phê duyệt,SYNTHETIC,VERIFIED
+SK-003,RR-003,2024-04-18,2024-04-18,Cao,120000000,Giải ngân trước khi hoàn thiện chứng từ bảo đảm,SYNTHETIC,VERIFIED
+SK-004,RR-004,2024-05-06,2024-05-07,Cao,0,Tài khoản có quyền truy cập dữ liệu vượt phạm vi công việc,SYNTHETIC,VERIFIED
+SK-005,RR-005,2024-05-21,2024-05-21,Cao,0,Dịch vụ ngân hàng số gián đoạn trong giờ cao điểm,SYNTHETIC,VERIFIED
+SK-006,RR-006,2024-06-11,2024-06-11,Cao,230000000,Yêu cầu chuyển tiền giả mạo được xử lý trước khi bị thu hồi,SYNTHETIC,VERIFIED
+SK-007,RR-007,2024-06-28,2024-07-03,Trung binh,0,Báo cáo giao dịch đáng ngờ nộp quá hạn nội bộ,SYNTHETIC,VERIFIED
+SK-008,RR-008,2024-07-10,2024-07-15,Cao,0,Rà soát phát hiện giá trị tài sản bảo đảm đã hết hiệu lực,SYNTHETIC,VERIFIED
+SK-009,RR-009,2024-07-22,2024-07-23,Cao,175000000,Giao dịch bất thường chỉ bị phát hiện sau khi khách hàng khiếu nại,SYNTHETIC,VERIFIED
+SK-010,RR-010,2024-08-02,2024-08-05,Trung binh,0,Báo cáo quản trị sử dụng dữ liệu nguồn chưa đối chiếu,SYNTHETIC,VERIFIED
+SK-011,RR-011,2024-08-14,2024-08-14,Trung binh,0,Nhà cung cấp chậm khôi phục dịch vụ so với SLA,SYNTHETIC,VERIFIED
+SK-012,RR-012,2024-09-03,2024-09-12,Trung binh,0,Kiểm tra sau mua sắm phát hiện thiếu kê khai xung đột lợi ích,SYNTHETIC,VERIFIED

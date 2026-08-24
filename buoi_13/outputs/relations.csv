@@ -1,0 +1,23 @@
+source_id,relationship_type,target_id,source,evidence_quote,confidence,verification_status,data_origin
+KS-001,MITIGATES,RR-001,LAB_SEED,Dữ liệu mô phỏng: đối soát tự động giảm nguy cơ hạch toán sai,1.0,VERIFIED,SYNTHETIC
+KS-002,MITIGATES,RR-002,LAB_SEED,Dữ liệu mô phỏng: kiểm tra hạn mức ngăn phê duyệt vượt thẩm quyền,1.0,VERIFIED,SYNTHETIC
+KS-003,MITIGATES,RR-003,LAB_SEED,Dữ liệu mô phỏng: checklist ngăn giải ngân thiếu hồ sơ,1.0,VERIFIED,SYNTHETIC
+KS-004,MITIGATES,RR-004,LAB_SEED,Dữ liệu mô phỏng: rà soát quyền hạn giảm lộ dữ liệu,1.0,VERIFIED,SYNTHETIC
+KS-005,MITIGATES,RR-005,LAB_SEED,Dữ liệu mô phỏng: kiểm thử dự phòng giảm gián đoạn dịch vụ,1.0,VERIFIED,SYNTHETIC
+KS-006,MITIGATES,RR-006,LAB_SEED,Dữ liệu mô phỏng: xác thực hai kênh giảm gian lận chuyển tiền,1.0,VERIFIED,SYNTHETIC
+KS-007,MITIGATES,RR-007,LAB_SEED,Dữ liệu mô phỏng: theo dõi SLA giảm nguy cơ báo cáo muộn,1.0,VERIFIED,SYNTHETIC
+KS-008,MITIGATES,RR-008,LAB_SEED,Dữ liệu mô phỏng: rà soát độc lập giảm sai định giá,1.0,VERIFIED,SYNTHETIC
+KS-009,MITIGATES,RR-009,LAB_SEED,Dữ liệu mô phỏng: hiệu chỉnh luật giảm bỏ sót giao dịch bất thường,1.0,VERIFIED,SYNTHETIC
+KS-010,MITIGATES,RR-010,LAB_SEED,Dữ liệu mô phỏng: đối chiếu nguồn giảm sai lệch báo cáo,1.0,VERIFIED,SYNTHETIC
+RR-001,OBSERVED_AS,SK-001,LAB_SEED,Dữ liệu mô phỏng: sự kiện đối soát giao dịch,1.0,VERIFIED,SYNTHETIC
+RR-002,OBSERVED_AS,SK-002,LAB_SEED,Dữ liệu mô phỏng: sự kiện vượt thẩm quyền,1.0,VERIFIED,SYNTHETIC
+RR-003,OBSERVED_AS,SK-003,LAB_SEED,Dữ liệu mô phỏng: sự kiện giải ngân thiếu hồ sơ,1.0,VERIFIED,SYNTHETIC
+RR-004,OBSERVED_AS,SK-004,LAB_SEED,Dữ liệu mô phỏng: sự kiện quyền truy cập quá mức,1.0,VERIFIED,SYNTHETIC
+RR-005,OBSERVED_AS,SK-005,LAB_SEED,Dữ liệu mô phỏng: sự kiện gián đoạn dịch vụ,1.0,VERIFIED,SYNTHETIC
+RR-006,OBSERVED_AS,SK-006,LAB_SEED,Dữ liệu mô phỏng: sự kiện giả mạo chuyển tiền,1.0,VERIFIED,SYNTHETIC
+RR-007,OBSERVED_AS,SK-007,LAB_SEED,Dữ liệu mô phỏng: sự kiện báo cáo AML muộn,1.0,VERIFIED,SYNTHETIC
+RR-008,OBSERVED_AS,SK-008,LAB_SEED,Dữ liệu mô phỏng: sự kiện sai định giá tài sản,1.0,VERIFIED,SYNTHETIC
+RR-009,OBSERVED_AS,SK-009,LAB_SEED,Dữ liệu mô phỏng: sự kiện không phát hiện bất thường,1.0,VERIFIED,SYNTHETIC
+RR-010,OBSERVED_AS,SK-010,LAB_SEED,Dữ liệu mô phỏng: sự kiện sai lệch báo cáo,1.0,VERIFIED,SYNTHETIC
+RR-011,OBSERVED_AS,SK-011,LAB_SEED,Dữ liệu mô phỏng: sự kiện vi phạm SLA,1.0,VERIFIED,SYNTHETIC
+RR-012,OBSERVED_AS,SK-012,LAB_SEED,Dữ liệu mô phỏng: sự kiện xung đột lợi ích,1.0,VERIFIED,SYNTHETIC

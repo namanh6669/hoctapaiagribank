@@ -1,0 +1,77 @@
+entity_id,entity_type,canonical_name,original_names,occurrences,source_methods,first_seen_doc
+E0001,CoQuan,Bộ Tài chính,Bộ Tài chính,5,metadata,f69936f0-6937-11f1-a48d-29bc6b0fd706
+E0002,CoQuan,Chính phủ,Chính phủ,6,"gemini,metadata",112025
+E0003,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,16,metadata,38128
+E0004,CoQuan,Quốc hội,Quốc hội,4,metadata,166170
+E0005,DoiTuongApDung,Chi nhánh nước ngoài,Chi nhánh nước ngoài,1,gemini,112025
+E0006,DoiTuongApDung,Cá nhân có quốc tịch Việt Nam,Cá nhân có quốc tịch Việt Nam,1,gemini,95652
+E0007,DoiTuongApDung,Các đơn vị có liên quan thuộc Ngân hàng Nhà nước,Các đơn vị có liên quan thuộc Ngân hàng Nhà nước,1,gemini,38128
+E0008,DoiTuongApDung,Công ty quản lý tài sản của các tổ chức tín dụng Việt Nam,Công ty quản lý tài sản của các tổ chức tín dụng Việt Nam,1,gemini,186482
+E0009,DoiTuongApDung,"Doanh nghiệp bảo hiểm phi nhân thọ, doanh nghiệp bảo hiểm nhân thọ, doanh nghiệp bảo hiểm sức khỏe","Doanh nghiệp bảo hiểm phi nhân thọ, doanh nghiệp bảo hiểm nhân thọ, doanh nghiệp bảo hiểm sức khỏe",1,gemini,163441
+E0010,DoiTuongApDung,Kho bạc Nhà nước,Kho bạc Nhà nước,1,gemini,169221
+E0011,DoiTuongApDung,Kiểm toán viên,Kiểm toán viên,1,gemini,30402
+E0012,DoiTuongApDung,Ngân hàng hợp tác xã,Ngân hàng hợp tác xã | ngân hàng hợp tác xã,3,gemini,168220
+E0013,DoiTuongApDung,Nhà máy in tiền Quốc gia,Nhà máy in tiền Quốc gia,1,gemini,38128
+E0014,DoiTuongApDung,Tổ chức kinh tế,Tổ chức kinh tế,1,gemini,95652
+E0015,DoiTuongApDung,"Tổ chức, cá nhân khác có liên quan đến công việc thiết kế mẫu tiền, chế tạo bản in, khuôn đúc và in, đúc tiền","Tổ chức, cá nhân khác có liên quan đến công việc thiết kế mẫu tiền, chế tạo bản in, khuôn đúc và in, đúc tiền",1,gemini,38128
+E0016,DoiTuongApDung,chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam,chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam,1,gemini,26750
+E0017,DoiTuongApDung,chi nhánh ngân hàng nước ngoài,Chi nhánh ngân hàng nước ngoài | chi nhánh ngân hàng nước ngoài,8,gemini,166170
+E0018,DoiTuongApDung,công ty đầu tư chứng khoán,công ty đầu tư chứng khoán,1,gemini,112924
+E0019,DoiTuongApDung,cơ quan nhà nước,cơ quan nhà nước,1,gemini,133858
+E0020,DoiTuongApDung,doanh nghiệp,doanh nghiệp,2,gemini,133858
+E0021,DoiTuongApDung,doanh nghiệp bảo hiểm,doanh nghiệp bảo hiểm,1,gemini,112025
+E0022,DoiTuongApDung,doanh nghiệp kinh doanh bảo hiểm,doanh nghiệp kinh doanh bảo hiểm,1,gemini,112924
+E0023,DoiTuongApDung,doanh nghiệp kiểm toán,Doanh nghiệp kiểm toán | doanh nghiệp kiểm toán,2,gemini,26750
+E0024,DoiTuongApDung,doanh nghiệp môi giới bảo hiểm,doanh nghiệp môi giới bảo hiểm,1,gemini,112025
+E0025,DoiTuongApDung,"doanh nghiệp, cơ quan nhà nước, đơn vị sự nghiệp công lập","doanh nghiệp, cơ quan nhà nước, đơn vị sự nghiệp công lập",1,gemini,150974
+E0026,DoiTuongApDung,hợp tác xã,hợp tác xã,1,gemini,166269
+E0027,DoiTuongApDung,khách hàng,khách hàng,1,gemini,44209
+E0028,DoiTuongApDung,kiểm toán viên hành nghề,kiểm toán viên hành nghề,1,gemini,26750
+E0029,DoiTuongApDung,liên hiệp hợp tác xã,liên hiệp hợp tác xã,1,gemini,166269
+E0030,DoiTuongApDung,ngân hàng,ngân hàng,2,gemini,164719
+E0031,DoiTuongApDung,ngân hàng thương mại,Ngân hàng thương mại | ngân hàng thương mại,4,gemini,95652
+E0032,DoiTuongApDung,quỹ tín dụng nhân dân,Quỹ tín dụng nhân dân | quỹ tín dụng nhân dân,4,gemini,168220
+E0033,DoiTuongApDung,quỹ đầu tư chứng khoán,quỹ đầu tư chứng khoán,1,gemini,112924
+E0034,DoiTuongApDung,tổ chức kinh doanh chứng khoán,tổ chức kinh doanh chứng khoán,1,gemini,112924
+E0035,DoiTuongApDung,tổ chức tài chính vi mô,tổ chức tài chính vi mô,1,gemini,186888
+E0036,DoiTuongApDung,tổ chức tín dụng,Tổ chức tín dụng | tổ chức tín dụng,6,gemini,166170
+E0037,DoiTuongApDung,tổ chức tín dụng là hợp tác xã,tổ chức tín dụng là hợp tác xã,1,gemini,186888
+E0038,DoiTuongApDung,tổ chức tín dụng phi ngân hàng,tổ chức tín dụng phi ngân hàng,2,gemini,173460
+E0039,DoiTuongApDung,"tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài","Tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài | tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài",2,gemini,146468
+E0040,DoiTuongApDung,tổ hợp tác,tổ hợp tác,1,gemini,166269
+E0041,DoiTuongApDung,văn phòng đại diện nước ngoài,Văn phòng đại diện nước ngoài | văn phòng đại diện nước ngoài,3,gemini,166170
+E0042,DoiTuongApDung,đơn vị sự nghiệp công lập,đơn vị sự nghiệp công lập,1,gemini,133858
+E0043,DoiTuongApDung,đơn vị được kiểm toán,đơn vị được kiểm toán,1,gemini,26750
+E0044,LinhVuc,Bảo hiểm,Bảo hiểm,3,"gemini,metadata",112025
+E0045,LinhVuc,Chứng khoán,Chứng khoán,3,"gemini,metadata",146468
+E0046,LinhVuc,Chứng khoán và thị trường chứng khoán,Chứng khoán và thị trường chứng khoán,1,gemini,146468
+E0047,LinhVuc,Cục An toàn hệ thống các tổ chức tín dụng,Cục An toàn hệ thống các tổ chức tín dụng,3,metadata,186482
+E0048,LinhVuc,Kinh tế tập thể,Kinh tế tập thể,1,gemini,166269
+E0049,LinhVuc,Kiểm toán,Kiểm toán,2,gemini,133858
+E0050,LinhVuc,Kiểm toán độc lập,Kiểm toán độc lập,1,gemini,26750
+E0051,LinhVuc,"Kế toán, kiểm toán","Kế toán, kiểm toán",1,metadata,150974
+E0052,LinhVuc,"Lao động, tiền lương, tiền công","Lao động, tiền lương, tiền công",1,metadata,185630
+E0053,LinhVuc,Ngân hàng,Ngân hàng,4,gemini,27257
+E0054,LinhVuc,Phát hành và kho quỹ,Phát hành và kho quỹ,2,metadata,38128
+E0055,LinhVuc,Quản lý dịch vụ tài chính và các quỹ tài chính,Quản lý dịch vụ tài chính và các quỹ tài chính,1,metadata,30402
+E0056,LinhVuc,Quản lý ngoại hối,Quản lý ngoại hối,1,metadata,169221
+E0057,LinhVuc,"Thanh tra, giám sát ngân hàng","Thanh tra, giám sát ngân hàng",7,metadata,168220
+E0058,LinhVuc,Tiền tệ,Tiền tệ,1,gemini,25692
+E0059,LinhVuc,Tín dụng,Tín dụng,5,"gemini,metadata",166170
+E0060,LinhVuc,kiểm toán nội bộ,Kiểm toán nội bộ | kiểm toán nội bộ,2,gemini,143217
+E0061,LinhVuc,"quản lý, giám sát ngân hàng","quản lý, giám sát ngân hàng",1,gemini,186482
+E0062,LinhVuc,Đầu tư,Đầu tư,1,gemini,95652
+E0063,NguoiKy,Lê Minh Khái,Lê Minh Khái,1,metadata,163441
+E0064,NguoiKy,Nguyễn Phú Trọng,Nguyễn Phú Trọng,2,metadata,26750
+E0065,NguoiKy,Nguyễn Tấn Dũng,Nguyễn Tấn Dũng,1,metadata,95652
+E0066,NguoiKy,Nguyễn Xuân Phúc,Nguyễn Xuân Phúc,3,metadata,112025
+E0067,NguoiKy,Nguyễn Đồng Tiến,Nguyễn Đồng Tiến,1,metadata,117310
+E0068,NguoiKy,Nguyễn Đức Chi,Nguyễn Đức Chi,1,metadata,f69936f0-6937-11f1-a48d-29bc6b0fd706
+E0069,NguoiKy,Phạm Thanh Hà,Phạm Thanh Hà,1,metadata,169221
+E0070,NguoiKy,Trần Minh Tuấn,Trần Minh Tuấn,1,metadata,27257
+E0071,NguoiKy,Trần Xuân Hà,Trần Xuân Hà,2,metadata,30402
+E0072,NguoiKy,Tạ Anh Tuấn,Tạ Anh Tuấn,1,metadata,150974
+E0073,NguoiKy,Vương Đình Huệ,Vương Đình Huệ,2,metadata,166170
+E0074,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,9,metadata,173460
+E0075,NguoiKy,Đào Minh Tú,Đào Minh Tú,4,metadata,38128
+E0076,NguoiKy,Đỗ Hoàng Anh Tuấn,Đỗ Hoàng Anh Tuấn,1,gemini,143217

@@ -1,0 +1,21 @@
+{
+  "target_database": "neo4j",
+  "is_default_db": false,
+  "note": "Database 'neo4j' đã có sẵn, dùng luôn.",
+  "vector_index": "kbhops_chunk_embedding",
+  "summary": {
+    "n_documents": 9,
+    "n_chunks": 409,
+    "n_part_of": 409,
+    "n_parent_of": 406,
+    "n_next": 503,
+    "n_can_cu": 11,
+    "n_thay_the": 1,
+    "n_hop_nhat": 0
+  },
+  "vector_dim": 384,
+  "expected": {
+    "n_documents": 15,
+    "n_doc_edges": 8
+  }
+}

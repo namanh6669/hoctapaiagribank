@@ -1,0 +1,116 @@
+
+========================================================================
+STEP 3 — GEMINI ENTITY EXTRACTION & METADATA ENRICHMENT
+========================================================================
+Loaded cleaned_documents.csv: 30 rows
+Using model: gemini-3.1-flash-lite
+  [1/30] id=166170 (32/2024/QH15) ...Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
+ OK (6 entities)
+  [2/30] id=112025 (73/2016/NĐ-CP) ... OK (6 entities)
+  [3/30] id=38128 (37/2014/TT-NHNN) ... OK (6 entities)
+  [4/30] id=26750 (67/2011/QH12) ... OK (7 entities)
+  [5/30] id=163441 (46/2023/NĐ-CP) ... OK (4 entities)
+  [6/30] id=146468 (156/2020/NĐ-CP) ... OK (5 entities)
+  [7/30] id=168220 (27/2024/TT-NHNN) ... OK (5 entities)
+  [8/30] id=133858 (05/2019/NĐ-CP) ... OK (6 entities)
+  [9/30] id=169221 (43/2024/TT-NHNN) ... OK (5 entities)
+  [10/30] id=95652 (135/2015/NĐ-CP) ... OK (6 entities)
+  [11/30] id=f69936f0-6937-11f1-a48d-29bc6b0fd706 (17/VBHN-BTC) ... OK (5 entities)
+  [12/30] id=30402 (202/2012/TT-BTC) ... OK (6 entities)
+  [13/30] id=173460 (57/2024/TT-NHNN) ... OK (4 entities)
+  [14/30] id=27257 (44/2011/TT-NHNN) ... OK (5 entities)
+  [15/30] id=143217 (66/2020/TT-BTC) ... OK (4 entities)
+  [16/30] id=168859 (29/2024/TT-NHNN) ... OK (6 entities)
+  [17/30] id=150974 (08/2021/TT-BTC) ...      [retry 1] ClientError, sleeping 60s...
+ OK (5 entities)
+  [18/30] id=164719 (22/2023/TT-NHNN) ... OK (5 entities)
+  [19/30] id=173695 (56/2024/TT-NHNN) ... OK (6 entities)
+  [20/30] id=186482 (69/2025/TT-NHNN) ... OK (7 entities)
+  [21/30] id=112924 (105/2016/TT-BTC) ... OK (8 entities)
+  [22/30] id=174218 (62/2024/TT-NHNN) ... OK (5 entities)
+  [23/30] id=186888 (62/2025/TT-NHNN) ... OK (7 entities)
+  [24/30] id=6e689cd0-6f81-11f1-94d6-fd5d6d5ff793 (52/VBHN-NHNN) ... OK (6 entities)
+  [25/30] id=185630 (63/2025/TT-NHNN) ... OK (6 entities)
+  [26/30] id=117310 (41/2016/TT-NHNN) ... OK (5 entities)
+  [27/30] id=166269 (17/2023/QH15) ... OK (6 entities)
+  [28/30] id=177271 (01/2025/TT-NHNN) ... OK (5 entities)
+  [29/30] id=44209 (01/2014/TT-NHNN) ... OK (6 entities)
+  [30/30] id=25692 (46/2010/QH12) ... OK (5 entities)
+
+========================================================================
+SAVING OUTPUTS
+========================================================================
+  extracted_entities_raw.csv: 168 rows x 6 cols
+  enriched_metadata.csv: 30 rows x 33 cols
+
+========================================================================
+ORIGINAL FILES INTEGRITY CHECK
+========================================================================
+  metadata.csv: ✓ (md5=9d82a1a199ec0015cf94510c98af1548)
+  content.csv: ✓ (md5=dddd23d88167b4f65a3c0939594065e9)
+
+========================================================================
+STEP 3 REPORT
+========================================================================
+  Successful documents : 30
+  Failed documents     : 0
+  Total entities       : 168
+
+  Entities by type:
+    DoiTuongApDung       : 66
+    LinhVuc              : 41
+    CoQuan               : 31
+    NguoiKy              : 30
+
+  Entities by method:
+    gemini               : 90
+    metadata             : 78
+
+  Metadata fields enriched by Gemini : 47
+
+  5 examples of original vs enriched metadata:
+
+    doc_id=166170 (32/2024/QH15)
+      co_quan_ban_hanh         : original='Quốc hội'                             | enriched='Quốc hội'                             | method=metadata
+      nguoi_ky                 : original='Vương Đình Huệ'                       | enriched='Vương Đình Huệ'                       | method=metadata
+      linh_vuc                 : original='Tín dụng'                             | enriched='Tín dụng'                             | method=metadata
+      pham_vi                  : original='Trung ương'                           | enriched='Trung ương'                           | method=metadata
+      nganh                    : original='Ngân hàng'                            | enriched='Ngân hàng'                            | method=metadata
+      chuc_danh                : original='Chủ tịch Quốc hội'                    | enriched='Chủ tịch Quốc hội'                    | method=metadata
+      doi_tuong_ap_dung        : original=''                                     | enriched='Tổ chức tín dụng, chi nhánh ngân hà'  | method=gemini
+
+    doc_id=112025 (73/2016/NĐ-CP)
+      co_quan_ban_hanh         : original='Chính phủ'                            | enriched='Chính phủ'                            | method=metadata
+      nguoi_ky                 : original='Nguyễn Xuân Phúc'                     | enriched='Nguyễn Xuân Phúc'                     | method=metadata
+      linh_vuc                 : original='Chưa phân loại'                       | enriched='Bảo hiểm'                             | method=gemini
+      pham_vi                  : original='Trung ương'                           | enriched='Trung ương'                           | method=metadata
+      nganh                    : original='Tài chính'                            | enriched='Tài chính'                            | method=metadata
+      chuc_danh                : original='Thủ tướng'                            | enriched='Thủ tướng'                            | method=metadata
+      doi_tuong_ap_dung        : original=''                                     | enriched='Doanh nghiệp bảo hiểm, chi nhánh nư'  | method=gemini
+
+    doc_id=38128 (37/2014/TT-NHNN)
+      co_quan_ban_hanh         : original='Ngân hàng Nhà nước Việt Nam'          | enriched='Ngân hàng Nhà nước Việt Nam'          | method=metadata
+      nguoi_ky                 : original='Đào Minh Tú'                          | enriched='Đào Minh Tú'                          | method=metadata
+      linh_vuc                 : original='Phát hành và kho quỹ'                 | enriched='Phát hành và kho quỹ'                 | method=metadata
+      pham_vi                  : original='Trung ương'                           | enriched='Trung ương'                           | method=metadata
+      nganh                    : original='Ngân hàng'                            | enriched='Ngân hàng'                            | method=metadata
+      chuc_danh                : original='Phó Thống đốc'                        | enriched='Phó Thống đốc'                        | method=metadata
+      doi_tuong_ap_dung        : original=''                                     | enriched='Các đơn vị thuộc Ngân hàng Nhà nước'  | method=gemini
+
+    doc_id=26750 (67/2011/QH12)
+      co_quan_ban_hanh         : original='Quốc hội'                             | enriched='Quốc hội'                             | method=metadata
+      nguoi_ky                 : original='Nguyễn Phú Trọng'                     | enriched='Nguyễn Phú Trọng'                     | method=metadata
+      linh_vuc                 : original='Chưa phân loại'                       | enriched='Chưa phân loại'                       | method=metadata
+      pham_vi                  : original='Trung ương'                           | enriched='Trung ương'                           | method=metadata
+      nganh                    : original='Tài chính'                            | enriched='Tài chính'                            | method=metadata
+      chuc_danh                : original='Chủ tịch Quốc hội'                    | enriched='Chủ tịch Quốc hội'                    | method=metadata
+      doi_tuong_ap_dung        : original=''                                     | enriched='kiểm toán viên, kiểm toán viên hành'  | method=gemini
+
+    doc_id=163441 (46/2023/NĐ-CP)
+      co_quan_ban_hanh         : original='Chính phủ'                            | enriched='Chính phủ'                            | method=metadata
+      nguoi_ky                 : original='Lê Minh Khái'                         | enriched='Lê Minh Khái'                         | method=metadata
+      linh_vuc                 : original='Bảo hiểm'                             | enriched='Bảo hiểm'                             | method=metadata
+      pham_vi                  : original='Trung ương'                           | enriched='Trung ương'                           | method=metadata
+      nganh                    : original='Tài chính'                            | enriched='Tài chính'                            | method=metadata
+      chuc_danh                : original='Phó Thủ tướng Chính phủ'              | enriched='Phó Thủ tướng Chính phủ'              | method=metadata
+      doi_tuong_ap_dung        : original=''                                     | enriched='Doanh nghiệp bảo hiểm, doanh nghiệp'  | method=gemini

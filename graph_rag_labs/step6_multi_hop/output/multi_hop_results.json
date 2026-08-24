@@ -1,0 +1,1914 @@
+[
+  {
+    "query": "Điều kiện để tổ chức tín dụng được cơ cấu lại thời hạn trả nợ",
+    "hops": 0,
+    "result": {
+      "chunks": [
+        {
+          "chunk_id": "c0024-0041e0",
+          "kind": "article",
+          "title": "Điều 4 - Cơ cấu lại thời hạn trả nợ",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Chương II - QUY ĐỊNH CỤ THỂ"
+          ],
+          "parent_doc_id": "c0001-9d3d51",
+          "score": 0.9560362100601196,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0028-3456c9",
+          "kind": "article",
+          "title": "Điều 5 - Giữ nguyên nhóm nợ và phân loại nợ",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Chương II - QUY ĐỊNH CỤ THỂ",
+            "Điều 4 - Cơ cấu lại thời hạn trả nợ"
+          ],
+          "parent_doc_id": "c0001-9d3d51",
+          "score": 0.9534088969230652,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0013-1bdf95",
+          "kind": "paragraph",
+          "title": "Theo đề nghị của Vụ trưởng Vụ Tín dụng các ngành kinh tế;",
+          "text": "Theo đề nghị của Vụ trưởng Vụ Tín dụng các ngành kinh tế;",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Theo đề nghị của Vụ trưởng Vụ Tín dụng các ngành kinh tế;"
+          ],
+          "parent_doc_id": "c0001-9d3d51",
+          "score": 0.9478638172149658,
+          "source": "vector",
+          "via_doc": null
+        }
+      ],
+      "documents": [
+        {
+          "doc_id": "c0001-9d3d51",
+          "title": "Thông tư 02/2023/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.9560362100601196,
+          "hops": 0,
+          "via_relationship": null,
+          "path": [
+            "c0001-9d3d51"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "query": "Điều kiện để tổ chức tín dụng được cơ cấu lại thời hạn trả nợ",
+    "hops": 1,
+    "result": {
+      "chunks": [
+        {
+          "chunk_id": "c0024-0041e0",
+          "kind": "article",
+          "title": "Điều 4 - Cơ cấu lại thời hạn trả nợ",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Chương II - QUY ĐỊNH CỤ THỂ"
+          ],
+          "parent_doc_id": "c0001-9d3d51",
+          "score": 0.9560362100601196,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0028-3456c9",
+          "kind": "article",
+          "title": "Điều 5 - Giữ nguyên nhóm nợ và phân loại nợ",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Chương II - QUY ĐỊNH CỤ THỂ",
+            "Điều 4 - Cơ cấu lại thời hạn trả nợ"
+          ],
+          "parent_doc_id": "c0001-9d3d51",
+          "score": 0.9534088969230652,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0013-1bdf95",
+          "kind": "paragraph",
+          "title": "Theo đề nghị của Vụ trưởng Vụ Tín dụng các ngành kinh tế;",
+          "text": "Theo đề nghị của Vụ trưởng Vụ Tín dụng các ngành kinh tế;",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Theo đề nghị của Vụ trưởng Vụ Tín dụng các ngành kinh tế;"
+          ],
+          "parent_doc_id": "c0001-9d3d51",
+          "score": 0.9478638172149658,
+          "source": "vector",
+          "via_doc": null
+        }
+      ],
+      "documents": [
+        {
+          "doc_id": "c0001-9d3d51",
+          "title": "Thông tư 02/2023/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.9560362100601196,
+          "hops": 0,
+          "via_relationship": null,
+          "path": [
+            "c0001-9d3d51"
+          ]
+        },
+        {
+          "doc_id": "doc-quy-dinh-cua-thong-doc-ngan-hang-nha-nuoc-viet-nam-ve-trich-lap-du-phong-rui-ro-trong-hoat-dong-cua-to-chuc-tin-dung-chi-nhanh-ngan-hang",
+          "title": "quy định của Thống đốc Ngân hàng Nhà nước Việt Nam về trích lập dự phòng rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng",
+          "doc_type": "unknown",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-quy-dinh-cua-thong-doc-ngan-hang-nha-nuoc-viet-nam-ve-trich-lap-du-phong-rui-ro-trong-hoat-dong-cua-to-chuc-tin-dung-chi-nhanh-ngan-hang"
+          ]
+        },
+        {
+          "doc_id": "doc-nghi-quyet-so-50-nq-cp-ngay-08-4-2023-cua-chinh-phu-ve-hoi-nghi-chinh-phu-voi-dia-phuong",
+          "title": "Nghị quyết số 50/NQ-CP ngày 08/4/2023 của Chính phủ về hội nghị Chính phủ với địa phương và phiên họp thường kỳ Chính phủ tháng 3 năm 2023 và Nghị quyết số 59/NQ-CP ngày 23/4/2023 của Chính phủ về giải pháp hỗ trợ tháo gỡ khó khăn cho khách hàng vay phục vụ nhu cầu đời sống, tiêu dùng;*",
+          "doc_type": "nghi_quyet",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-nghi-quyet-so-50-nq-cp-ngay-08-4-2023-cua-chinh-phu-ve-hoi-nghi-chinh-phu-voi-dia-phuong"
+          ]
+        },
+        {
+          "doc_id": "102/2022/NĐ-CP",
+          "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;*",
+          "doc_type": "nghi_dinh",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "102/2022/NĐ-CP"
+          ]
+        },
+        {
+          "doc_id": "doc-luat-cac-to-chuc-tin-dung",
+          "title": "Luật Các tổ chức tín dụng",
+          "doc_type": "luat",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-luat-cac-to-chuc-tin-dung"
+          ]
+        },
+        {
+          "doc_id": "doc-luat-ngan-hang-nha-nuoc-viet-nam",
+          "title": "Luật Ngân hàng Nhà nước Việt Nam",
+          "doc_type": "luat",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-luat-ngan-hang-nha-nuoc-viet-nam"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "query": "Điều kiện để tổ chức tín dụng được cơ cấu lại thời hạn trả nợ",
+    "hops": 2,
+    "result": {
+      "chunks": [
+        {
+          "chunk_id": "c0024-0041e0",
+          "kind": "article",
+          "title": "Điều 4 - Cơ cấu lại thời hạn trả nợ",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Chương II - QUY ĐỊNH CỤ THỂ"
+          ],
+          "parent_doc_id": "c0001-9d3d51",
+          "score": 0.9560362100601196,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0028-3456c9",
+          "kind": "article",
+          "title": "Điều 5 - Giữ nguyên nhóm nợ và phân loại nợ",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Chương II - QUY ĐỊNH CỤ THỂ",
+            "Điều 4 - Cơ cấu lại thời hạn trả nợ"
+          ],
+          "parent_doc_id": "c0001-9d3d51",
+          "score": 0.9534088969230652,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0013-1bdf95",
+          "kind": "paragraph",
+          "title": "Theo đề nghị của Vụ trưởng Vụ Tín dụng các ngành kinh tế;",
+          "text": "Theo đề nghị của Vụ trưởng Vụ Tín dụng các ngành kinh tế;",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Theo đề nghị của Vụ trưởng Vụ Tín dụng các ngành kinh tế;"
+          ],
+          "parent_doc_id": "c0001-9d3d51",
+          "score": 0.9478638172149658,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0154-7c5ff0",
+          "kind": "list",
+          "title": "Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách...",
+          "text": "Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách hàng thực hiện thủ tục cho vay và ký kết thỏa thuận cho vay.\nCho vay hợp vốn: Là việc có từ hai tổ chức tín dụng trở lên cùng thực hiện cho vay đối với khách hàng để thực hiện một phương án, dự án vay vốn.\nCho vay lưu vụ: Là việc tổ chức tín dụng thực hiện cho vay đối với khách hàng để nuôi trồng, chăm sóc các cây trồng, vật nuôi có tính chất mùa vụ theo chu kỳ sản xuất liền kề trong năm hoặc các cây lưu gốc, cây công nghiệp có thu hoạch hàng năm. Theo đó, tổ chức tín dụng và khách hàng thỏa thuận dư nợ gốc của chu kỳ trước tiếp tục được sử dụng cho chu kỳ sản xuất tiếp theo nhưng không vượt quá thời gian của 02 chu kỳ sản xuất liên tiếp.\nCho vay theo hạn mức: Tổ chức tín dụng xác định và thỏa thuận với khách hàng một mức dư nợ cho vay tối đa được duy trì trong một khoảng thời gian nhất định. Trong hạn mức cho vay, tổ chức tín dụng thực hiện cho vay từng lần. Một năm ít nhất một lần, tổ chức tín dụng xem xét xác định lại mức dư nợ cho vay tối đa và thời gian duy trì mức dư nợ này.\nCho vay theo hạn mức cho vay dự phòng: Tổ chức tín dụng cam kết đảm bảo sẵn sàng cho khách hàng vay vốn trong phạm vi mức cho vay dự phòng đã thỏa thuận. Tổ chức tín dụng và khách hàng thỏa thuận thời hạn hiệu lực của hạn mức cho vay dự phòng nhưng không vượt quá 01 (một) năm.\nCho vay theo hạn mức thấu chi trên tài khoản thanh toán: Tổ chức tín dụng chấp thuận cho khách hàng chi vượt số tiền có trên tài khoản thanh toán của khách hàng một mức thấu chi tối đa để thực hiện dịch vụ thanh toán trên tài khoản thanh toán. Mức thấu chi tối đa được duy trì trong một khoảng thời gian tối đa 01 (một) năm.\nCho vay quay vòng: Tổ chức tín dụng và khách hàng thỏa thuận áp dụng cho vay đối với nhu cầu vốn có chu kỳ hoạt động kinh doanh không quá 01 (một) tháng, khách hàng được sử dụng dư nợ gốc của chu kỳ hoạt động kinh doanh trước cho chu kỳ kinh doanh tiếp theo nhưng thời hạn cho vay không vượt quá 03 (ba) tháng.",
+          "heading_path": [
+            "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+            "Chương II - HOẠT ĐỘNG CHO VAY PHỤC VỤ HOẠT ĐỘNG KINH DOANH",
+            "Mục 1",
+            "Điều 27 - Phương thức cho vay",
+            "Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách..."
+          ],
+          "parent_doc_id": "c0001-1d15c8",
+          "score": 0.7224999999999999,
+          "source": "hop:2",
+          "via_doc": "c0001-1d15c8"
+        },
+        {
+          "chunk_id": "c0110-0b6bd2",
+          "kind": "list",
+          "title": "Tổ chức tín dụng có quyền chấm dứt cho vay, thu hồi nợ trước...",
+          "text": "Tổ chức tín dụng có quyền chấm dứt cho vay, thu hồi nợ trước hạn theo nội dung đã thỏa thuận khi phát hiện khách hàng cung cấp thông tin sai sự thật, vi phạm quy định trong thỏa thuận cho vay và/hoặc hợp đồng bảo đảm tiền vay. Khi thực hiện chấm dứt cho vay, thu hồi nợ trước hạn theo thỏa thuận trong thỏa thuận cho vay, tổ chức tín dụng phải thông báo cho khách hàng về việc chấm dứt cho vay, thu hồi nợ trước hạn. Nội dung thông báo tối thiểu bao gồm thời điểm chấm dứt cho vay, thu hồi nợ trước hạn, số dư nợ gốc bị thu hồi trước hạn; thời hạn hoàn trả số dư nợ gốc bị thu hồi trước hạn, thời điểm chuyển nợ quá hạn và lãi suất áp dụng đối với số dư nợ gốc bị thu hồi trước hạn.\nTrường hợp khách hàng không trả được nợ đến hạn, thì tổ chức tín dụng có quyền áp dụng các biện pháp thu hồi nợ theo thỏa thuận cho vay, hợp đồng bảo đảm và quy định của pháp luật có liên quan. Trường hợp sau khi áp dụng các biện pháp thu hồi nợ nhưng vẫn không đủ để hoàn thành nghĩa vụ trả nợ đối với tổ chức tín dụng, thì khách hàng có trách nhiệm tiếp tục trả đầy đủ nợ gốc và lãi tiền vay cho tổ chức tín dụng.\nTrường hợp khách hàng hoặc bên bảo đảm bị tòa án quyết định mở thủ tục phá sản hoặc tuyên bố phá sản, thì việc thu hồi nợ của tổ chức tín dụng đối với khách hàng, bên bảo đảm thực hiện theo quy định của pháp luật về phá sản.\nTổ chức tín dụng có quyền quyết định miễn, giảm lãi tiền vay, phí cho khách hàng theo quy định nội bộ của tổ chức tín dụng.",
+          "heading_path": [
+            "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+            "Chương I",
+            "Điều 21 - Chấm dứt cho vay, xử lý nợ, miễn, giảm lãi tiền vay, phí",
+            "Tổ chức tín dụng có quyền chấm dứt cho vay, thu hồi nợ trước..."
+          ],
+          "parent_doc_id": "c0001-1d15c8",
+          "score": 0.7224999999999999,
+          "source": "hop:2",
+          "via_doc": "c0001-1d15c8"
+        },
+        {
+          "chunk_id": "c0201-e3c5a0",
+          "kind": "list",
+          "title": "Tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội du...",
+          "text": "Tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội dung trong hợp đồng tín dụng đã ký kết phù hợp với quy định của pháp luật có hiệu lực thi hành tại thời điểm ký kết hợp đồng đó hoặc thoả thuận sửa đổi, bổ sung hợp đồng tín dụng phù hợp với quy định tại Thông tư này.\nTrường hợp áp dụng phương thức cho vay theo hạn mức tín dụng, hạn mức tín dụng dự phòng, hạn mức thấu chi trên tài khoản thanh toán, nếu trong nội dung hợp đồng không thỏa thuận thời hạn duy trì hạn mức tín dụng, hạn mức thấu chi trên tài khoản thanh toán, thời hạn hiệu lực của hạn mức tín dụng dự phòng, thì tổ chức tín dụng và khách hàng được tiếp tục thực hiện các nội dung trong hợp đồng tín dụng đã ký kết phù hợp với quy định của pháp luật có hiệu lực thi hành tại thời điểm ký kết hợp đồng nhưng thời hạn duy trì của hạn mức tín dụng, hạn mức thấu chi trên tài khoản thanh toán, thời hạn hiệu lực của hạn mức tín dụng dự phòng tối đa không vượt quá 01 (một) năm kể từ ngày Thông tư này có hiệu lực thi hành.",
+          "heading_path": [
+            "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+            "Chương III - TỔ CHỨC THỰC HIỆN",
+            "Điều 34 - Quy định chuyển tiếp",
+            "Tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội du..."
+          ],
+          "parent_doc_id": "c0001-1d15c8",
+          "score": 0.7224999999999999,
+          "source": "hop:2",
+          "via_doc": "c0001-1d15c8"
+        },
+        {
+          "chunk_id": "c0079-04b436",
+          "kind": "list",
+          "title": "Tổ chức tín dụng thực hiện cho vay bằng phương tiện điện tử ...",
+          "text": "Tổ chức tín dụng thực hiện cho vay bằng phương tiện điện tử phù hợp với điều kiện hoạt động kinh doanh của tổ chức tín dụng, đặc điểm của khoản vay, đảm bảo an ninh, an toàn, bảo vệ thông điệp dữ liệu và bảo mật thông tin phù hợp với quy định của pháp luật về phòng, chống rửa tiền, giao dịch điện tử, hướng dẫn của Ngân hàng Nhà nước Việt Nam về quản lý rủi ro và các văn bản pháp luật có liên quan.\nHệ thống thông tin thực hiện hoạt động cho vay bằng phương tiện điện tử phải tuân thủ quy định về bảo đảm an toàn hệ thống thông tin cấp độ 3 trở lên theo quy định của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ và quy định của Ngân hàng Nhà nước Việt Nam về an toàn hệ thống thông tin trong hoạt động ngân hàng.\nTổ chức tín dụng phải lưu trữ, bảo quản thông tin, dữ liệu theo quy định của pháp luật, đảm bảo an toàn, bảo mật và được sao lưu dự phòng đảm bảo tính đầy đủ, toàn vẹn của hồ sơ cho phép truy cập, sử dụng khi cần thiết hoặc để phục vụ công tác kiểm tra, đối chiếu, giải quyết tra soát, khiếu nại, tranh chấp và cung cấp thông tin khi có yêu cầu từ cơ quan quản lý nhà nước có thẩm quyền.\nTổ chức tín dụng tự quyết định biện pháp, hình thức, công nghệ phục vụ hoạt động cho vay bằng phương tiện điện tử, tự chịu rủi ro phát sinh (nếu có) và phải đáp ứng tối thiểu các yêu cầu sau:",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Điều 1 - Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+            "Tổ chức tín dụng thực hiện cho vay bằng phương tiện điện tử ..."
+          ],
+          "parent_doc_id": "c0001-66de38",
+          "score": 0.7224999999999999,
+          "source": "hop:2",
+          "via_doc": "c0001-66de38"
+        },
+        {
+          "chunk_id": "c0022-563d44",
+          "kind": "list",
+          "title": "Để thực hiện các hoạt động đầu tư kinh doanh thuộc ngành, ng...",
+          "text": "Để thực hiện các hoạt động đầu tư kinh doanh thuộc ngành, nghề cấm đầu tư kinh doanh theo quy định của Luật Đầu tư.\nĐể thanh toán các chi phí, đáp ứng các nhu cầu tài chính của hoạt động đầu tư kinh doanh thuộc ngành, nghề cấm đầu tư kinh doanh theo quy định của Luật Đầu tư và các giao dịch, hành vi khác mà pháp luật cấm.\nĐể mua, sử dụng các hàng hóa, dịch vụ thuộc ngành, nghề cấm đầu tư kinh doanh theo quy định của Luật Đầu tư.\nĐể mua vàng miếng.\nĐể trả nợ khoản cấp tín dụng tại chính tổ chức tín dụng cho vay, trừ trường hợp cho vay để thanh toán lãi tiền vay phát sinh trong quá trình thi công xây dựng công trình, mà chi phí lãi tiền vay được tính trong tổng mức đầu tư xây dựng được cấp có thẩm quyền phê duyệt theo quy định của pháp luật.\nĐể trả nợ khoản vay nước ngoài (không bao gồm khoản vay nước ngoài dưới hình thức mua bán hàng hóa trả chậm), khoản cấp tín dụng tại tổ chức tín dụng khác, trừ trường hợp cho vay để trả nợ trước hạn khoản vay đáp ứng đầy đủ các điều kiện sau:",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Điều 1 - Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+            "Để thực hiện các hoạt động đầu tư kinh doanh thuộc ngành, ng..."
+          ],
+          "parent_doc_id": "c0001-66de38",
+          "score": 0.7224999999999999,
+          "source": "hop:2",
+          "via_doc": "c0001-66de38"
+        },
+        {
+          "chunk_id": "c0045-b86bdb",
+          "kind": "paragraph",
+          "title": "“a) Điều kiện cho vay, trong đó quy định các tiêu chí cụ thể...",
+          "text": "“a) Điều kiện cho vay, trong đó quy định các tiêu chí cụ thể xác định nhu cầu vay vốn sử dụng vào mục đích hợp pháp, có phương án sử dụng vốn khả thi và có khả năng tài chính để trả nợ; các nhu cầu vốn không được cho vay; phương thức cho vay; lãi suất cho vay và phương pháp tính lãi tiền vay; tiêu chí xác định khách hàng có tình hình tài chính minh bạch, lành mạnh được vay vốn theo lãi suất cho vay quy định tại khoản 2 Điều 13 Thông tư này; hồ sơ cho vay và các tài liệu, dữ liệu của khách hàng gửi tổ chức tín dụng phù hợp với đặc điểm của khoản vay, loại cho vay và đối tượng khách hàng; thu nợ; điều kiện, quy trình và thủ tục cơ cấu lại thời hạn trả nợ; chuyển nợ quá hạn; quy định cụ thể điều kiện cho vay không áp dụng biện pháp bảo đảm, phân cấp thẩm quyền quyết định cho vay không áp dụng biện pháp bảo đảm.”.",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Điều 1 - Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+            "“a) Điều kiện cho vay, trong đó quy định các tiêu chí cụ thể..."
+          ],
+          "parent_doc_id": "c0001-66de38",
+          "score": 0.7224999999999999,
+          "source": "hop:2",
+          "via_doc": "c0001-66de38"
+        }
+      ],
+      "documents": [
+        {
+          "doc_id": "c0001-9d3d51",
+          "title": "Thông tư 02/2023/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.9560362100601196,
+          "hops": 0,
+          "via_relationship": null,
+          "path": [
+            "c0001-9d3d51"
+          ]
+        },
+        {
+          "doc_id": "doc-quy-dinh-cua-thong-doc-ngan-hang-nha-nuoc-viet-nam-ve-trich-lap-du-phong-rui-ro-trong-hoat-dong-cua-to-chuc-tin-dung-chi-nhanh-ngan-hang",
+          "title": "quy định của Thống đốc Ngân hàng Nhà nước Việt Nam về trích lập dự phòng rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng",
+          "doc_type": "unknown",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-quy-dinh-cua-thong-doc-ngan-hang-nha-nuoc-viet-nam-ve-trich-lap-du-phong-rui-ro-trong-hoat-dong-cua-to-chuc-tin-dung-chi-nhanh-ngan-hang"
+          ]
+        },
+        {
+          "doc_id": "doc-nghi-quyet-so-50-nq-cp-ngay-08-4-2023-cua-chinh-phu-ve-hoi-nghi-chinh-phu-voi-dia-phuong",
+          "title": "Nghị quyết số 50/NQ-CP ngày 08/4/2023 của Chính phủ về hội nghị Chính phủ với địa phương và phiên họp thường kỳ Chính phủ tháng 3 năm 2023 và Nghị quyết số 59/NQ-CP ngày 23/4/2023 của Chính phủ về giải pháp hỗ trợ tháo gỡ khó khăn cho khách hàng vay phục vụ nhu cầu đời sống, tiêu dùng;*",
+          "doc_type": "nghi_quyet",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-nghi-quyet-so-50-nq-cp-ngay-08-4-2023-cua-chinh-phu-ve-hoi-nghi-chinh-phu-voi-dia-phuong"
+          ]
+        },
+        {
+          "doc_id": "102/2022/NĐ-CP",
+          "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;*",
+          "doc_type": "nghi_dinh",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "102/2022/NĐ-CP"
+          ]
+        },
+        {
+          "doc_id": "doc-luat-cac-to-chuc-tin-dung",
+          "title": "Luật Các tổ chức tín dụng",
+          "doc_type": "luat",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-luat-cac-to-chuc-tin-dung"
+          ]
+        },
+        {
+          "doc_id": "doc-luat-ngan-hang-nha-nuoc-viet-nam",
+          "title": "Luật Ngân hàng Nhà nước Việt Nam",
+          "doc_type": "luat",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-luat-ngan-hang-nha-nuoc-viet-nam"
+          ]
+        },
+        {
+          "doc_id": "c0001-66de38",
+          "title": "Thông tư 06/2023/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.7224999999999999,
+          "hops": 2,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "102/2022/NĐ-CP",
+            "c0001-66de38"
+          ]
+        },
+        {
+          "doc_id": "c0001-1d15c8",
+          "title": "Thông tư 39/2016/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.7224999999999999,
+          "hops": 2,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-luat-cac-to-chuc-tin-dung",
+            "c0001-1d15c8"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "query": "Thông tư 06/2023 sửa đổi những điều nào của Thông tư 39/2016?",
+    "hops": 0,
+    "result": {
+      "chunks": [
+        {
+          "chunk_id": "c0013-2f8c2b",
+          "kind": "article",
+          "title": "Điều 1 - Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ"
+          ],
+          "parent_doc_id": "c0001-66de38",
+          "score": 0.9042274951934814,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0102-eebeb0",
+          "kind": "paragraph",
+          "title": "Điều 2. Bãi bỏ khoản 5 Điều 7 của Thông tư số 39/2016/TT-NHN...",
+          "text": "Điều 2. Bãi bỏ khoản 5 Điều 7 của Thông tư số 39/2016/TT-NHNN.",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Điều 1 - Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+            "Điều 2. Bãi bỏ khoản 5 Điều 7 của Thông tư số 39/2016/TT-NHN..."
+          ],
+          "parent_doc_id": "c0001-66de38",
+          "score": 0.8994007110595703,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0103-355a76",
+          "kind": "article",
+          "title": "Điều 3 - Trách nhiệm tổ chức thực hiện",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Điều 1 - Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN"
+          ],
+          "parent_doc_id": "c0001-66de38",
+          "score": 0.8925086855888367,
+          "source": "vector",
+          "via_doc": null
+        }
+      ],
+      "documents": [
+        {
+          "doc_id": "c0001-66de38",
+          "title": "Thông tư 06/2023/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.9042274951934814,
+          "hops": 0,
+          "via_relationship": null,
+          "path": [
+            "c0001-66de38"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "query": "Thông tư 06/2023 sửa đổi những điều nào của Thông tư 39/2016?",
+    "hops": 1,
+    "result": {
+      "chunks": [
+        {
+          "chunk_id": "c0013-2f8c2b",
+          "kind": "article",
+          "title": "Điều 1 - Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ"
+          ],
+          "parent_doc_id": "c0001-66de38",
+          "score": 0.9042274951934814,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0102-eebeb0",
+          "kind": "paragraph",
+          "title": "Điều 2. Bãi bỏ khoản 5 Điều 7 của Thông tư số 39/2016/TT-NHN...",
+          "text": "Điều 2. Bãi bỏ khoản 5 Điều 7 của Thông tư số 39/2016/TT-NHNN.",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Điều 1 - Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+            "Điều 2. Bãi bỏ khoản 5 Điều 7 của Thông tư số 39/2016/TT-NHN..."
+          ],
+          "parent_doc_id": "c0001-66de38",
+          "score": 0.8994007110595703,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0103-355a76",
+          "kind": "article",
+          "title": "Điều 3 - Trách nhiệm tổ chức thực hiện",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Điều 1 - Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN"
+          ],
+          "parent_doc_id": "c0001-66de38",
+          "score": 0.8925086855888367,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0154-7c5ff0",
+          "kind": "list",
+          "title": "Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách...",
+          "text": "Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách hàng thực hiện thủ tục cho vay và ký kết thỏa thuận cho vay.\nCho vay hợp vốn: Là việc có từ hai tổ chức tín dụng trở lên cùng thực hiện cho vay đối với khách hàng để thực hiện một phương án, dự án vay vốn.\nCho vay lưu vụ: Là việc tổ chức tín dụng thực hiện cho vay đối với khách hàng để nuôi trồng, chăm sóc các cây trồng, vật nuôi có tính chất mùa vụ theo chu kỳ sản xuất liền kề trong năm hoặc các cây lưu gốc, cây công nghiệp có thu hoạch hàng năm. Theo đó, tổ chức tín dụng và khách hàng thỏa thuận dư nợ gốc của chu kỳ trước tiếp tục được sử dụng cho chu kỳ sản xuất tiếp theo nhưng không vượt quá thời gian của 02 chu kỳ sản xuất liên tiếp.\nCho vay theo hạn mức: Tổ chức tín dụng xác định và thỏa thuận với khách hàng một mức dư nợ cho vay tối đa được duy trì trong một khoảng thời gian nhất định. Trong hạn mức cho vay, tổ chức tín dụng thực hiện cho vay từng lần. Một năm ít nhất một lần, tổ chức tín dụng xem xét xác định lại mức dư nợ cho vay tối đa và thời gian duy trì mức dư nợ này.\nCho vay theo hạn mức cho vay dự phòng: Tổ chức tín dụng cam kết đảm bảo sẵn sàng cho khách hàng vay vốn trong phạm vi mức cho vay dự phòng đã thỏa thuận. Tổ chức tín dụng và khách hàng thỏa thuận thời hạn hiệu lực của hạn mức cho vay dự phòng nhưng không vượt quá 01 (một) năm.\nCho vay theo hạn mức thấu chi trên tài khoản thanh toán: Tổ chức tín dụng chấp thuận cho khách hàng chi vượt số tiền có trên tài khoản thanh toán của khách hàng một mức thấu chi tối đa để thực hiện dịch vụ thanh toán trên tài khoản thanh toán. Mức thấu chi tối đa được duy trì trong một khoảng thời gian tối đa 01 (một) năm.\nCho vay quay vòng: Tổ chức tín dụng và khách hàng thỏa thuận áp dụng cho vay đối với nhu cầu vốn có chu kỳ hoạt động kinh doanh không quá 01 (một) tháng, khách hàng được sử dụng dư nợ gốc của chu kỳ hoạt động kinh doanh trước cho chu kỳ kinh doanh tiếp theo nhưng thời hạn cho vay không vượt quá 03 (ba) tháng.",
+          "heading_path": [
+            "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+            "Chương II - HOẠT ĐỘNG CHO VAY PHỤC VỤ HOẠT ĐỘNG KINH DOANH",
+            "Mục 1",
+            "Điều 27 - Phương thức cho vay",
+            "Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách..."
+          ],
+          "parent_doc_id": "c0001-1d15c8",
+          "score": 0.85,
+          "source": "hop:1",
+          "via_doc": "c0001-1d15c8"
+        },
+        {
+          "chunk_id": "c0110-0b6bd2",
+          "kind": "list",
+          "title": "Tổ chức tín dụng có quyền chấm dứt cho vay, thu hồi nợ trước...",
+          "text": "Tổ chức tín dụng có quyền chấm dứt cho vay, thu hồi nợ trước hạn theo nội dung đã thỏa thuận khi phát hiện khách hàng cung cấp thông tin sai sự thật, vi phạm quy định trong thỏa thuận cho vay và/hoặc hợp đồng bảo đảm tiền vay. Khi thực hiện chấm dứt cho vay, thu hồi nợ trước hạn theo thỏa thuận trong thỏa thuận cho vay, tổ chức tín dụng phải thông báo cho khách hàng về việc chấm dứt cho vay, thu hồi nợ trước hạn. Nội dung thông báo tối thiểu bao gồm thời điểm chấm dứt cho vay, thu hồi nợ trước hạn, số dư nợ gốc bị thu hồi trước hạn; thời hạn hoàn trả số dư nợ gốc bị thu hồi trước hạn, thời điểm chuyển nợ quá hạn và lãi suất áp dụng đối với số dư nợ gốc bị thu hồi trước hạn.\nTrường hợp khách hàng không trả được nợ đến hạn, thì tổ chức tín dụng có quyền áp dụng các biện pháp thu hồi nợ theo thỏa thuận cho vay, hợp đồng bảo đảm và quy định của pháp luật có liên quan. Trường hợp sau khi áp dụng các biện pháp thu hồi nợ nhưng vẫn không đủ để hoàn thành nghĩa vụ trả nợ đối với tổ chức tín dụng, thì khách hàng có trách nhiệm tiếp tục trả đầy đủ nợ gốc và lãi tiền vay cho tổ chức tín dụng.\nTrường hợp khách hàng hoặc bên bảo đảm bị tòa án quyết định mở thủ tục phá sản hoặc tuyên bố phá sản, thì việc thu hồi nợ của tổ chức tín dụng đối với khách hàng, bên bảo đảm thực hiện theo quy định của pháp luật về phá sản.\nTổ chức tín dụng có quyền quyết định miễn, giảm lãi tiền vay, phí cho khách hàng theo quy định nội bộ của tổ chức tín dụng.",
+          "heading_path": [
+            "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+            "Chương I",
+            "Điều 21 - Chấm dứt cho vay, xử lý nợ, miễn, giảm lãi tiền vay, phí",
+            "Tổ chức tín dụng có quyền chấm dứt cho vay, thu hồi nợ trước..."
+          ],
+          "parent_doc_id": "c0001-1d15c8",
+          "score": 0.85,
+          "source": "hop:1",
+          "via_doc": "c0001-1d15c8"
+        },
+        {
+          "chunk_id": "c0201-e3c5a0",
+          "kind": "list",
+          "title": "Tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội du...",
+          "text": "Tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội dung trong hợp đồng tín dụng đã ký kết phù hợp với quy định của pháp luật có hiệu lực thi hành tại thời điểm ký kết hợp đồng đó hoặc thoả thuận sửa đổi, bổ sung hợp đồng tín dụng phù hợp với quy định tại Thông tư này.\nTrường hợp áp dụng phương thức cho vay theo hạn mức tín dụng, hạn mức tín dụng dự phòng, hạn mức thấu chi trên tài khoản thanh toán, nếu trong nội dung hợp đồng không thỏa thuận thời hạn duy trì hạn mức tín dụng, hạn mức thấu chi trên tài khoản thanh toán, thời hạn hiệu lực của hạn mức tín dụng dự phòng, thì tổ chức tín dụng và khách hàng được tiếp tục thực hiện các nội dung trong hợp đồng tín dụng đã ký kết phù hợp với quy định của pháp luật có hiệu lực thi hành tại thời điểm ký kết hợp đồng nhưng thời hạn duy trì của hạn mức tín dụng, hạn mức thấu chi trên tài khoản thanh toán, thời hạn hiệu lực của hạn mức tín dụng dự phòng tối đa không vượt quá 01 (một) năm kể từ ngày Thông tư này có hiệu lực thi hành.",
+          "heading_path": [
+            "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+            "Chương III - TỔ CHỨC THỰC HIỆN",
+            "Điều 34 - Quy định chuyển tiếp",
+            "Tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội du..."
+          ],
+          "parent_doc_id": "c0001-1d15c8",
+          "score": 0.85,
+          "source": "hop:1",
+          "via_doc": "c0001-1d15c8"
+        }
+      ],
+      "documents": [
+        {
+          "doc_id": "c0001-66de38",
+          "title": "Thông tư 06/2023/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.9042274951934814,
+          "hops": 0,
+          "via_relationship": null,
+          "path": [
+            "c0001-66de38"
+          ]
+        },
+        {
+          "doc_id": "c0001-1d15c8",
+          "title": "Thông tư 39/2016/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "THAY_THE",
+          "path": [
+            "c0001-66de38",
+            "c0001-1d15c8"
+          ]
+        },
+        {
+          "doc_id": "102/2022/NĐ-CP",
+          "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;*",
+          "doc_type": "nghi_dinh",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-66de38",
+            "102/2022/NĐ-CP"
+          ]
+        },
+        {
+          "doc_id": "doc-luat-cac-to-chuc-tin-dung",
+          "title": "Luật Các tổ chức tín dụng",
+          "doc_type": "luat",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-66de38",
+            "doc-luat-cac-to-chuc-tin-dung"
+          ]
+        },
+        {
+          "doc_id": "doc-luat-ngan-hang-nha-nuoc-viet-nam",
+          "title": "Luật Ngân hàng Nhà nước Việt Nam",
+          "doc_type": "luat",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-66de38",
+            "doc-luat-ngan-hang-nha-nuoc-viet-nam"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "query": "Thông tư 06/2023 sửa đổi những điều nào của Thông tư 39/2016?",
+    "hops": 2,
+    "result": {
+      "chunks": [
+        {
+          "chunk_id": "c0013-2f8c2b",
+          "kind": "article",
+          "title": "Điều 1 - Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ"
+          ],
+          "parent_doc_id": "c0001-66de38",
+          "score": 0.9042274951934814,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0102-eebeb0",
+          "kind": "paragraph",
+          "title": "Điều 2. Bãi bỏ khoản 5 Điều 7 của Thông tư số 39/2016/TT-NHN...",
+          "text": "Điều 2. Bãi bỏ khoản 5 Điều 7 của Thông tư số 39/2016/TT-NHNN.",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Điều 1 - Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN",
+            "Điều 2. Bãi bỏ khoản 5 Điều 7 của Thông tư số 39/2016/TT-NHN..."
+          ],
+          "parent_doc_id": "c0001-66de38",
+          "score": 0.8994007110595703,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0103-355a76",
+          "kind": "article",
+          "title": "Điều 3 - Trách nhiệm tổ chức thực hiện",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Điều 1 - Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN"
+          ],
+          "parent_doc_id": "c0001-66de38",
+          "score": 0.8925086855888367,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0154-7c5ff0",
+          "kind": "list",
+          "title": "Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách...",
+          "text": "Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách hàng thực hiện thủ tục cho vay và ký kết thỏa thuận cho vay.\nCho vay hợp vốn: Là việc có từ hai tổ chức tín dụng trở lên cùng thực hiện cho vay đối với khách hàng để thực hiện một phương án, dự án vay vốn.\nCho vay lưu vụ: Là việc tổ chức tín dụng thực hiện cho vay đối với khách hàng để nuôi trồng, chăm sóc các cây trồng, vật nuôi có tính chất mùa vụ theo chu kỳ sản xuất liền kề trong năm hoặc các cây lưu gốc, cây công nghiệp có thu hoạch hàng năm. Theo đó, tổ chức tín dụng và khách hàng thỏa thuận dư nợ gốc của chu kỳ trước tiếp tục được sử dụng cho chu kỳ sản xuất tiếp theo nhưng không vượt quá thời gian của 02 chu kỳ sản xuất liên tiếp.\nCho vay theo hạn mức: Tổ chức tín dụng xác định và thỏa thuận với khách hàng một mức dư nợ cho vay tối đa được duy trì trong một khoảng thời gian nhất định. Trong hạn mức cho vay, tổ chức tín dụng thực hiện cho vay từng lần. Một năm ít nhất một lần, tổ chức tín dụng xem xét xác định lại mức dư nợ cho vay tối đa và thời gian duy trì mức dư nợ này.\nCho vay theo hạn mức cho vay dự phòng: Tổ chức tín dụng cam kết đảm bảo sẵn sàng cho khách hàng vay vốn trong phạm vi mức cho vay dự phòng đã thỏa thuận. Tổ chức tín dụng và khách hàng thỏa thuận thời hạn hiệu lực của hạn mức cho vay dự phòng nhưng không vượt quá 01 (một) năm.\nCho vay theo hạn mức thấu chi trên tài khoản thanh toán: Tổ chức tín dụng chấp thuận cho khách hàng chi vượt số tiền có trên tài khoản thanh toán của khách hàng một mức thấu chi tối đa để thực hiện dịch vụ thanh toán trên tài khoản thanh toán. Mức thấu chi tối đa được duy trì trong một khoảng thời gian tối đa 01 (một) năm.\nCho vay quay vòng: Tổ chức tín dụng và khách hàng thỏa thuận áp dụng cho vay đối với nhu cầu vốn có chu kỳ hoạt động kinh doanh không quá 01 (một) tháng, khách hàng được sử dụng dư nợ gốc của chu kỳ hoạt động kinh doanh trước cho chu kỳ kinh doanh tiếp theo nhưng thời hạn cho vay không vượt quá 03 (ba) tháng.",
+          "heading_path": [
+            "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+            "Chương II - HOẠT ĐỘNG CHO VAY PHỤC VỤ HOẠT ĐỘNG KINH DOANH",
+            "Mục 1",
+            "Điều 27 - Phương thức cho vay",
+            "Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách..."
+          ],
+          "parent_doc_id": "c0001-1d15c8",
+          "score": 0.85,
+          "source": "hop:1",
+          "via_doc": "c0001-1d15c8"
+        },
+        {
+          "chunk_id": "c0110-0b6bd2",
+          "kind": "list",
+          "title": "Tổ chức tín dụng có quyền chấm dứt cho vay, thu hồi nợ trước...",
+          "text": "Tổ chức tín dụng có quyền chấm dứt cho vay, thu hồi nợ trước hạn theo nội dung đã thỏa thuận khi phát hiện khách hàng cung cấp thông tin sai sự thật, vi phạm quy định trong thỏa thuận cho vay và/hoặc hợp đồng bảo đảm tiền vay. Khi thực hiện chấm dứt cho vay, thu hồi nợ trước hạn theo thỏa thuận trong thỏa thuận cho vay, tổ chức tín dụng phải thông báo cho khách hàng về việc chấm dứt cho vay, thu hồi nợ trước hạn. Nội dung thông báo tối thiểu bao gồm thời điểm chấm dứt cho vay, thu hồi nợ trước hạn, số dư nợ gốc bị thu hồi trước hạn; thời hạn hoàn trả số dư nợ gốc bị thu hồi trước hạn, thời điểm chuyển nợ quá hạn và lãi suất áp dụng đối với số dư nợ gốc bị thu hồi trước hạn.\nTrường hợp khách hàng không trả được nợ đến hạn, thì tổ chức tín dụng có quyền áp dụng các biện pháp thu hồi nợ theo thỏa thuận cho vay, hợp đồng bảo đảm và quy định của pháp luật có liên quan. Trường hợp sau khi áp dụng các biện pháp thu hồi nợ nhưng vẫn không đủ để hoàn thành nghĩa vụ trả nợ đối với tổ chức tín dụng, thì khách hàng có trách nhiệm tiếp tục trả đầy đủ nợ gốc và lãi tiền vay cho tổ chức tín dụng.\nTrường hợp khách hàng hoặc bên bảo đảm bị tòa án quyết định mở thủ tục phá sản hoặc tuyên bố phá sản, thì việc thu hồi nợ của tổ chức tín dụng đối với khách hàng, bên bảo đảm thực hiện theo quy định của pháp luật về phá sản.\nTổ chức tín dụng có quyền quyết định miễn, giảm lãi tiền vay, phí cho khách hàng theo quy định nội bộ của tổ chức tín dụng.",
+          "heading_path": [
+            "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+            "Chương I",
+            "Điều 21 - Chấm dứt cho vay, xử lý nợ, miễn, giảm lãi tiền vay, phí",
+            "Tổ chức tín dụng có quyền chấm dứt cho vay, thu hồi nợ trước..."
+          ],
+          "parent_doc_id": "c0001-1d15c8",
+          "score": 0.85,
+          "source": "hop:1",
+          "via_doc": "c0001-1d15c8"
+        },
+        {
+          "chunk_id": "c0201-e3c5a0",
+          "kind": "list",
+          "title": "Tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội du...",
+          "text": "Tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội dung trong hợp đồng tín dụng đã ký kết phù hợp với quy định của pháp luật có hiệu lực thi hành tại thời điểm ký kết hợp đồng đó hoặc thoả thuận sửa đổi, bổ sung hợp đồng tín dụng phù hợp với quy định tại Thông tư này.\nTrường hợp áp dụng phương thức cho vay theo hạn mức tín dụng, hạn mức tín dụng dự phòng, hạn mức thấu chi trên tài khoản thanh toán, nếu trong nội dung hợp đồng không thỏa thuận thời hạn duy trì hạn mức tín dụng, hạn mức thấu chi trên tài khoản thanh toán, thời hạn hiệu lực của hạn mức tín dụng dự phòng, thì tổ chức tín dụng và khách hàng được tiếp tục thực hiện các nội dung trong hợp đồng tín dụng đã ký kết phù hợp với quy định của pháp luật có hiệu lực thi hành tại thời điểm ký kết hợp đồng nhưng thời hạn duy trì của hạn mức tín dụng, hạn mức thấu chi trên tài khoản thanh toán, thời hạn hiệu lực của hạn mức tín dụng dự phòng tối đa không vượt quá 01 (một) năm kể từ ngày Thông tư này có hiệu lực thi hành.",
+          "heading_path": [
+            "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+            "Chương III - TỔ CHỨC THỰC HIỆN",
+            "Điều 34 - Quy định chuyển tiếp",
+            "Tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội du..."
+          ],
+          "parent_doc_id": "c0001-1d15c8",
+          "score": 0.85,
+          "source": "hop:1",
+          "via_doc": "c0001-1d15c8"
+        },
+        {
+          "chunk_id": "c0082-ced79d",
+          "kind": "list",
+          "title": "Cột (5): Lũy kế từ ngày Thông tư có hiệu lực, số lượt khách ...",
+          "text": "Cột (5): Lũy kế từ ngày Thông tư có hiệu lực, số lượt khách hàng đã được cơ cấu lại thời hạn trả nợ (gốc và/hoặc lãi) và giữ nguyên nhóm nợ được thực hiện theo Thông tư này.\nCột (6): Số dư nợ gốc phát sinh nghĩa vụ trả nợ trong khoảng thời gian quy định tại khoản 2 Điều 4 Thông tư này được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ tại cuối kỳ báo cáo (lưu ý chỉ báo cáo nợ gốc phát sinh nghĩa vụ trả nợ trong khoảng thời gian quy định tại khoản 2 Điều 4 Thông tư này, không phải toàn bộ dư nợ của khoản nợ; trường hợp đã kết thúc thời hạn cơ cấu nhưng khách hàng chưa trả hết nợ được cơ cấu thì báo cáo số dư nợ cơ cấu còn lại thực tế tại cuối kỳ báo cáo).\nCột (7): Số tiền lãi được cơ cấu lại thời hạn trả nợ được thực hiện theo Thông tư này tại cuối kỳ báo cáo. (Lưu ý trường hợp đã kết thúc thời hạn cơ cấu nhưng khách hàng chưa trả hết tiền lãi được cơ cấu, tổ chức tín dụng báo cáo số tiền lãi được cơ cấu còn lại thực tế tại cuối kỳ báo cáo).\nCột (8): Số khách hàng được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ (gốc và/hoặc lãi) tại cuối kỳ báo cáo (tương ứng với số liệu tại cột 6, cột 7).\nCột (9): Tổng dư nợ (gốc và lãi) của khách hàng có số dư được cơ cấu lại thời hạn trả nợ theo Thông tư này tại cuối kỳ báo cáo (tương ứng với các khách hàng được thống kê tại cột 8).\nCột (10): Tổng dư nợ gốc của khách hàng có khoản nợ có số dư nợ đã được cơ cấu lại thời hạn trả nợ theo quy định tại Thông tư này đang được phân loại ở nhóm 1, 2 nhưng sẽ phải chuyển sang nhóm 3, 4, 5 nếu thực hiện phân loại lại theo quy định của Ngân hàng Nhà nước Việt Nam về phân loại nợ, trích lập và sử dụng dự phòng để xử lý rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài tại cuối kỳ báo cáo.\nCột (11): Số dư nợ gốc được cơ cấu lại thời hạn trả nợ theo quy định tại Thông tư này của khách hàng được thống kê tại cột 8 đang được phân loại ở nhóm 1, 2 nhưng sẽ phải chuyển sang nhóm 3, 4, 5 nếu thực hiện phân loại lại theo quy định của Ngân hàng Nhà nước Việt Nam về phân loại nợ, trích lập và sử dụng dự phòng để xử lý rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài tại cuối kỳ báo cáo.\nCột (12): Tổng số khách hàng có số dư nợ được thống kê tại cột 11 tại cuối kỳ báo cáo.\nCột (13): Tổng số tiền dự phòng phải trích của các khách hàng có số nợ được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ theo quy định tại Khoản 1 Điều 6 Thông tư này tại cuối kỳ báo cáo.\nCột (14): Tổng số tiền dự phòng đã trích của các khách hàng có số nợ được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ theo quy định tại khoản 2 Điều 6 Thông tư này tại cuối kỳ báo cáo.\nCột (15): Số lãi phải thu theo dõi ngoại bảng của các khách hàng được thống kê tại cột 8 đối với số dư nợ được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ theo quy định tại khoản 4 Điều 5 Thông tư này.\nDòng II báo cáo số liệu phân theo mục đích cho vay: (1) Phục vụ nhu cầu đời sống, tiêu dùng (theo quy định tại Thông tư 39/2016/TT-NHNN và Thông tư số 43/2016/TT-NHNN); (2) Phục vụ hoạt động sản xuất, kinh doanh (là khoản cho vay/cho thuê tài chính nhằm phục vụ các mục đích ngoài mục đích tại dòng II.1).\nDòng III báo cáo số liệu phân theo 21 ngành kinh tế theo quy định tại Quyết định 27/2018/QĐ-TTg ngày 06/7/2018 của Thủ tướng Chính phủ ban hành hệ thống ngành kinh tế Việt Nam.",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+            "Điều 10 - Tổ chức thực hiện",
+            "Cột (5): Lũy kế từ ngày Thông tư có hiệu lực, số lượt khách ..."
+          ],
+          "parent_doc_id": "c0001-9d3d51",
+          "score": 0.7224999999999999,
+          "source": "hop:2",
+          "via_doc": "c0001-9d3d51"
+        },
+        {
+          "chunk_id": "c0029-241ca2",
+          "kind": "list",
+          "title": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài được giữ ng...",
+          "text": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài được giữ nguyên nhóm nợ đối với khoản nợ có số dư nợ gốc và/hoặc lãi được cơ cấu lại thời hạn trả nợ (sau đây là khoản nợ được cơ cấu lại thời hạn trả nợ) theo quy định tại Thông tư này như nhóm nợ đã được phân loại theo quy định của Thống đốc Ngân hàng Nhà nước Việt Nam về phân loại tài sản có, mức trích, phương pháp trích lập dự phòng rủi ro và việc sử dụng dự phòng để xử lý rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài tại thời điểm gần nhất trước khi cơ cấu lại thời hạn trả nợ theo quy định tại Thông tư này.\nKhoản nợ sau khi cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ theo quy định tại khoản 1 Điều này còn trong hạn theo thời hạn cơ cấu lại, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài không phải áp dụng nguyên tắc điều chỉnh, phân loại lại vào nhóm nợ có mức độ rủi ro cao hơn theo quy định của Thống đốc Ngân hàng Nhà nước Việt Nam về phân loại tài sản có, mức trích, phương pháp trích lập dự phòng rủi ro và việc sử dụng dự phòng để xử lý rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài.\nTrường hợp khoản nợ sau khi cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ theo quy định tại khoản 1 Điều này quá hạn theo thời hạn cơ cấu lại mà không được tổ chức tín dụng, chi nhánh ngân hàng nước ngoài tiếp tục cơ cấu lại thời hạn trả nợ theo quy định tại Thông tư này, thì tổ chức tín dụng, chi nhánh ngân hàng nước ngoài phải thực hiện phân loại nợ theo quy định của Thống đốc Ngân hàng Nhà nước Việt Nam về phân loại tài sản có, mức trích, phương pháp trích lập dự phòng rủi ro và việc sử dụng dự phòng để xử lý rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài.\nĐối với số lãi phải thu của khoản nợ được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ đủ tiêu chuẩn (nhóm 1) theo quy định tại Thông tư này, kể từ ngày được cơ cấu lại, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài không phải hạch toán thu nhập (dự thu) mà thực hiện theo dõi ngoại bảng để đôn đốc thu; thực hiện hạch toán vào thu nhập khi thu được theo quy định của pháp luật về chế độ tài chính đối với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài.",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Chương II - QUY ĐỊNH CỤ THỂ",
+            "Điều 5 - Giữ nguyên nhóm nợ và phân loại nợ",
+            "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài được giữ ng..."
+          ],
+          "parent_doc_id": "c0001-9d3d51",
+          "score": 0.7224999999999999,
+          "source": "hop:2",
+          "via_doc": "c0001-9d3d51"
+        },
+        {
+          "chunk_id": "c0081-103adc",
+          "kind": "table",
+          "title": "Cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ\nNợ không bị...",
+          "text": "Cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ\nNợ không bị chuyển sang nhóm nợ xấu do được giữ nguyên nhóm nợ\nDự phòng\nLũy kế\nTại cuối kỳ báo cáo\nTổng giá trị nợ đã được cơ cấu lại thời hạn trả nợ lũy kế\nSố lượt khách hàng được cơ cấu lại thời hạn trả nợ lũy kế (gốc và/hoặc lãi)\nDư nợ được cơ cấu lại thời hạn trả nợ tại cuối kỳ báo cáo\nSố khách hàng được cơ cấu lại thời hạn trả nợ tại cuối kỳ báo cáo (gốc và/hoặc lãi)\nTổng dư nợ của khách hàng có số dư được cơ cấu lại thời hạn trả nợ tại cuối kỳ báo cáo\nTổng số dư nợ của khách hàng có khoản nợ không bị chuyển sang nhóm nợ xấu do được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ tại cuối kỳ báo cáo\nTrong đó:\nSố khách hàng không bị chuyển sang nhóm nợ xấu tại cuối kỳ báo cáo\nDự phòng\nSố lãi phải thu hạch toán ngoại bảng theo quy định tại khoản 4 Điều 5 Thông tư này\nGốc\nLãi\nSố lượt khách hàng được cơ cấu lại thời hạn trả nợ lũy kế (gốc và/hoặc lãi)\nGốc\nLãi\nSố khách hàng được cơ cấu lại thời hạn trả nợ tại cuối kỳ báo cáo (gốc và/hoặc lãi)\nTổng dư nợ của khách hàng có số dư được cơ cấu lại thời hạn trả nợ tại cuối kỳ báo cáo\nTổng số dư nợ của khách hàng có khoản nợ không bị chuyển sang nhóm nợ xấu do được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ tại cuối kỳ báo cáo\nSố dư nợ được cơ cấu lại thời hạn trả nợ không bị chuyển sang nhóm nợ xấu\nSố khách hàng không bị chuyển sang nhóm nợ xấu tại cuối kỳ báo cáo\nSố tiền dự phòng phải trích tại cuối kỳ báo cáo\nSố tiền dự phòng đã trích\nSố lãi phải thu hạch toán ngoại bảng theo quy định tại khoản 4 Điều 5 Thông tư này\n(1)\n(2)\n(3)\n(4)\n(5)\n(6)\n(7)\n(8)\n(9)\n(10)\n(11)\n(12)\n(13)\n(14)\n(15)",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Chương III - HƯỚNG DẪN LẬP BÁO CÁO:",
+            "Điều 10 - Tổ chức thực hiện",
+            "Cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ\nNợ không bị..."
+          ],
+          "parent_doc_id": "c0001-9d3d51",
+          "score": 0.7224999999999999,
+          "source": "hop:2",
+          "via_doc": "c0001-9d3d51"
+        }
+      ],
+      "documents": [
+        {
+          "doc_id": "c0001-66de38",
+          "title": "Thông tư 06/2023/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.9042274951934814,
+          "hops": 0,
+          "via_relationship": null,
+          "path": [
+            "c0001-66de38"
+          ]
+        },
+        {
+          "doc_id": "c0001-1d15c8",
+          "title": "Thông tư 39/2016/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "THAY_THE",
+          "path": [
+            "c0001-66de38",
+            "c0001-1d15c8"
+          ]
+        },
+        {
+          "doc_id": "102/2022/NĐ-CP",
+          "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;*",
+          "doc_type": "nghi_dinh",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-66de38",
+            "102/2022/NĐ-CP"
+          ]
+        },
+        {
+          "doc_id": "doc-luat-cac-to-chuc-tin-dung",
+          "title": "Luật Các tổ chức tín dụng",
+          "doc_type": "luat",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-66de38",
+            "doc-luat-cac-to-chuc-tin-dung"
+          ]
+        },
+        {
+          "doc_id": "doc-luat-ngan-hang-nha-nuoc-viet-nam",
+          "title": "Luật Ngân hàng Nhà nước Việt Nam",
+          "doc_type": "luat",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-66de38",
+            "doc-luat-ngan-hang-nha-nuoc-viet-nam"
+          ]
+        },
+        {
+          "doc_id": "156/2013/NĐ-CP",
+          "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam",
+          "doc_type": "nghi_dinh",
+          "is_root": false,
+          "score": 0.7224999999999999,
+          "hops": 2,
+          "via_relationship": "THAY_THE",
+          "path": [
+            "c0001-66de38",
+            "c0001-1d15c8",
+            "156/2013/NĐ-CP"
+          ]
+        },
+        {
+          "doc_id": "c0001-9d3d51",
+          "title": "Thông tư 02/2023/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.7224999999999999,
+          "hops": 2,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-66de38",
+            "102/2022/NĐ-CP",
+            "c0001-9d3d51"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "query": "Căn cứ pháp lý để ban hành Thông tư 02/2023/TT-NHNN",
+    "hops": 0,
+    "result": {
+      "chunks": [
+        {
+          "chunk_id": "c0109-3988b9",
+          "kind": "paragraph",
+          "title": "KT. THỐNG ĐỐC\nPHÓ THỐNG ĐỐC",
+          "text": "KT. THỐNG ĐỐC\nPHÓ THỐNG ĐỐC",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Điều 4 - Điều khoản thi hành",
+            "KT. THỐNG ĐỐC\nPHÓ THỐNG ĐỐC"
+          ],
+          "parent_doc_id": "c0001-66de38",
+          "score": 0.9318323731422424,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0030-b6c448",
+          "kind": "article",
+          "title": "Điều 6 - Trích lập dự phòng rủi ro",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Chương II - QUY ĐỊNH CỤ THỂ",
+            "Điều 5 - Giữ nguyên nhóm nợ và phân loại nợ"
+          ],
+          "parent_doc_id": "c0001-9d3d51",
+          "score": 0.9296578764915466,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0105-9358dd",
+          "kind": "article",
+          "title": "Điều 4 - Điều khoản thi hành",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Điều 3 - Trách nhiệm tổ chức thực hiện"
+          ],
+          "parent_doc_id": "c0001-66de38",
+          "score": 0.9243415594100952,
+          "source": "vector",
+          "via_doc": null
+        }
+      ],
+      "documents": [
+        {
+          "doc_id": "c0001-66de38",
+          "title": "Thông tư 06/2023/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.9318323731422424,
+          "hops": 0,
+          "via_relationship": null,
+          "path": [
+            "c0001-66de38"
+          ]
+        },
+        {
+          "doc_id": "c0001-9d3d51",
+          "title": "Thông tư 02/2023/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.9296578764915466,
+          "hops": 0,
+          "via_relationship": null,
+          "path": [
+            "c0001-9d3d51"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "query": "Căn cứ pháp lý để ban hành Thông tư 02/2023/TT-NHNN",
+    "hops": 1,
+    "result": {
+      "chunks": [
+        {
+          "chunk_id": "c0109-3988b9",
+          "kind": "paragraph",
+          "title": "KT. THỐNG ĐỐC\nPHÓ THỐNG ĐỐC",
+          "text": "KT. THỐNG ĐỐC\nPHÓ THỐNG ĐỐC",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Điều 4 - Điều khoản thi hành",
+            "KT. THỐNG ĐỐC\nPHÓ THỐNG ĐỐC"
+          ],
+          "parent_doc_id": "c0001-66de38",
+          "score": 0.9318323731422424,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0030-b6c448",
+          "kind": "article",
+          "title": "Điều 6 - Trích lập dự phòng rủi ro",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Chương II - QUY ĐỊNH CỤ THỂ",
+            "Điều 5 - Giữ nguyên nhóm nợ và phân loại nợ"
+          ],
+          "parent_doc_id": "c0001-9d3d51",
+          "score": 0.9296578764915466,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0105-9358dd",
+          "kind": "article",
+          "title": "Điều 4 - Điều khoản thi hành",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Điều 3 - Trách nhiệm tổ chức thực hiện"
+          ],
+          "parent_doc_id": "c0001-66de38",
+          "score": 0.9243415594100952,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0154-7c5ff0",
+          "kind": "list",
+          "title": "Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách...",
+          "text": "Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách hàng thực hiện thủ tục cho vay và ký kết thỏa thuận cho vay.\nCho vay hợp vốn: Là việc có từ hai tổ chức tín dụng trở lên cùng thực hiện cho vay đối với khách hàng để thực hiện một phương án, dự án vay vốn.\nCho vay lưu vụ: Là việc tổ chức tín dụng thực hiện cho vay đối với khách hàng để nuôi trồng, chăm sóc các cây trồng, vật nuôi có tính chất mùa vụ theo chu kỳ sản xuất liền kề trong năm hoặc các cây lưu gốc, cây công nghiệp có thu hoạch hàng năm. Theo đó, tổ chức tín dụng và khách hàng thỏa thuận dư nợ gốc của chu kỳ trước tiếp tục được sử dụng cho chu kỳ sản xuất tiếp theo nhưng không vượt quá thời gian của 02 chu kỳ sản xuất liên tiếp.\nCho vay theo hạn mức: Tổ chức tín dụng xác định và thỏa thuận với khách hàng một mức dư nợ cho vay tối đa được duy trì trong một khoảng thời gian nhất định. Trong hạn mức cho vay, tổ chức tín dụng thực hiện cho vay từng lần. Một năm ít nhất một lần, tổ chức tín dụng xem xét xác định lại mức dư nợ cho vay tối đa và thời gian duy trì mức dư nợ này.\nCho vay theo hạn mức cho vay dự phòng: Tổ chức tín dụng cam kết đảm bảo sẵn sàng cho khách hàng vay vốn trong phạm vi mức cho vay dự phòng đã thỏa thuận. Tổ chức tín dụng và khách hàng thỏa thuận thời hạn hiệu lực của hạn mức cho vay dự phòng nhưng không vượt quá 01 (một) năm.\nCho vay theo hạn mức thấu chi trên tài khoản thanh toán: Tổ chức tín dụng chấp thuận cho khách hàng chi vượt số tiền có trên tài khoản thanh toán của khách hàng một mức thấu chi tối đa để thực hiện dịch vụ thanh toán trên tài khoản thanh toán. Mức thấu chi tối đa được duy trì trong một khoảng thời gian tối đa 01 (một) năm.\nCho vay quay vòng: Tổ chức tín dụng và khách hàng thỏa thuận áp dụng cho vay đối với nhu cầu vốn có chu kỳ hoạt động kinh doanh không quá 01 (một) tháng, khách hàng được sử dụng dư nợ gốc của chu kỳ hoạt động kinh doanh trước cho chu kỳ kinh doanh tiếp theo nhưng thời hạn cho vay không vượt quá 03 (ba) tháng.",
+          "heading_path": [
+            "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+            "Chương II - HOẠT ĐỘNG CHO VAY PHỤC VỤ HOẠT ĐỘNG KINH DOANH",
+            "Mục 1",
+            "Điều 27 - Phương thức cho vay",
+            "Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách..."
+          ],
+          "parent_doc_id": "c0001-1d15c8",
+          "score": 0.85,
+          "source": "hop:1",
+          "via_doc": "c0001-1d15c8"
+        },
+        {
+          "chunk_id": "c0110-0b6bd2",
+          "kind": "list",
+          "title": "Tổ chức tín dụng có quyền chấm dứt cho vay, thu hồi nợ trước...",
+          "text": "Tổ chức tín dụng có quyền chấm dứt cho vay, thu hồi nợ trước hạn theo nội dung đã thỏa thuận khi phát hiện khách hàng cung cấp thông tin sai sự thật, vi phạm quy định trong thỏa thuận cho vay và/hoặc hợp đồng bảo đảm tiền vay. Khi thực hiện chấm dứt cho vay, thu hồi nợ trước hạn theo thỏa thuận trong thỏa thuận cho vay, tổ chức tín dụng phải thông báo cho khách hàng về việc chấm dứt cho vay, thu hồi nợ trước hạn. Nội dung thông báo tối thiểu bao gồm thời điểm chấm dứt cho vay, thu hồi nợ trước hạn, số dư nợ gốc bị thu hồi trước hạn; thời hạn hoàn trả số dư nợ gốc bị thu hồi trước hạn, thời điểm chuyển nợ quá hạn và lãi suất áp dụng đối với số dư nợ gốc bị thu hồi trước hạn.\nTrường hợp khách hàng không trả được nợ đến hạn, thì tổ chức tín dụng có quyền áp dụng các biện pháp thu hồi nợ theo thỏa thuận cho vay, hợp đồng bảo đảm và quy định của pháp luật có liên quan. Trường hợp sau khi áp dụng các biện pháp thu hồi nợ nhưng vẫn không đủ để hoàn thành nghĩa vụ trả nợ đối với tổ chức tín dụng, thì khách hàng có trách nhiệm tiếp tục trả đầy đủ nợ gốc và lãi tiền vay cho tổ chức tín dụng.\nTrường hợp khách hàng hoặc bên bảo đảm bị tòa án quyết định mở thủ tục phá sản hoặc tuyên bố phá sản, thì việc thu hồi nợ của tổ chức tín dụng đối với khách hàng, bên bảo đảm thực hiện theo quy định của pháp luật về phá sản.\nTổ chức tín dụng có quyền quyết định miễn, giảm lãi tiền vay, phí cho khách hàng theo quy định nội bộ của tổ chức tín dụng.",
+          "heading_path": [
+            "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+            "Chương I",
+            "Điều 21 - Chấm dứt cho vay, xử lý nợ, miễn, giảm lãi tiền vay, phí",
+            "Tổ chức tín dụng có quyền chấm dứt cho vay, thu hồi nợ trước..."
+          ],
+          "parent_doc_id": "c0001-1d15c8",
+          "score": 0.85,
+          "source": "hop:1",
+          "via_doc": "c0001-1d15c8"
+        },
+        {
+          "chunk_id": "c0201-e3c5a0",
+          "kind": "list",
+          "title": "Tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội du...",
+          "text": "Tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội dung trong hợp đồng tín dụng đã ký kết phù hợp với quy định của pháp luật có hiệu lực thi hành tại thời điểm ký kết hợp đồng đó hoặc thoả thuận sửa đổi, bổ sung hợp đồng tín dụng phù hợp với quy định tại Thông tư này.\nTrường hợp áp dụng phương thức cho vay theo hạn mức tín dụng, hạn mức tín dụng dự phòng, hạn mức thấu chi trên tài khoản thanh toán, nếu trong nội dung hợp đồng không thỏa thuận thời hạn duy trì hạn mức tín dụng, hạn mức thấu chi trên tài khoản thanh toán, thời hạn hiệu lực của hạn mức tín dụng dự phòng, thì tổ chức tín dụng và khách hàng được tiếp tục thực hiện các nội dung trong hợp đồng tín dụng đã ký kết phù hợp với quy định của pháp luật có hiệu lực thi hành tại thời điểm ký kết hợp đồng nhưng thời hạn duy trì của hạn mức tín dụng, hạn mức thấu chi trên tài khoản thanh toán, thời hạn hiệu lực của hạn mức tín dụng dự phòng tối đa không vượt quá 01 (một) năm kể từ ngày Thông tư này có hiệu lực thi hành.",
+          "heading_path": [
+            "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+            "Chương III - TỔ CHỨC THỰC HIỆN",
+            "Điều 34 - Quy định chuyển tiếp",
+            "Tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội du..."
+          ],
+          "parent_doc_id": "c0001-1d15c8",
+          "score": 0.85,
+          "source": "hop:1",
+          "via_doc": "c0001-1d15c8"
+        }
+      ],
+      "documents": [
+        {
+          "doc_id": "c0001-66de38",
+          "title": "Thông tư 06/2023/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.9318323731422424,
+          "hops": 0,
+          "via_relationship": null,
+          "path": [
+            "c0001-66de38"
+          ]
+        },
+        {
+          "doc_id": "c0001-9d3d51",
+          "title": "Thông tư 02/2023/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.9296578764915466,
+          "hops": 0,
+          "via_relationship": null,
+          "path": [
+            "c0001-9d3d51"
+          ]
+        },
+        {
+          "doc_id": "doc-quy-dinh-cua-thong-doc-ngan-hang-nha-nuoc-viet-nam-ve-trich-lap-du-phong-rui-ro-trong-hoat-dong-cua-to-chuc-tin-dung-chi-nhanh-ngan-hang",
+          "title": "quy định của Thống đốc Ngân hàng Nhà nước Việt Nam về trích lập dự phòng rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng",
+          "doc_type": "unknown",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-quy-dinh-cua-thong-doc-ngan-hang-nha-nuoc-viet-nam-ve-trich-lap-du-phong-rui-ro-trong-hoat-dong-cua-to-chuc-tin-dung-chi-nhanh-ngan-hang"
+          ]
+        },
+        {
+          "doc_id": "doc-nghi-quyet-so-50-nq-cp-ngay-08-4-2023-cua-chinh-phu-ve-hoi-nghi-chinh-phu-voi-dia-phuong",
+          "title": "Nghị quyết số 50/NQ-CP ngày 08/4/2023 của Chính phủ về hội nghị Chính phủ với địa phương và phiên họp thường kỳ Chính phủ tháng 3 năm 2023 và Nghị quyết số 59/NQ-CP ngày 23/4/2023 của Chính phủ về giải pháp hỗ trợ tháo gỡ khó khăn cho khách hàng vay phục vụ nhu cầu đời sống, tiêu dùng;*",
+          "doc_type": "nghi_quyet",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-nghi-quyet-so-50-nq-cp-ngay-08-4-2023-cua-chinh-phu-ve-hoi-nghi-chinh-phu-voi-dia-phuong"
+          ]
+        },
+        {
+          "doc_id": "102/2022/NĐ-CP",
+          "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;*",
+          "doc_type": "nghi_dinh",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "102/2022/NĐ-CP"
+          ]
+        },
+        {
+          "doc_id": "doc-luat-cac-to-chuc-tin-dung",
+          "title": "Luật Các tổ chức tín dụng",
+          "doc_type": "luat",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-luat-cac-to-chuc-tin-dung"
+          ]
+        },
+        {
+          "doc_id": "doc-luat-ngan-hang-nha-nuoc-viet-nam",
+          "title": "Luật Ngân hàng Nhà nước Việt Nam",
+          "doc_type": "luat",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-luat-ngan-hang-nha-nuoc-viet-nam"
+          ]
+        },
+        {
+          "doc_id": "c0001-1d15c8",
+          "title": "Thông tư 39/2016/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "THAY_THE",
+          "path": [
+            "c0001-66de38",
+            "c0001-1d15c8"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "query": "Căn cứ pháp lý để ban hành Thông tư 02/2023/TT-NHNN",
+    "hops": 2,
+    "result": {
+      "chunks": [
+        {
+          "chunk_id": "c0109-3988b9",
+          "kind": "paragraph",
+          "title": "KT. THỐNG ĐỐC\nPHÓ THỐNG ĐỐC",
+          "text": "KT. THỐNG ĐỐC\nPHÓ THỐNG ĐỐC",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Điều 4 - Điều khoản thi hành",
+            "KT. THỐNG ĐỐC\nPHÓ THỐNG ĐỐC"
+          ],
+          "parent_doc_id": "c0001-66de38",
+          "score": 0.9318323731422424,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0030-b6c448",
+          "kind": "article",
+          "title": "Điều 6 - Trích lập dự phòng rủi ro",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Chương II - QUY ĐỊNH CỤ THỂ",
+            "Điều 5 - Giữ nguyên nhóm nợ và phân loại nợ"
+          ],
+          "parent_doc_id": "c0001-9d3d51",
+          "score": 0.9296578764915466,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0105-9358dd",
+          "kind": "article",
+          "title": "Điều 4 - Điều khoản thi hành",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Điều 3 - Trách nhiệm tổ chức thực hiện"
+          ],
+          "parent_doc_id": "c0001-66de38",
+          "score": 0.9243415594100952,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0154-7c5ff0",
+          "kind": "list",
+          "title": "Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách...",
+          "text": "Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách hàng thực hiện thủ tục cho vay và ký kết thỏa thuận cho vay.\nCho vay hợp vốn: Là việc có từ hai tổ chức tín dụng trở lên cùng thực hiện cho vay đối với khách hàng để thực hiện một phương án, dự án vay vốn.\nCho vay lưu vụ: Là việc tổ chức tín dụng thực hiện cho vay đối với khách hàng để nuôi trồng, chăm sóc các cây trồng, vật nuôi có tính chất mùa vụ theo chu kỳ sản xuất liền kề trong năm hoặc các cây lưu gốc, cây công nghiệp có thu hoạch hàng năm. Theo đó, tổ chức tín dụng và khách hàng thỏa thuận dư nợ gốc của chu kỳ trước tiếp tục được sử dụng cho chu kỳ sản xuất tiếp theo nhưng không vượt quá thời gian của 02 chu kỳ sản xuất liên tiếp.\nCho vay theo hạn mức: Tổ chức tín dụng xác định và thỏa thuận với khách hàng một mức dư nợ cho vay tối đa được duy trì trong một khoảng thời gian nhất định. Trong hạn mức cho vay, tổ chức tín dụng thực hiện cho vay từng lần. Một năm ít nhất một lần, tổ chức tín dụng xem xét xác định lại mức dư nợ cho vay tối đa và thời gian duy trì mức dư nợ này.\nCho vay theo hạn mức cho vay dự phòng: Tổ chức tín dụng cam kết đảm bảo sẵn sàng cho khách hàng vay vốn trong phạm vi mức cho vay dự phòng đã thỏa thuận. Tổ chức tín dụng và khách hàng thỏa thuận thời hạn hiệu lực của hạn mức cho vay dự phòng nhưng không vượt quá 01 (một) năm.\nCho vay theo hạn mức thấu chi trên tài khoản thanh toán: Tổ chức tín dụng chấp thuận cho khách hàng chi vượt số tiền có trên tài khoản thanh toán của khách hàng một mức thấu chi tối đa để thực hiện dịch vụ thanh toán trên tài khoản thanh toán. Mức thấu chi tối đa được duy trì trong một khoảng thời gian tối đa 01 (một) năm.\nCho vay quay vòng: Tổ chức tín dụng và khách hàng thỏa thuận áp dụng cho vay đối với nhu cầu vốn có chu kỳ hoạt động kinh doanh không quá 01 (một) tháng, khách hàng được sử dụng dư nợ gốc của chu kỳ hoạt động kinh doanh trước cho chu kỳ kinh doanh tiếp theo nhưng thời hạn cho vay không vượt quá 03 (ba) tháng.",
+          "heading_path": [
+            "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+            "Chương II - HOẠT ĐỘNG CHO VAY PHỤC VỤ HOẠT ĐỘNG KINH DOANH",
+            "Mục 1",
+            "Điều 27 - Phương thức cho vay",
+            "Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách..."
+          ],
+          "parent_doc_id": "c0001-1d15c8",
+          "score": 0.85,
+          "source": "hop:1",
+          "via_doc": "c0001-1d15c8"
+        },
+        {
+          "chunk_id": "c0110-0b6bd2",
+          "kind": "list",
+          "title": "Tổ chức tín dụng có quyền chấm dứt cho vay, thu hồi nợ trước...",
+          "text": "Tổ chức tín dụng có quyền chấm dứt cho vay, thu hồi nợ trước hạn theo nội dung đã thỏa thuận khi phát hiện khách hàng cung cấp thông tin sai sự thật, vi phạm quy định trong thỏa thuận cho vay và/hoặc hợp đồng bảo đảm tiền vay. Khi thực hiện chấm dứt cho vay, thu hồi nợ trước hạn theo thỏa thuận trong thỏa thuận cho vay, tổ chức tín dụng phải thông báo cho khách hàng về việc chấm dứt cho vay, thu hồi nợ trước hạn. Nội dung thông báo tối thiểu bao gồm thời điểm chấm dứt cho vay, thu hồi nợ trước hạn, số dư nợ gốc bị thu hồi trước hạn; thời hạn hoàn trả số dư nợ gốc bị thu hồi trước hạn, thời điểm chuyển nợ quá hạn và lãi suất áp dụng đối với số dư nợ gốc bị thu hồi trước hạn.\nTrường hợp khách hàng không trả được nợ đến hạn, thì tổ chức tín dụng có quyền áp dụng các biện pháp thu hồi nợ theo thỏa thuận cho vay, hợp đồng bảo đảm và quy định của pháp luật có liên quan. Trường hợp sau khi áp dụng các biện pháp thu hồi nợ nhưng vẫn không đủ để hoàn thành nghĩa vụ trả nợ đối với tổ chức tín dụng, thì khách hàng có trách nhiệm tiếp tục trả đầy đủ nợ gốc và lãi tiền vay cho tổ chức tín dụng.\nTrường hợp khách hàng hoặc bên bảo đảm bị tòa án quyết định mở thủ tục phá sản hoặc tuyên bố phá sản, thì việc thu hồi nợ của tổ chức tín dụng đối với khách hàng, bên bảo đảm thực hiện theo quy định của pháp luật về phá sản.\nTổ chức tín dụng có quyền quyết định miễn, giảm lãi tiền vay, phí cho khách hàng theo quy định nội bộ của tổ chức tín dụng.",
+          "heading_path": [
+            "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+            "Chương I",
+            "Điều 21 - Chấm dứt cho vay, xử lý nợ, miễn, giảm lãi tiền vay, phí",
+            "Tổ chức tín dụng có quyền chấm dứt cho vay, thu hồi nợ trước..."
+          ],
+          "parent_doc_id": "c0001-1d15c8",
+          "score": 0.85,
+          "source": "hop:1",
+          "via_doc": "c0001-1d15c8"
+        },
+        {
+          "chunk_id": "c0201-e3c5a0",
+          "kind": "list",
+          "title": "Tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội du...",
+          "text": "Tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội dung trong hợp đồng tín dụng đã ký kết phù hợp với quy định của pháp luật có hiệu lực thi hành tại thời điểm ký kết hợp đồng đó hoặc thoả thuận sửa đổi, bổ sung hợp đồng tín dụng phù hợp với quy định tại Thông tư này.\nTrường hợp áp dụng phương thức cho vay theo hạn mức tín dụng, hạn mức tín dụng dự phòng, hạn mức thấu chi trên tài khoản thanh toán, nếu trong nội dung hợp đồng không thỏa thuận thời hạn duy trì hạn mức tín dụng, hạn mức thấu chi trên tài khoản thanh toán, thời hạn hiệu lực của hạn mức tín dụng dự phòng, thì tổ chức tín dụng và khách hàng được tiếp tục thực hiện các nội dung trong hợp đồng tín dụng đã ký kết phù hợp với quy định của pháp luật có hiệu lực thi hành tại thời điểm ký kết hợp đồng nhưng thời hạn duy trì của hạn mức tín dụng, hạn mức thấu chi trên tài khoản thanh toán, thời hạn hiệu lực của hạn mức tín dụng dự phòng tối đa không vượt quá 01 (một) năm kể từ ngày Thông tư này có hiệu lực thi hành.",
+          "heading_path": [
+            "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+            "Chương III - TỔ CHỨC THỰC HIỆN",
+            "Điều 34 - Quy định chuyển tiếp",
+            "Tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội du..."
+          ],
+          "parent_doc_id": "c0001-1d15c8",
+          "score": 0.85,
+          "source": "hop:1",
+          "via_doc": "c0001-1d15c8"
+        }
+      ],
+      "documents": [
+        {
+          "doc_id": "c0001-66de38",
+          "title": "Thông tư 06/2023/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.9318323731422424,
+          "hops": 0,
+          "via_relationship": null,
+          "path": [
+            "c0001-66de38"
+          ]
+        },
+        {
+          "doc_id": "c0001-9d3d51",
+          "title": "Thông tư 02/2023/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.9296578764915466,
+          "hops": 0,
+          "via_relationship": null,
+          "path": [
+            "c0001-9d3d51"
+          ]
+        },
+        {
+          "doc_id": "doc-quy-dinh-cua-thong-doc-ngan-hang-nha-nuoc-viet-nam-ve-trich-lap-du-phong-rui-ro-trong-hoat-dong-cua-to-chuc-tin-dung-chi-nhanh-ngan-hang",
+          "title": "quy định của Thống đốc Ngân hàng Nhà nước Việt Nam về trích lập dự phòng rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng",
+          "doc_type": "unknown",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-quy-dinh-cua-thong-doc-ngan-hang-nha-nuoc-viet-nam-ve-trich-lap-du-phong-rui-ro-trong-hoat-dong-cua-to-chuc-tin-dung-chi-nhanh-ngan-hang"
+          ]
+        },
+        {
+          "doc_id": "doc-nghi-quyet-so-50-nq-cp-ngay-08-4-2023-cua-chinh-phu-ve-hoi-nghi-chinh-phu-voi-dia-phuong",
+          "title": "Nghị quyết số 50/NQ-CP ngày 08/4/2023 của Chính phủ về hội nghị Chính phủ với địa phương và phiên họp thường kỳ Chính phủ tháng 3 năm 2023 và Nghị quyết số 59/NQ-CP ngày 23/4/2023 của Chính phủ về giải pháp hỗ trợ tháo gỡ khó khăn cho khách hàng vay phục vụ nhu cầu đời sống, tiêu dùng;*",
+          "doc_type": "nghi_quyet",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-nghi-quyet-so-50-nq-cp-ngay-08-4-2023-cua-chinh-phu-ve-hoi-nghi-chinh-phu-voi-dia-phuong"
+          ]
+        },
+        {
+          "doc_id": "102/2022/NĐ-CP",
+          "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;*",
+          "doc_type": "nghi_dinh",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "102/2022/NĐ-CP"
+          ]
+        },
+        {
+          "doc_id": "doc-luat-cac-to-chuc-tin-dung",
+          "title": "Luật Các tổ chức tín dụng",
+          "doc_type": "luat",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-luat-cac-to-chuc-tin-dung"
+          ]
+        },
+        {
+          "doc_id": "doc-luat-ngan-hang-nha-nuoc-viet-nam",
+          "title": "Luật Ngân hàng Nhà nước Việt Nam",
+          "doc_type": "luat",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-luat-ngan-hang-nha-nuoc-viet-nam"
+          ]
+        },
+        {
+          "doc_id": "c0001-1d15c8",
+          "title": "Thông tư 39/2016/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "THAY_THE",
+          "path": [
+            "c0001-66de38",
+            "c0001-1d15c8"
+          ]
+        },
+        {
+          "doc_id": "156/2013/NĐ-CP",
+          "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam",
+          "doc_type": "nghi_dinh",
+          "is_root": false,
+          "score": 0.7224999999999999,
+          "hops": 2,
+          "via_relationship": "THAY_THE",
+          "path": [
+            "c0001-66de38",
+            "c0001-1d15c8",
+            "156/2013/NĐ-CP"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "query": "Trách nhiệm của Ngân hàng Nhà nước trong việc quản lý cho vay",
+    "hops": 0,
+    "result": {
+      "chunks": [
+        {
+          "chunk_id": "c0105-9358dd",
+          "kind": "article",
+          "title": "Điều 4 - Điều khoản thi hành",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Điều 3 - Trách nhiệm tổ chức thực hiện"
+          ],
+          "parent_doc_id": "c0001-66de38",
+          "score": 0.9377171993255615,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0016-b97e23",
+          "kind": "article",
+          "title": "Điều 1 - Phạm vi điều chỉnh",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Chương I - QUY ĐỊNH CHUNG"
+          ],
+          "parent_doc_id": "c0001-9d3d51",
+          "score": 0.9335514903068542,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0015-b9a16a",
+          "kind": "chapter",
+          "title": "Chương I - QUY ĐỊNH CHUNG",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ"
+          ],
+          "parent_doc_id": "c0001-9d3d51",
+          "score": 0.9293588399887085,
+          "source": "vector",
+          "via_doc": null
+        }
+      ],
+      "documents": [
+        {
+          "doc_id": "c0001-66de38",
+          "title": "Thông tư 06/2023/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.9377171993255615,
+          "hops": 0,
+          "via_relationship": null,
+          "path": [
+            "c0001-66de38"
+          ]
+        },
+        {
+          "doc_id": "c0001-9d3d51",
+          "title": "Thông tư 02/2023/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.9335514903068542,
+          "hops": 0,
+          "via_relationship": null,
+          "path": [
+            "c0001-9d3d51"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "query": "Trách nhiệm của Ngân hàng Nhà nước trong việc quản lý cho vay",
+    "hops": 1,
+    "result": {
+      "chunks": [
+        {
+          "chunk_id": "c0105-9358dd",
+          "kind": "article",
+          "title": "Điều 4 - Điều khoản thi hành",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Điều 3 - Trách nhiệm tổ chức thực hiện"
+          ],
+          "parent_doc_id": "c0001-66de38",
+          "score": 0.9377171993255615,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0016-b97e23",
+          "kind": "article",
+          "title": "Điều 1 - Phạm vi điều chỉnh",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Chương I - QUY ĐỊNH CHUNG"
+          ],
+          "parent_doc_id": "c0001-9d3d51",
+          "score": 0.9335514903068542,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0015-b9a16a",
+          "kind": "chapter",
+          "title": "Chương I - QUY ĐỊNH CHUNG",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ"
+          ],
+          "parent_doc_id": "c0001-9d3d51",
+          "score": 0.9293588399887085,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0154-7c5ff0",
+          "kind": "list",
+          "title": "Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách...",
+          "text": "Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách hàng thực hiện thủ tục cho vay và ký kết thỏa thuận cho vay.\nCho vay hợp vốn: Là việc có từ hai tổ chức tín dụng trở lên cùng thực hiện cho vay đối với khách hàng để thực hiện một phương án, dự án vay vốn.\nCho vay lưu vụ: Là việc tổ chức tín dụng thực hiện cho vay đối với khách hàng để nuôi trồng, chăm sóc các cây trồng, vật nuôi có tính chất mùa vụ theo chu kỳ sản xuất liền kề trong năm hoặc các cây lưu gốc, cây công nghiệp có thu hoạch hàng năm. Theo đó, tổ chức tín dụng và khách hàng thỏa thuận dư nợ gốc của chu kỳ trước tiếp tục được sử dụng cho chu kỳ sản xuất tiếp theo nhưng không vượt quá thời gian của 02 chu kỳ sản xuất liên tiếp.\nCho vay theo hạn mức: Tổ chức tín dụng xác định và thỏa thuận với khách hàng một mức dư nợ cho vay tối đa được duy trì trong một khoảng thời gian nhất định. Trong hạn mức cho vay, tổ chức tín dụng thực hiện cho vay từng lần. Một năm ít nhất một lần, tổ chức tín dụng xem xét xác định lại mức dư nợ cho vay tối đa và thời gian duy trì mức dư nợ này.\nCho vay theo hạn mức cho vay dự phòng: Tổ chức tín dụng cam kết đảm bảo sẵn sàng cho khách hàng vay vốn trong phạm vi mức cho vay dự phòng đã thỏa thuận. Tổ chức tín dụng và khách hàng thỏa thuận thời hạn hiệu lực của hạn mức cho vay dự phòng nhưng không vượt quá 01 (một) năm.\nCho vay theo hạn mức thấu chi trên tài khoản thanh toán: Tổ chức tín dụng chấp thuận cho khách hàng chi vượt số tiền có trên tài khoản thanh toán của khách hàng một mức thấu chi tối đa để thực hiện dịch vụ thanh toán trên tài khoản thanh toán. Mức thấu chi tối đa được duy trì trong một khoảng thời gian tối đa 01 (một) năm.\nCho vay quay vòng: Tổ chức tín dụng và khách hàng thỏa thuận áp dụng cho vay đối với nhu cầu vốn có chu kỳ hoạt động kinh doanh không quá 01 (một) tháng, khách hàng được sử dụng dư nợ gốc của chu kỳ hoạt động kinh doanh trước cho chu kỳ kinh doanh tiếp theo nhưng thời hạn cho vay không vượt quá 03 (ba) tháng.",
+          "heading_path": [
+            "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+            "Chương II - HOẠT ĐỘNG CHO VAY PHỤC VỤ HOẠT ĐỘNG KINH DOANH",
+            "Mục 1",
+            "Điều 27 - Phương thức cho vay",
+            "Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách..."
+          ],
+          "parent_doc_id": "c0001-1d15c8",
+          "score": 0.85,
+          "source": "hop:1",
+          "via_doc": "c0001-1d15c8"
+        },
+        {
+          "chunk_id": "c0110-0b6bd2",
+          "kind": "list",
+          "title": "Tổ chức tín dụng có quyền chấm dứt cho vay, thu hồi nợ trước...",
+          "text": "Tổ chức tín dụng có quyền chấm dứt cho vay, thu hồi nợ trước hạn theo nội dung đã thỏa thuận khi phát hiện khách hàng cung cấp thông tin sai sự thật, vi phạm quy định trong thỏa thuận cho vay và/hoặc hợp đồng bảo đảm tiền vay. Khi thực hiện chấm dứt cho vay, thu hồi nợ trước hạn theo thỏa thuận trong thỏa thuận cho vay, tổ chức tín dụng phải thông báo cho khách hàng về việc chấm dứt cho vay, thu hồi nợ trước hạn. Nội dung thông báo tối thiểu bao gồm thời điểm chấm dứt cho vay, thu hồi nợ trước hạn, số dư nợ gốc bị thu hồi trước hạn; thời hạn hoàn trả số dư nợ gốc bị thu hồi trước hạn, thời điểm chuyển nợ quá hạn và lãi suất áp dụng đối với số dư nợ gốc bị thu hồi trước hạn.\nTrường hợp khách hàng không trả được nợ đến hạn, thì tổ chức tín dụng có quyền áp dụng các biện pháp thu hồi nợ theo thỏa thuận cho vay, hợp đồng bảo đảm và quy định của pháp luật có liên quan. Trường hợp sau khi áp dụng các biện pháp thu hồi nợ nhưng vẫn không đủ để hoàn thành nghĩa vụ trả nợ đối với tổ chức tín dụng, thì khách hàng có trách nhiệm tiếp tục trả đầy đủ nợ gốc và lãi tiền vay cho tổ chức tín dụng.\nTrường hợp khách hàng hoặc bên bảo đảm bị tòa án quyết định mở thủ tục phá sản hoặc tuyên bố phá sản, thì việc thu hồi nợ của tổ chức tín dụng đối với khách hàng, bên bảo đảm thực hiện theo quy định của pháp luật về phá sản.\nTổ chức tín dụng có quyền quyết định miễn, giảm lãi tiền vay, phí cho khách hàng theo quy định nội bộ của tổ chức tín dụng.",
+          "heading_path": [
+            "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+            "Chương I",
+            "Điều 21 - Chấm dứt cho vay, xử lý nợ, miễn, giảm lãi tiền vay, phí",
+            "Tổ chức tín dụng có quyền chấm dứt cho vay, thu hồi nợ trước..."
+          ],
+          "parent_doc_id": "c0001-1d15c8",
+          "score": 0.85,
+          "source": "hop:1",
+          "via_doc": "c0001-1d15c8"
+        },
+        {
+          "chunk_id": "c0201-e3c5a0",
+          "kind": "list",
+          "title": "Tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội du...",
+          "text": "Tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội dung trong hợp đồng tín dụng đã ký kết phù hợp với quy định của pháp luật có hiệu lực thi hành tại thời điểm ký kết hợp đồng đó hoặc thoả thuận sửa đổi, bổ sung hợp đồng tín dụng phù hợp với quy định tại Thông tư này.\nTrường hợp áp dụng phương thức cho vay theo hạn mức tín dụng, hạn mức tín dụng dự phòng, hạn mức thấu chi trên tài khoản thanh toán, nếu trong nội dung hợp đồng không thỏa thuận thời hạn duy trì hạn mức tín dụng, hạn mức thấu chi trên tài khoản thanh toán, thời hạn hiệu lực của hạn mức tín dụng dự phòng, thì tổ chức tín dụng và khách hàng được tiếp tục thực hiện các nội dung trong hợp đồng tín dụng đã ký kết phù hợp với quy định của pháp luật có hiệu lực thi hành tại thời điểm ký kết hợp đồng nhưng thời hạn duy trì của hạn mức tín dụng, hạn mức thấu chi trên tài khoản thanh toán, thời hạn hiệu lực của hạn mức tín dụng dự phòng tối đa không vượt quá 01 (một) năm kể từ ngày Thông tư này có hiệu lực thi hành.",
+          "heading_path": [
+            "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+            "Chương III - TỔ CHỨC THỰC HIỆN",
+            "Điều 34 - Quy định chuyển tiếp",
+            "Tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội du..."
+          ],
+          "parent_doc_id": "c0001-1d15c8",
+          "score": 0.85,
+          "source": "hop:1",
+          "via_doc": "c0001-1d15c8"
+        }
+      ],
+      "documents": [
+        {
+          "doc_id": "c0001-66de38",
+          "title": "Thông tư 06/2023/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.9377171993255615,
+          "hops": 0,
+          "via_relationship": null,
+          "path": [
+            "c0001-66de38"
+          ]
+        },
+        {
+          "doc_id": "c0001-9d3d51",
+          "title": "Thông tư 02/2023/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.9335514903068542,
+          "hops": 0,
+          "via_relationship": null,
+          "path": [
+            "c0001-9d3d51"
+          ]
+        },
+        {
+          "doc_id": "doc-quy-dinh-cua-thong-doc-ngan-hang-nha-nuoc-viet-nam-ve-trich-lap-du-phong-rui-ro-trong-hoat-dong-cua-to-chuc-tin-dung-chi-nhanh-ngan-hang",
+          "title": "quy định của Thống đốc Ngân hàng Nhà nước Việt Nam về trích lập dự phòng rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng",
+          "doc_type": "unknown",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-quy-dinh-cua-thong-doc-ngan-hang-nha-nuoc-viet-nam-ve-trich-lap-du-phong-rui-ro-trong-hoat-dong-cua-to-chuc-tin-dung-chi-nhanh-ngan-hang"
+          ]
+        },
+        {
+          "doc_id": "doc-nghi-quyet-so-50-nq-cp-ngay-08-4-2023-cua-chinh-phu-ve-hoi-nghi-chinh-phu-voi-dia-phuong",
+          "title": "Nghị quyết số 50/NQ-CP ngày 08/4/2023 của Chính phủ về hội nghị Chính phủ với địa phương và phiên họp thường kỳ Chính phủ tháng 3 năm 2023 và Nghị quyết số 59/NQ-CP ngày 23/4/2023 của Chính phủ về giải pháp hỗ trợ tháo gỡ khó khăn cho khách hàng vay phục vụ nhu cầu đời sống, tiêu dùng;*",
+          "doc_type": "nghi_quyet",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-nghi-quyet-so-50-nq-cp-ngay-08-4-2023-cua-chinh-phu-ve-hoi-nghi-chinh-phu-voi-dia-phuong"
+          ]
+        },
+        {
+          "doc_id": "102/2022/NĐ-CP",
+          "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;*",
+          "doc_type": "nghi_dinh",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "102/2022/NĐ-CP"
+          ]
+        },
+        {
+          "doc_id": "doc-luat-cac-to-chuc-tin-dung",
+          "title": "Luật Các tổ chức tín dụng",
+          "doc_type": "luat",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-luat-cac-to-chuc-tin-dung"
+          ]
+        },
+        {
+          "doc_id": "doc-luat-ngan-hang-nha-nuoc-viet-nam",
+          "title": "Luật Ngân hàng Nhà nước Việt Nam",
+          "doc_type": "luat",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-luat-ngan-hang-nha-nuoc-viet-nam"
+          ]
+        },
+        {
+          "doc_id": "c0001-1d15c8",
+          "title": "Thông tư 39/2016/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "THAY_THE",
+          "path": [
+            "c0001-66de38",
+            "c0001-1d15c8"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "query": "Trách nhiệm của Ngân hàng Nhà nước trong việc quản lý cho vay",
+    "hops": 2,
+    "result": {
+      "chunks": [
+        {
+          "chunk_id": "c0105-9358dd",
+          "kind": "article",
+          "title": "Điều 4 - Điều khoản thi hành",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Điều 3 - Trách nhiệm tổ chức thực hiện"
+          ],
+          "parent_doc_id": "c0001-66de38",
+          "score": 0.9377171993255615,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0016-b97e23",
+          "kind": "article",
+          "title": "Điều 1 - Phạm vi điều chỉnh",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ",
+            "Chương I - QUY ĐỊNH CHUNG"
+          ],
+          "parent_doc_id": "c0001-9d3d51",
+          "score": 0.9335514903068542,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0015-b9a16a",
+          "kind": "chapter",
+          "title": "Chương I - QUY ĐỊNH CHUNG",
+          "text": "",
+          "heading_path": [
+            "THÔNG TƯ"
+          ],
+          "parent_doc_id": "c0001-9d3d51",
+          "score": 0.9293588399887085,
+          "source": "vector",
+          "via_doc": null
+        },
+        {
+          "chunk_id": "c0154-7c5ff0",
+          "kind": "list",
+          "title": "Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách...",
+          "text": "Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách hàng thực hiện thủ tục cho vay và ký kết thỏa thuận cho vay.\nCho vay hợp vốn: Là việc có từ hai tổ chức tín dụng trở lên cùng thực hiện cho vay đối với khách hàng để thực hiện một phương án, dự án vay vốn.\nCho vay lưu vụ: Là việc tổ chức tín dụng thực hiện cho vay đối với khách hàng để nuôi trồng, chăm sóc các cây trồng, vật nuôi có tính chất mùa vụ theo chu kỳ sản xuất liền kề trong năm hoặc các cây lưu gốc, cây công nghiệp có thu hoạch hàng năm. Theo đó, tổ chức tín dụng và khách hàng thỏa thuận dư nợ gốc của chu kỳ trước tiếp tục được sử dụng cho chu kỳ sản xuất tiếp theo nhưng không vượt quá thời gian của 02 chu kỳ sản xuất liên tiếp.\nCho vay theo hạn mức: Tổ chức tín dụng xác định và thỏa thuận với khách hàng một mức dư nợ cho vay tối đa được duy trì trong một khoảng thời gian nhất định. Trong hạn mức cho vay, tổ chức tín dụng thực hiện cho vay từng lần. Một năm ít nhất một lần, tổ chức tín dụng xem xét xác định lại mức dư nợ cho vay tối đa và thời gian duy trì mức dư nợ này.\nCho vay theo hạn mức cho vay dự phòng: Tổ chức tín dụng cam kết đảm bảo sẵn sàng cho khách hàng vay vốn trong phạm vi mức cho vay dự phòng đã thỏa thuận. Tổ chức tín dụng và khách hàng thỏa thuận thời hạn hiệu lực của hạn mức cho vay dự phòng nhưng không vượt quá 01 (một) năm.\nCho vay theo hạn mức thấu chi trên tài khoản thanh toán: Tổ chức tín dụng chấp thuận cho khách hàng chi vượt số tiền có trên tài khoản thanh toán của khách hàng một mức thấu chi tối đa để thực hiện dịch vụ thanh toán trên tài khoản thanh toán. Mức thấu chi tối đa được duy trì trong một khoảng thời gian tối đa 01 (một) năm.\nCho vay quay vòng: Tổ chức tín dụng và khách hàng thỏa thuận áp dụng cho vay đối với nhu cầu vốn có chu kỳ hoạt động kinh doanh không quá 01 (một) tháng, khách hàng được sử dụng dư nợ gốc của chu kỳ hoạt động kinh doanh trước cho chu kỳ kinh doanh tiếp theo nhưng thời hạn cho vay không vượt quá 03 (ba) tháng.",
+          "heading_path": [
+            "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+            "Chương II - HOẠT ĐỘNG CHO VAY PHỤC VỤ HOẠT ĐỘNG KINH DOANH",
+            "Mục 1",
+            "Điều 27 - Phương thức cho vay",
+            "Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách..."
+          ],
+          "parent_doc_id": "c0001-1d15c8",
+          "score": 0.85,
+          "source": "hop:1",
+          "via_doc": "c0001-1d15c8"
+        },
+        {
+          "chunk_id": "c0110-0b6bd2",
+          "kind": "list",
+          "title": "Tổ chức tín dụng có quyền chấm dứt cho vay, thu hồi nợ trước...",
+          "text": "Tổ chức tín dụng có quyền chấm dứt cho vay, thu hồi nợ trước hạn theo nội dung đã thỏa thuận khi phát hiện khách hàng cung cấp thông tin sai sự thật, vi phạm quy định trong thỏa thuận cho vay và/hoặc hợp đồng bảo đảm tiền vay. Khi thực hiện chấm dứt cho vay, thu hồi nợ trước hạn theo thỏa thuận trong thỏa thuận cho vay, tổ chức tín dụng phải thông báo cho khách hàng về việc chấm dứt cho vay, thu hồi nợ trước hạn. Nội dung thông báo tối thiểu bao gồm thời điểm chấm dứt cho vay, thu hồi nợ trước hạn, số dư nợ gốc bị thu hồi trước hạn; thời hạn hoàn trả số dư nợ gốc bị thu hồi trước hạn, thời điểm chuyển nợ quá hạn và lãi suất áp dụng đối với số dư nợ gốc bị thu hồi trước hạn.\nTrường hợp khách hàng không trả được nợ đến hạn, thì tổ chức tín dụng có quyền áp dụng các biện pháp thu hồi nợ theo thỏa thuận cho vay, hợp đồng bảo đảm và quy định của pháp luật có liên quan. Trường hợp sau khi áp dụng các biện pháp thu hồi nợ nhưng vẫn không đủ để hoàn thành nghĩa vụ trả nợ đối với tổ chức tín dụng, thì khách hàng có trách nhiệm tiếp tục trả đầy đủ nợ gốc và lãi tiền vay cho tổ chức tín dụng.\nTrường hợp khách hàng hoặc bên bảo đảm bị tòa án quyết định mở thủ tục phá sản hoặc tuyên bố phá sản, thì việc thu hồi nợ của tổ chức tín dụng đối với khách hàng, bên bảo đảm thực hiện theo quy định của pháp luật về phá sản.\nTổ chức tín dụng có quyền quyết định miễn, giảm lãi tiền vay, phí cho khách hàng theo quy định nội bộ của tổ chức tín dụng.",
+          "heading_path": [
+            "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+            "Chương I",
+            "Điều 21 - Chấm dứt cho vay, xử lý nợ, miễn, giảm lãi tiền vay, phí",
+            "Tổ chức tín dụng có quyền chấm dứt cho vay, thu hồi nợ trước..."
+          ],
+          "parent_doc_id": "c0001-1d15c8",
+          "score": 0.85,
+          "source": "hop:1",
+          "via_doc": "c0001-1d15c8"
+        },
+        {
+          "chunk_id": "c0201-e3c5a0",
+          "kind": "list",
+          "title": "Tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội du...",
+          "text": "Tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội dung trong hợp đồng tín dụng đã ký kết phù hợp với quy định của pháp luật có hiệu lực thi hành tại thời điểm ký kết hợp đồng đó hoặc thoả thuận sửa đổi, bổ sung hợp đồng tín dụng phù hợp với quy định tại Thông tư này.\nTrường hợp áp dụng phương thức cho vay theo hạn mức tín dụng, hạn mức tín dụng dự phòng, hạn mức thấu chi trên tài khoản thanh toán, nếu trong nội dung hợp đồng không thỏa thuận thời hạn duy trì hạn mức tín dụng, hạn mức thấu chi trên tài khoản thanh toán, thời hạn hiệu lực của hạn mức tín dụng dự phòng, thì tổ chức tín dụng và khách hàng được tiếp tục thực hiện các nội dung trong hợp đồng tín dụng đã ký kết phù hợp với quy định của pháp luật có hiệu lực thi hành tại thời điểm ký kết hợp đồng nhưng thời hạn duy trì của hạn mức tín dụng, hạn mức thấu chi trên tài khoản thanh toán, thời hạn hiệu lực của hạn mức tín dụng dự phòng tối đa không vượt quá 01 (một) năm kể từ ngày Thông tư này có hiệu lực thi hành.",
+          "heading_path": [
+            "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+            "Chương III - TỔ CHỨC THỰC HIỆN",
+            "Điều 34 - Quy định chuyển tiếp",
+            "Tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội du..."
+          ],
+          "parent_doc_id": "c0001-1d15c8",
+          "score": 0.85,
+          "source": "hop:1",
+          "via_doc": "c0001-1d15c8"
+        }
+      ],
+      "documents": [
+        {
+          "doc_id": "c0001-66de38",
+          "title": "Thông tư 06/2023/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.9377171993255615,
+          "hops": 0,
+          "via_relationship": null,
+          "path": [
+            "c0001-66de38"
+          ]
+        },
+        {
+          "doc_id": "c0001-9d3d51",
+          "title": "Thông tư 02/2023/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.9335514903068542,
+          "hops": 0,
+          "via_relationship": null,
+          "path": [
+            "c0001-9d3d51"
+          ]
+        },
+        {
+          "doc_id": "doc-quy-dinh-cua-thong-doc-ngan-hang-nha-nuoc-viet-nam-ve-trich-lap-du-phong-rui-ro-trong-hoat-dong-cua-to-chuc-tin-dung-chi-nhanh-ngan-hang",
+          "title": "quy định của Thống đốc Ngân hàng Nhà nước Việt Nam về trích lập dự phòng rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng",
+          "doc_type": "unknown",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-quy-dinh-cua-thong-doc-ngan-hang-nha-nuoc-viet-nam-ve-trich-lap-du-phong-rui-ro-trong-hoat-dong-cua-to-chuc-tin-dung-chi-nhanh-ngan-hang"
+          ]
+        },
+        {
+          "doc_id": "doc-nghi-quyet-so-50-nq-cp-ngay-08-4-2023-cua-chinh-phu-ve-hoi-nghi-chinh-phu-voi-dia-phuong",
+          "title": "Nghị quyết số 50/NQ-CP ngày 08/4/2023 của Chính phủ về hội nghị Chính phủ với địa phương và phiên họp thường kỳ Chính phủ tháng 3 năm 2023 và Nghị quyết số 59/NQ-CP ngày 23/4/2023 của Chính phủ về giải pháp hỗ trợ tháo gỡ khó khăn cho khách hàng vay phục vụ nhu cầu đời sống, tiêu dùng;*",
+          "doc_type": "nghi_quyet",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-nghi-quyet-so-50-nq-cp-ngay-08-4-2023-cua-chinh-phu-ve-hoi-nghi-chinh-phu-voi-dia-phuong"
+          ]
+        },
+        {
+          "doc_id": "102/2022/NĐ-CP",
+          "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;*",
+          "doc_type": "nghi_dinh",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "102/2022/NĐ-CP"
+          ]
+        },
+        {
+          "doc_id": "doc-luat-cac-to-chuc-tin-dung",
+          "title": "Luật Các tổ chức tín dụng",
+          "doc_type": "luat",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-luat-cac-to-chuc-tin-dung"
+          ]
+        },
+        {
+          "doc_id": "doc-luat-ngan-hang-nha-nuoc-viet-nam",
+          "title": "Luật Ngân hàng Nhà nước Việt Nam",
+          "doc_type": "luat",
+          "is_root": false,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "CAN_CU",
+          "path": [
+            "c0001-9d3d51",
+            "doc-luat-ngan-hang-nha-nuoc-viet-nam"
+          ]
+        },
+        {
+          "doc_id": "c0001-1d15c8",
+          "title": "Thông tư 39/2016/TT-NHNN",
+          "doc_type": "thong_tu",
+          "is_root": true,
+          "score": 0.85,
+          "hops": 1,
+          "via_relationship": "THAY_THE",
+          "path": [
+            "c0001-66de38",
+            "c0001-1d15c8"
+          ]
+        },
+        {
+          "doc_id": "156/2013/NĐ-CP",
+          "title": "Nghị định số của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam",
+          "doc_type": "nghi_dinh",
+          "is_root": false,
+          "score": 0.7224999999999999,
+          "hops": 2,
+          "via_relationship": "THAY_THE",
+          "path": [
+            "c0001-66de38",
+            "c0001-1d15c8",
+            "156/2013/NĐ-CP"
+          ]
+        }
+      ]
+    }
+  }
+]

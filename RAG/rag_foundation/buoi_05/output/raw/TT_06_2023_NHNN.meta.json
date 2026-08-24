@@ -1,0 +1,19 @@
+{
+  "source": "TT_06_2023_NHNN.pdf",
+  "extraction_method": "llamaparse_ocr",
+  "warnings": [
+    "page_1:possible_vietnamese_font_substitution_error",
+    "page_2:possible_vietnamese_font_substitution_error",
+    "page_3:possible_vietnamese_font_substitution_error",
+    "page_4:possible_vietnamese_font_substitution_error",
+    "page_5:possible_vietnamese_font_substitution_error",
+    "page_6:possible_vietnamese_font_substitution_error",
+    "page_7:possible_vietnamese_font_substitution_error",
+    "page_8:possible_vietnamese_font_substitution_error",
+    "page_9:possible_vietnamese_font_substitution_error",
+    "fallback_to_llamaparse_for_whole_file",
+    "rendered_pages:9"
+  ],
+  "language": "vi",
+  "page_count": 1
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "chunk_id": "demo_policy::hierarchical::0001",
+    "strategy": "hierarchical",
+    "source": "demo_policy.pdf",
+    "page_start": 1,
+    "page_end": 1,
+    "text": "Tài liệu mô phỏng giới thiệu nguyên tắc hỗ trợ khách hàng và cách ghi nhận yêu cầu trong hệ thống nội bộ."
+  },
+  {
+    "chunk_id": "demo_policy::hierarchical::0002",
+    "strategy": "hierarchical",
+    "source": "demo_policy.pdf",
+    "page_start": 2,
+    "page_end": 4,
+    "text": "Quy trình mô phỏng gồm tiếp nhận hồ sơ, kiểm tra điều kiện, ghi chú lý do xử lý và lưu lại bằng chứng tham chiếu."
+  },
+  {
+    "chunk_id": "demo_policy::hierarchical::0003",
+    "strategy": "hierarchical",
+    "source": "demo_policy.pdf",
+    "page_start": 5,
+    "page_end": 5,
+    "text": "Bộ phận vận hành mô phỏng cần kiểm tra lại dữ liệu trước khi công bố kết quả cho người dùng cuối."
+  },
+  {
+    "chunk_id": "demo_faq::semantic::0001",
+    "strategy": "semantic",
+    "source": "demo_faq.pdf",
+    "page_start": 1,
+    "page_end": 2,
+    "text": "Câu hỏi thường gặp mô phỏng giải thích rằng câu trả lời chỉ nên dựa trên đoạn evidence đạt ngưỡng tin cậy."
+  },
+  {
+    "chunk_id": "demo_handbook::fixed::0001",
+    "strategy": "fixed-size",
+    "source": "demo_handbook.pdf",
+    "page_start": 3,
+    "page_end": 3,
+    "text": "Sổ tay mô phỏng nhắc người học không dùng dữ liệu nhạy cảm trong fixture và luôn kiểm tra metadata citation."
+  }
+]

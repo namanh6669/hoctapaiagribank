@@ -1,0 +1,220 @@
+[
+  {
+    "query": "Điều kiện để tổ chức tín dụng được cơ cấu lại thời hạn trả nợ là gì?",
+    "context": {
+      "n_documents": 6,
+      "n_chunks": 4,
+      "chunks": [
+        {
+          "source": "vector",
+          "score": 0.9480783343315125,
+          "kind": "article",
+          "doc_id": "c0001-9d3d51",
+          "preview": "Điều 5 - Giữ nguyên nhóm nợ và phân loại nợ"
+        },
+        {
+          "source": "vector",
+          "score": 0.9418432116508484,
+          "kind": "article",
+          "doc_id": "c0001-9d3d51",
+          "preview": "Điều 4 - Cơ cấu lại thời hạn trả nợ"
+        },
+        {
+          "source": "vector",
+          "score": 0.9380065202713013,
+          "kind": "article",
+          "doc_id": "c0001-9d3d51",
+          "preview": "Điều 6 - Trích lập dự phòng rủi ro"
+        },
+        {
+          "source": "vector",
+          "score": 0.929404616355896,
+          "kind": "paragraph",
+          "doc_id": "c0001-9d3d51",
+          "preview": "Theo đề nghị của Vụ trưởng Vụ Tín dụng các ngành kinh tế;"
+        }
+      ]
+    },
+    "answer": "Dựa vào ngữ cảnh được cung cấp, ngữ cảnh chỉ chứa các tiêu đề điều khoản (như \"Điều 4 - Cơ cấu lại thời hạn trả nợ\" [2]) mà **không có nội dung chi tiết quy định về các điều kiện cụ thể để tổ chức tín dụng được cơ cấu lại thời hạn trả nợ**.",
+    "answer_meta": {
+      "model": "gemini-flash-latest",
+      "elapsed_ms": 2743.3854590635747,
+      "input_tokens": 1629,
+      "output_tokens": 69
+    }
+  },
+  {
+    "query": "Thông tư 06/2023 sửa đổi những điều nào của Thông tư 39/2016?",
+    "context": {
+      "n_documents": 5,
+      "n_chunks": 7,
+      "chunks": [
+        {
+          "source": "vector",
+          "score": 0.9042274951934814,
+          "kind": "article",
+          "doc_id": "c0001-66de38",
+          "preview": "Điều 1 - Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN"
+        },
+        {
+          "source": "vector",
+          "score": 0.8994007110595703,
+          "kind": "paragraph",
+          "doc_id": "c0001-66de38",
+          "preview": "Điều 2. Bãi bỏ khoản 5 Điều 7 của Thông tư số 39/2016/TT-NHNN."
+        },
+        {
+          "source": "vector",
+          "score": 0.8925086855888367,
+          "kind": "article",
+          "doc_id": "c0001-66de38",
+          "preview": "Điều 3 - Trách nhiệm tổ chức thực hiện"
+        },
+        {
+          "source": "vector",
+          "score": 0.8810986280441284,
+          "kind": "paragraph",
+          "doc_id": "c0001-66de38",
+          "preview": "“Điều 8. Những nhu cầu vốn không được cho vay"
+        },
+        {
+          "source": "hop:1",
+          "score": 0.85,
+          "kind": "list",
+          "doc_id": "c0001-1d15c8",
+          "preview": "Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách hàng thực hiện thủ tục cho vay và ký kết thỏa thuận cho vay.\nCho vay hợp vốn: Là việc có từ hai tổ chức tín dụng trở lên cùng thực hiện cho"
+        },
+        {
+          "source": "hop:1",
+          "score": 0.85,
+          "kind": "list",
+          "doc_id": "c0001-1d15c8",
+          "preview": "Tổ chức tín dụng có quyền chấm dứt cho vay, thu hồi nợ trước hạn theo nội dung đã thỏa thuận khi phát hiện khách hàng cung cấp thông tin sai sự thật, vi phạm quy định trong thỏa thuận cho vay và/hoặc "
+        },
+        {
+          "source": "hop:1",
+          "score": 0.85,
+          "kind": "list",
+          "doc_id": "c0001-1d15c8",
+          "preview": "Tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội dung trong hợp đồng tín dụng đã ký kết phù hợp với quy định của pháp luật có hiệu lực thi hành tại thời điểm ký kết hợp đồng đó hoặc thoả thuậ"
+        }
+      ]
+    },
+    "answer": "Dựa vào ngữ cảnh được cung cấp, Thông tư 06/2023/TT-NHNN sửa đổi, bổ sung và bãi bỏ các nội dung sau của Thông tư 39/2016/TT-NHNN:\n\n* **Sửa đổi, bổ sung:** \n  * Sửa đổi, bổ sung **Điều 8** (Những nhu cầu vốn không được cho vay) [4].\n* **Bãi bỏ:** \n  * Bãi bỏ **khoản 5 Điều 7** của Thông tư số 39/2016/TT-NHNN (theo Điều 2 Thông tư 06/2023/TT-NHNN) [2].\n\n*Lưu ý:* Điều 1 Thông tư 06/2023/TT-NHNN quy định về việc \"Sửa đổi, bổ sung một số điều của Thông tư số 39/2016/TT-NHNN\" [1], tuy nhiên **ngữ cảnh hiện tại không cung cấp đầy đủ toàn bộ danh sách các điều khoản được sửa đổi khác** (chỉ có thông tin chi tiết về Điều 8 [4]).",
+    "answer_meta": {
+      "model": "gemini-flash-latest",
+      "elapsed_ms": 3687.0610408950597,
+      "input_tokens": 3175,
+      "output_tokens": 255
+    }
+  },
+  {
+    "query": "Căn cứ pháp lý để ban hành Thông tư 02/2023/TT-NHNN gồm những văn bản nào?",
+    "context": {
+      "n_documents": 6,
+      "n_chunks": 4,
+      "chunks": [
+        {
+          "source": "vector",
+          "score": 0.9319680333137512,
+          "kind": "article",
+          "doc_id": "c0001-9d3d51",
+          "preview": "Điều 6 - Trích lập dự phòng rủi ro"
+        },
+        {
+          "source": "vector",
+          "score": 0.9279880523681641,
+          "kind": "article",
+          "doc_id": "c0001-9d3d51",
+          "preview": "Điều 5 - Giữ nguyên nhóm nợ và phân loại nợ"
+        },
+        {
+          "source": "vector",
+          "score": 0.9235146045684814,
+          "kind": "article",
+          "doc_id": "c0001-9d3d51",
+          "preview": "Điều 3 - Áp dụng các văn bản quy phạm pháp luật có liên quan"
+        },
+        {
+          "source": "vector",
+          "score": 0.9214577674865723,
+          "kind": "paragraph",
+          "doc_id": "c0001-9d3d51",
+          "preview": "KT. THỐNG ĐỐC\nPHÓ THỐNG ĐỐC"
+        }
+      ]
+    },
+    "answer": "Ngữ cảnh được cung cấp không có thông tin về các **căn cứ pháp lý** để ban hành Thông tư 02/2023/TT-NHNN. \n\nCác đoạn trích dẫn hiện tại chỉ bao gồm tiêu đề của một số điều khoản (Điều 3, Điều 5, Điều 6) và phần nơi ký [1, 2, 3, 4], không chứa phần mở đầu (nơi liệt kê các căn cứ pháp lý của Thông tư).",
+    "answer_meta": {
+      "model": "gemini-flash-latest",
+      "elapsed_ms": 2785.7772919815034,
+      "input_tokens": 1682,
+      "output_tokens": 105
+    }
+  },
+  {
+    "query": "Trách nhiệm của Ngân hàng Nhà nước trong quản lý cho vay theo Thông tư 02/2023?",
+    "context": {
+      "n_documents": 8,
+      "n_chunks": 7,
+      "chunks": [
+        {
+          "source": "vector",
+          "score": 0.9549413919448853,
+          "kind": "paragraph",
+          "doc_id": "c0001-9d3d51",
+          "preview": "Theo đề nghị của Vụ trưởng Vụ Tín dụng các ngành kinh tế;"
+        },
+        {
+          "source": "vector",
+          "score": 0.9533802270889282,
+          "kind": "article",
+          "doc_id": "c0001-66de38",
+          "preview": "Điều 4 - Điều khoản thi hành"
+        },
+        {
+          "source": "vector",
+          "score": 0.9522048234939575,
+          "kind": "article",
+          "doc_id": "c0001-9d3d51",
+          "preview": "Điều 3 - Áp dụng các văn bản quy phạm pháp luật có liên quan"
+        },
+        {
+          "source": "vector",
+          "score": 0.949639081954956,
+          "kind": "article",
+          "doc_id": "c0001-9d3d51",
+          "preview": "Điều 1 - Phạm vi điều chỉnh"
+        },
+        {
+          "source": "hop:1",
+          "score": 0.85,
+          "kind": "list",
+          "doc_id": "c0001-1d15c8",
+          "preview": "Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách hàng thực hiện thủ tục cho vay và ký kết thỏa thuận cho vay.\nCho vay hợp vốn: Là việc có từ hai tổ chức tín dụng trở lên cùng thực hiện cho"
+        },
+        {
+          "source": "hop:1",
+          "score": 0.85,
+          "kind": "list",
+          "doc_id": "c0001-1d15c8",
+          "preview": "Tổ chức tín dụng có quyền chấm dứt cho vay, thu hồi nợ trước hạn theo nội dung đã thỏa thuận khi phát hiện khách hàng cung cấp thông tin sai sự thật, vi phạm quy định trong thỏa thuận cho vay và/hoặc "
+        },
+        {
+          "source": "hop:1",
+          "score": 0.85,
+          "kind": "list",
+          "doc_id": "c0001-1d15c8",
+          "preview": "Tổ chức tín dụng và khách hàng tiếp tục thực hiện các nội dung trong hợp đồng tín dụng đã ký kết phù hợp với quy định của pháp luật có hiệu lực thi hành tại thời điểm ký kết hợp đồng đó hoặc thoả thuậ"
+        }
+      ]
+    },
+    "answer": "Dựa trên ngữ cảnh được cung cấp, **ngữ cảnh không có thông tin về trách nhiệm của Ngân hàng Nhà nước trong quản lý cho vay theo Thông tư 02/2023/TT-NHNN**.\n\nCác đoạn trích liên quan đến Thông tư 02/2023/TT-NHNN trong ngữ cảnh chỉ bao gồm phần mở đầu về việc ban hành theo đề nghị của Vụ trưởng Vụ Tín dụng các ngành kinh tế [1] và tiêu đề các điều khoản cơ bản (Điều 1 - Phạm vi điều chỉnh [4], Điều 3 - Áp dụng các văn bản quy phạm pháp luật có liên quan [3]), hoàn toàn không có nội dung quy định cụ thể về trách nhiệm của Ngân hàng Nhà nước.",
+    "answer_meta": {
+      "model": "gemini-flash-latest",
+      "elapsed_ms": 2848.9726250991225,
+      "input_tokens": 3061,
+      "output_tokens": 163
+    }
+  }
+]

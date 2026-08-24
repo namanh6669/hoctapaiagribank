@@ -1,0 +1,32 @@
+# Buổi 14 — minimal dependencies for Hybrid Search + Reranking + Mini KG
+# Chính sách: KHÔNG cài LangChain / LlamaIndex / FlagEmbedding / vector DB client / Neo4j server.
+
+# CSV / bảng
+pandas>=2.2
+numpy>=1.26
+
+# BM25 lexical
+rank-bm25>=0.2.2
+
+# Dense embedding + cross-encoder reranking (đa ngôn ngữ, dùng cho tiếng Việt)
+# torch sẽ được kéo về tự động làm phụ thuộc của sentence-transformers.
+sentence-transformers>=3.0
+
+# Neo4j — chỉ Python driver, không kèm server.
+neo4j>=5.20
+
+# HTML parsing cho content.csv (cell chứa toàn văn HTML)
+beautifulsoup4>=4.12
+lxml>=5.2
+
+# Tiện ích
+tqdm>=4.66
+python-dotenv>=1.0
+
+# Demo UI
+streamlit>=1.30
+# Bắt buộc cho transformers v5+ — nếu thiếu, lazy-scan các vision submodule
+# của transformers sẽ in hàng loạt ModuleNotFoundError('torchvision') ra console
+# khi lần đầu load CrossEncoder / SentenceTransformer. ~100 MB, không load
+# model vision nào nhưng làm transformers thoả mãn import-check.
+torchvision>=0.20

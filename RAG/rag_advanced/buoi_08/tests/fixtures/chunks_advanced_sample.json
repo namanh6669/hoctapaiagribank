@@ -1,0 +1,66 @@
+[
+  {
+    "chunk_id": "adv-legal-001",
+    "strategy": "hierarchical",
+    "source": "fixture_quy_dinh_tin_dung_mo_phong.pdf",
+    "page_start": 1,
+    "page_end": 1,
+    "text": "Điều 4 Khoản 1 quy định tổ chức tín dụng phải thẩm định khả năng trả nợ trước khi quyết định cấp tín dụng. Hồ sơ thẩm định cần nêu rõ mục đích vay vốn, dòng tiền trả nợ và biện pháp kiểm soát rủi ro."
+  },
+  {
+    "chunk_id": "adv-legal-002",
+    "strategy": "hierarchical",
+    "source": "fixture_quy_dinh_tin_dung_mo_phong.pdf",
+    "page_start": 2,
+    "page_end": 2,
+    "text": "Theo Điều 4 Khoản 2, khách hàng vay phải cung cấp thông tin trung thực về tình hình tài chính, phương án sử dụng vốn và tài sản bảo đảm nếu có. Tổ chức tín dụng lưu lại chứng từ làm căn cứ kiểm tra sau giải ngân."
+  },
+  {
+    "chunk_id": "adv-legal-003",
+    "strategy": "hierarchical",
+    "source": "fixture_co_cau_no_mo_phong.pdf",
+    "page_start": 3,
+    "page_end": 3,
+    "text": "Điều 7 Khoản 1 cho phép cơ cấu lại thời hạn trả nợ khi khách hàng gặp khó khăn tạm thời nhưng vẫn được đánh giá có khả năng thanh toán đầy đủ theo lịch trả nợ được điều chỉnh. Việc cơ cấu nợ phải được lập thành văn bản."
+  },
+  {
+    "chunk_id": "adv-legal-004",
+    "strategy": "hierarchical",
+    "source": "fixture_co_cau_no_mo_phong.pdf",
+    "page_start": 4,
+    "page_end": 4,
+    "text": "Trường hợp bên vay bị gián đoạn nguồn thu trong ngắn hạn nhưng chứng minh được dòng tiền phục hồi, ngân hàng có thể xem xét dời kỳ hạn thanh toán và giữ nguyên nhóm nợ theo quy trình nội bộ. Nội dung này tương ứng với Điều 7 về cơ cấu nghĩa vụ trả tiền."
+  },
+  {
+    "chunk_id": "adv-legal-005",
+    "strategy": "hierarchical",
+    "source": "fixture_lai_suat_phi_mo_phong.pdf",
+    "page_start": 5,
+    "page_end": 5,
+    "text": "Điều 9 Khoản 3 yêu cầu lãi suất cho vay, phí liên quan và phương pháp tính lãi phải được thỏa thuận minh bạch trong hợp đồng tín dụng. Mọi thay đổi lãi suất phải thông báo cho khách hàng theo thời hạn đã cam kết."
+  },
+  {
+    "chunk_id": "adv-legal-006",
+    "strategy": "hierarchical",
+    "source": "fixture_bao_dam_tien_vay_mo_phong.pdf",
+    "page_start": 6,
+    "page_end": 7,
+    "text": "Điều 11 Khoản 1 nêu biện pháp bảo đảm tiền vay có thể bao gồm cầm cố, thế chấp, bảo lãnh hoặc ký quỹ. Giá trị tài sản bảo đảm phải được định giá theo quy trình độc lập và cập nhật khi có biến động lớn."
+  },
+  {
+    "chunk_id": "adv-legal-007",
+    "strategy": "hierarchical",
+    "source": "fixture_kiem_tra_sau_vay_mo_phong.pdf",
+    "page_start": 8,
+    "page_end": 8,
+    "text": "Điều 12 Khoản 2 quy định sau giải ngân, tổ chức tín dụng kiểm tra việc sử dụng vốn vay đúng mục đích. Nếu phát hiện vốn vay dùng sai mục đích, đơn vị cho vay phải áp dụng biện pháp thu hồi hoặc điều chỉnh hạn mức theo hợp đồng."
+  },
+  {
+    "chunk_id": "adv-out-001",
+    "strategy": "hierarchical",
+    "source": "fixture_ngoai_pham_vi_mo_phong.pdf",
+    "page_start": 9,
+    "page_end": 9,
+    "text": "Tài liệu hướng dẫn tổ chức hội thao nội bộ quy định lịch thi đấu bóng đá, phân công trọng tài và chuẩn bị nước uống cho vận động viên. Nội dung này không liên quan đến cấp tín dụng, cơ cấu nợ, lãi suất hoặc tài sản bảo đảm."
+  }
+]

@@ -1,0 +1,9 @@
+﻿question_id,query_type,question,expected_chunk_id,bm25_rank,bm25_hit_at_1,bm25_hit_at_3,bm25_hit_at_5,bm25_mrr,dense_rank,dense_hit_at_1,dense_hit_at_3,dense_hit_at_5,dense_mrr,hybrid_rank,hybrid_hit_at_1,hybrid_hit_at_3,hybrid_hit_at_5,hybrid_mrr,rerank_rank,rerank_hit_at_1,rerank_hit_at_3,rerank_hit_at_5,rerank_mrr
+Q01,EXACT_KEYWORD,Điều 5 Thông tư 01/2014/TT-NHNN quy định về niêm phong tiền mặt,da0e8aaa-9674-528f-9fa6-198ed223d192,3,0,1,1,0.3333,,0,0,0,0,,0,0,0,0,1,1,1,1,1.0000
+Q02,EXACT_KEYWORD,Điều 7 Luật 32/2024/QH15 về quyền tự chủ của tổ chức tín dụng,116cb6af-6cfa-5785-ae97-a7c066c4eb45,5,0,0,1,0.2000,2,0,1,1,0.5000,4,0,0,1,0.2500,1,1,1,1,1.0000
+Q03,EXACT_KEYWORD,Thông tư 41/2016/TT-NHNN căn cứ vào Luật nào?,5b92a756-3b0e-5c54-aaa1-8867edd4b049,2,0,1,1,0.5000,1,1,1,1,1.0000,1,1,1,1,1.0000,1,1,1,1,1.0000
+Q04,SEMANTIC,Điều kiện để cấp giấy phép cho ngân hàng thương mại,d2f44828-1df2-5fd2-be37-30c5bd60f7f0,,0,0,0,0,1,1,1,1,1.0000,,0,0,0,0,4,0,0,1,0.2500
+Q05,SEMANTIC,Quy định về quỹ tín dụng nhân dân hiện hành,347f41a4-1e8f-574e-8ea0-192194c49ee4,,0,0,0,0,1,1,1,1,1.0000,4,0,0,1,0.2500,1,1,1,1,1.0000
+Q06,SEMANTIC,Bảo hiểm tiền gửi đối với tổ chức tín dụng,5a2c001c-b509-5197-ab0c-9754665b475b,,0,0,0,0,3,0,1,1,0.3333,3,0,1,1,0.3333,2,0,1,1,0.5000
+Q07,MIXED,Tỷ lệ an toàn vốn tối thiểu theo Thông tư 41/2016/TT-NHNN,f4924965-73f4-5fd2-8a24-d634d56ebdb1,3,0,1,1,0.3333,3,0,1,1,0.3333,4,0,0,1,0.2500,5,0,0,1,0.2000
+Q08,MIXED,Thông tư 22/2023/TT-NHNN sửa đổi Thông tư 41/2016 về tỷ lệ an toàn vốn,96edab3e-3305-5b10-a3e3-908a8be49736,1,1,1,1,1.0000,1,1,1,1,1.0000,1,1,1,1,1.0000,1,1,1,1,1.0000

@@ -1,0 +1,137 @@
+[
+  {
+    "name": "T01_HR_pure_via_Guest",
+    "category": "HR",
+    "status": "PASS",
+    "query": "bổ nhiệm thành viên hội đồng quản trị",
+    "target_document_id": "166170",
+    "target_title": "Luật Các tổ chức tín dụng số 32/2024/QH15",
+    "unauthorized_roles": [
+      "Guest"
+    ],
+    "authorized_roles": [
+      "Admin",
+      "HR_Manager"
+    ],
+    "unauth_leak_count": 0,
+    "unauth_leak_chunks": [],
+    "auth_found": true,
+    "auth_score": 0.01639344262295082,
+    "notes": [
+      "✓ Không leak: doc 166170 bị ẩn khỏi role ['Guest']; authorized roles ['Admin', 'HR_Manager'] thấy doc với rrf_score=0.0164"
+    ]
+  },
+  {
+    "name": "T02_Risk_via_Guest",
+    "category": "Risk",
+    "status": "PASS",
+    "query": "giao nhận bảo quản vận chuyển tiền mặt tài sản quý",
+    "target_document_id": "44209",
+    "target_title": "Thông tư 01/2014/TT-NHNN Quy định giao nhận, bảo quản, vận chuyển",
+    "unauthorized_roles": [
+      "Guest"
+    ],
+    "authorized_roles": [
+      "Admin",
+      "Risk_Officer",
+      "Employee"
+    ],
+    "unauth_leak_count": 0,
+    "unauth_leak_chunks": [],
+    "auth_found": true,
+    "auth_score": 0.03200204813108039,
+    "notes": [
+      "✓ Không leak: doc 44209 bị ẩn khỏi role ['Guest']; authorized roles ['Admin', 'Risk_Officer', 'Employee'] thấy doc với rrf_score=0.0320"
+    ]
+  },
+  {
+    "name": "T03_Risk_an_toan_von_via_Guest",
+    "category": "Risk",
+    "status": "PASS",
+    "query": "tỷ lệ an toàn vốn ngân hàng",
+    "target_document_id": "117310",
+    "target_title": "Thông tư 41/2016/TT-NHNN Quy định tỷ lệ an toàn vốn",
+    "unauthorized_roles": [
+      "Guest"
+    ],
+    "authorized_roles": [
+      "Admin",
+      "Risk_Officer"
+    ],
+    "unauth_leak_count": 0,
+    "unauth_leak_chunks": [],
+    "auth_found": true,
+    "auth_score": 0.02946912242686891,
+    "notes": [
+      "✓ Không leak: doc 117310 bị ẩn khỏi role ['Guest']; authorized roles ['Admin', 'Risk_Officer'] thấy doc với rrf_score=0.0295"
+    ]
+  },
+  {
+    "name": "T04_HR_via_Employee_blocked",
+    "category": "HR",
+    "status": "PASS",
+    "query": "chuẩn mực kiểm toán nội bộ",
+    "target_document_id": "150974",
+    "target_title": "Thông tư 08/2021/TT-BTC chuẩn mực kiểm toán nội bộ",
+    "unauthorized_roles": [
+      "Employee"
+    ],
+    "authorized_roles": [
+      "Admin",
+      "HR_Manager"
+    ],
+    "unauth_leak_count": 0,
+    "unauth_leak_chunks": [],
+    "auth_found": true,
+    "auth_score": 0.032018442622950824,
+    "notes": [
+      "✓ Không leak: doc 150974 bị ẩn khỏi role ['Employee']; authorized roles ['Admin', 'HR_Manager'] thấy doc với rrf_score=0.0320"
+    ]
+  },
+  {
+    "name": "T05_Mixed_doc_Admin_only",
+    "category": "Mixed",
+    "status": "PASS",
+    "query": "luật các tổ chức tín dụng",
+    "target_document_id": "166170",
+    "target_title": "Luật Các tổ chức tín dụng số 32/2024/QH15 (mixed HR+Risk)",
+    "unauthorized_roles": [
+      "HR_Manager",
+      "Risk_Officer",
+      "Employee",
+      "Guest"
+    ],
+    "authorized_roles": [
+      "Admin"
+    ],
+    "unauth_leak_count": 0,
+    "unauth_leak_chunks": [],
+    "auth_found": true,
+    "auth_score": 0.030834914611005692,
+    "notes": [
+      "✓ Không leak: doc 166170 bị ẩn khỏi role ['HR_Manager', 'Risk_Officer', 'Employee', 'Guest']; authorized roles ['Admin'] thấy doc với rrf_score=0.0308"
+    ]
+  },
+  {
+    "name": "T06_Multiselect_union_can_see_HR",
+    "category": "HR",
+    "status": "WARN",
+    "query": "bổ nhiệm",
+    "target_document_id": "166170",
+    "target_title": "Luật Các tổ chức tín dụng (HR chunks về bổ nhiệm HĐQT)",
+    "unauthorized_roles": [
+      "Guest"
+    ],
+    "authorized_roles": [
+      "HR_Manager",
+      "Risk_Officer"
+    ],
+    "unauth_leak_count": 0,
+    "unauth_leak_chunks": [],
+    "auth_found": false,
+    "auth_score": null,
+    "notes": [
+      "⚠️ Authorized roles ['HR_Manager', 'Risk_Officer'] không tìm thấy doc 166170 trong top-10 — kiểm tra query hoặc điểm tương đồng quá thấp."
+    ]
+  }
+]

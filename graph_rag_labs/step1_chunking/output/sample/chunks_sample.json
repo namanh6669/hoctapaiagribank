@@ -1,0 +1,154 @@
+[
+  {
+    "id": "c0001-535e30",
+    "kind": "document",
+    "title": "Thông tư 02/2023/TT-NHNN",
+    "text": "",
+    "heading_path": [],
+    "parent_id": null,
+    "children_ids": [
+      "c0002-5198e9",
+      "c0003-4475c2",
+      "c0004-40285b",
+      "c0005-a20eda",
+      "c0006-f3b5e3",
+      "c0007-685c19",
+      "c0008-f7e51e",
+      "c0009-955596",
+      "c0010-308fb9",
+      "c0011-2bc1af",
+      "c0012-a1bafb",
+      "c0013-652e74",
+      "c0014-3eb422",
+      "c0015-b8bde4",
+      "c0016-b5137e",
+      "c0018-541035",
+      "c0021-e0526e",
+      "c0023-acf94d",
+      "c0024-5d4872",
+      "c0028-0510da",
+      "c0030-b4bb23",
+      "c0043-a49b56",
+      "c0049-a8aa05",
+      "c0059-7a363d",
+      "c0060-6c80e2",
+      "c0062-90a56d"
+    ],
+    "next_id": "c0002-5198e9",
+    "depth": 0,
+    "char_count": 0,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0002-5198e9",
+    "kind": "paragraph",
+    "title": "SAO Y\nNgân hàng Nhà nước Việt Nam\nThời gian ký: 24/04/2023 0...",
+    "text": "SAO Y\nNgân hàng Nhà nước Việt Nam\nThời gian ký: 24/04/2023 01:01:25 +07:00",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "SAO Y\nNgân hàng Nhà nước Việt Nam\nThời gian ký: 24/04/2023 0..."
+    ],
+    "parent_id": "c0001-535e30",
+    "children_ids": [],
+    "next_id": "c0003-4475c2",
+    "depth": 4,
+    "char_count": 74,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0003-4475c2",
+    "kind": "paragraph",
+    "title": "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+    "text": "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM"
+    ],
+    "parent_id": "c0001-535e30",
+    "children_ids": [],
+    "next_id": "c0004-40285b",
+    "depth": 4,
+    "char_count": 27,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0004-40285b",
+    "kind": "paragraph",
+    "title": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh ph...",
+    "text": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh ph..."
+    ],
+    "parent_id": "c0001-535e30",
+    "children_ids": [],
+    "next_id": "c0005-a20eda",
+    "depth": 4,
+    "char_count": 62,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0005-a20eda",
+    "kind": "paragraph",
+    "title": "Số: 02/2023/TT-NHNN",
+    "text": "Số: 02/2023/TT-NHNN",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Số: 02/2023/TT-NHNN"
+    ],
+    "parent_id": "c0001-535e30",
+    "children_ids": [],
+    "next_id": "c0006-f3b5e3",
+    "depth": 4,
+    "char_count": 19,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0006-f3b5e3",
+    "kind": "paragraph",
+    "title": "Hà Nội, ngày 23 tháng 4 năm 2023",
+    "text": "Hà Nội, ngày 23 tháng 4 năm 2023",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Hà Nội, ngày 23 tháng 4 năm 2023"
+    ],
+    "parent_id": "c0001-535e30",
+    "children_ids": [],
+    "next_id": "c0007-685c19",
+    "depth": 4,
+    "char_count": 32,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0007-685c19",
+    "kind": "paragraph",
+    "title": "Quy định về việc tổ chức tín dụng, chi nhánh ngân hàng nước ...",
+    "text": "Quy định về việc tổ chức tín dụng, chi nhánh ngân hàng nước ngoài cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ nhằm hỗ trợ khách hàng gặp khó khăn",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Quy định về việc tổ chức tín dụng, chi nhánh ngân hàng nước ..."
+    ],
+    "parent_id": "c0001-535e30",
+    "children_ids": [],
+    "next_id": "c0008-f7e51e",
+    "depth": 4,
+    "char_count": 150,
+    "source_doc": "TT_02_2023_NHNN.md"
+  },
+  {
+    "id": "c0008-f7e51e",
+    "kind": "paragraph",
+    "title": "Căn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm ...",
+    "text": "Căn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm 2010;",
+    "heading_path": [
+      "Thông tư 02/2023/TT-NHNN",
+      "Căn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm ..."
+    ],
+    "parent_id": "c0001-535e30",
+    "children_ids": [],
+    "next_id": "c0009-955596",
+    "depth": 4,
+    "char_count": 65,
+    "source_doc": "TT_02_2023_NHNN.md"
+  }
+]

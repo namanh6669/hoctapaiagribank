@@ -1,0 +1,95 @@
+{
+  "generated_at": "2026-08-08T05:48:39.180779+00:00",
+  "dry_run": false,
+  "documents": [
+    {
+      "source": "TT_02_2023_NHNN.pdf",
+      "extraction_method": "llamaparse_ocr",
+      "page_count": 1,
+      "warnings": [
+        "page_1:possible_vietnamese_font_substitution_error",
+        "page_2:possible_vietnamese_font_substitution_error",
+        "page_3:possible_vietnamese_font_substitution_error",
+        "page_4:possible_vietnamese_font_substitution_error",
+        "page_5:possible_vietnamese_font_substitution_error",
+        "page_6:possible_vietnamese_font_substitution_error",
+        "page_7:possible_vietnamese_font_substitution_error",
+        "page_8:possible_vietnamese_font_substitution_error",
+        "page_9:possible_vietnamese_font_substitution_error",
+        "page_10:possible_vietnamese_font_substitution_error",
+        "page_11:possible_vietnamese_font_substitution_error",
+        "fallback_to_llamaparse_for_whole_file",
+        "rendered_pages:11"
+      ]
+    },
+    {
+      "source": "TT_06_2023_NHNN.pdf",
+      "extraction_method": "llamaparse_ocr",
+      "page_count": 1,
+      "warnings": [
+        "page_1:possible_vietnamese_font_substitution_error",
+        "page_2:possible_vietnamese_font_substitution_error",
+        "page_3:possible_vietnamese_font_substitution_error",
+        "page_4:possible_vietnamese_font_substitution_error",
+        "page_5:possible_vietnamese_font_substitution_error",
+        "page_6:possible_vietnamese_font_substitution_error",
+        "page_7:possible_vietnamese_font_substitution_error",
+        "page_8:possible_vietnamese_font_substitution_error",
+        "page_9:possible_vietnamese_font_substitution_error",
+        "fallback_to_llamaparse_for_whole_file",
+        "rendered_pages:9"
+      ]
+    },
+    {
+      "source": "TT_39_2016_NHNN.pdf",
+      "extraction_method": "llamaparse_ocr",
+      "page_count": 1,
+      "warnings": [
+        "page_2:text_layer_empty",
+        "page_3:text_layer_empty",
+        "page_4:text_layer_empty",
+        "page_5:text_layer_empty",
+        "page_6:text_layer_empty",
+        "page_7:text_layer_empty",
+        "page_8:text_layer_empty",
+        "page_9:text_layer_empty",
+        "page_10:text_layer_empty",
+        "page_11:text_layer_empty",
+        "page_12:text_layer_empty",
+        "page_13:text_layer_empty",
+        "page_14:text_layer_empty",
+        "page_15:text_layer_empty",
+        "page_16:text_layer_empty",
+        "page_17:text_layer_empty",
+        "page_18:text_layer_empty",
+        "fallback_to_llamaparse_for_whole_file",
+        "rendered_pages:18"
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "strategy": "fixed-size",
+      "chunk_count": 94,
+      "min_length": 546,
+      "max_length": 1200,
+      "avg_length": 1184.67
+    },
+    {
+      "strategy": "hierarchical",
+      "chunk_count": 293,
+      "min_length": 10,
+      "max_length": 2200,
+      "avg_length": 330.41
+    },
+    {
+      "strategy": "semantic",
+      "chunk_count": 73,
+      "min_length": 196,
+      "max_length": 1800,
+      "avg_length": 1336.4
+    }
+  ],
+  "warnings": [],
+  "output_dir": "/Users/nana/Documents/GitHub/hoctapaiagribank/RAG/rag_foundation/buoi_05/output"
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "question_id": "Q01",
+    "question": "Điều 8 quy định những nhu cầu vốn nào không được cho vay?",
+    "question_type": "exact",
+    "relevant_child_ids": [
+      "TT_39_2016_NHNN::hierarchical::0051",
+      "TT_06_2023_NHNN::hierarchical::0006"
+    ],
+    "relevant_parent_ids": [
+      "parent::9d249d62b1696c80::w0001",
+      "parent::b69d46fec54697ef::w0001"
+    ],
+    "needs_human_review": true,
+    "notes": "Starter label được bootstrap từ hierarchy store hiện tại; cần chuyên gia duyệt trước khi coi là ground truth."
+  },
+  {
+    "question_id": "Q02",
+    "question": "Khách hàng cần đáp ứng những yêu cầu gì để được tổ chức tín dụng xem xét cho vay?",
+    "question_type": "paraphrase",
+    "relevant_child_ids": [
+      "TT_39_2016_NHNN::hierarchical::0046"
+    ],
+    "relevant_parent_ids": [
+      "parent::7f5761325c4bbab8::w0001"
+    ],
+    "needs_human_review": true,
+    "notes": "Starter label được bootstrap từ hierarchy store hiện tại; cần chuyên gia duyệt trước khi coi là ground truth."
+  },
+  {
+    "question_id": "Q03",
+    "question": "Điều kiện vay vốn và những nhu cầu vốn không được cho vay được quy định như thế nào?",
+    "question_type": "multi_aspect",
+    "relevant_child_ids": [
+      "TT_39_2016_NHNN::hierarchical::0046",
+      "TT_39_2016_NHNN::hierarchical::0051",
+      "TT_06_2023_NHNN::hierarchical::0006"
+    ],
+    "relevant_parent_ids": [
+      "parent::7f5761325c4bbab8::w0001",
+      "parent::9d249d62b1696c80::w0001",
+      "parent::b69d46fec54697ef::w0001"
+    ],
+    "needs_human_review": true,
+    "notes": "Starter label được bootstrap từ hierarchy store hiện tại; cần chuyên gia duyệt trước khi coi là ground truth."
+  },
+  {
+    "question_id": "Q04",
+    "question": "Quy định về cơ cấu lại thời hạn trả nợ gồm điều kiện, thời gian và trách nhiệm nào?",
+    "question_type": "hierarchy_context",
+    "relevant_child_ids": [
+      "TT_02_2023_NHNN::hierarchical::0010",
+      "TT_02_2023_NHNN::hierarchical::0016",
+      "TT_02_2023_NHNN::hierarchical::0026"
+    ],
+    "relevant_parent_ids": [
+      "parent::be82c9a225208f08::w0001",
+      "parent::490311083a958c76::w0001"
+    ],
+    "needs_human_review": true,
+    "notes": "Starter label được bootstrap từ hierarchy store hiện tại; cần chuyên gia duyệt trước khi coi là ground truth."
+  },
+  {
+    "question_id": "Q05",
+    "question": "Lãi suất tiết kiệm cao nhất trên thị trường hôm nay là bao nhiêu?",
+    "question_type": "out_of_scope",
+    "relevant_child_ids": [],
+    "relevant_parent_ids": [],
+    "needs_human_review": true,
+    "notes": "Out-of-scope starter label; expected no in-corpus legal evidence, needs human review."
+  }
+]

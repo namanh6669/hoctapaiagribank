@@ -1,0 +1,9 @@
+question_id,question,expected_chunk_id,query_type,note
+Q01,Điều 5 Thông tư 01/2014/TT-NHNN quy định về niêm phong tiền mặt,da0e8aaa-9674-528f-9fa6-198ed223d192,EXACT_KEYWORD,Mã + số điều cụ thể — gold = chunk Điều 5 của doc 44209 (01/2014/TT-NHNN) đã đọc và xác minh text
+Q02,Điều 7 Luật 32/2024/QH15 về quyền tự chủ của tổ chức tín dụng,116cb6af-6cfa-5785-ae97-a7c066c4eb45,EXACT_KEYWORD,Mã Luật + số điều cụ thể — gold = chunk Điều 7 của doc 166170 (32/2024/QH15)
+Q03,Thông tư 41/2016/TT-NHNN căn cứ vào Luật nào?,5b92a756-3b0e-5c54-aaa1-8867edd4b049,EXACT_KEYWORD,Truy vết phần "Căn cứ Luật ... 46/2010/QH12" trong preamble — gold = chunk preamble doc 117310
+Q04,Điều kiện để cấp giấy phép cho ngân hàng thương mại,d2f44828-1df2-5fd2-be37-30c5bd60f7f0,SEMANTIC,Không mã văn bản — gold = chunk Điều 7 (Thủ tục cấp Giấy phép) của doc 173695 (56/2024/TT-NHNN)
+Q05,Quy định về quỹ tín dụng nhân dân hiện hành,347f41a4-1e8f-574e-8ea0-192194c49ee4,SEMANTIC,Không mã văn bản — gold = chunk preamble doc 168859 (29/2024/TT-NHNN)
+Q06,Bảo hiểm tiền gửi đối với tổ chức tín dụng,5a2c001c-b509-5197-ab0c-9754665b475b,SEMANTIC,Không mã văn bản — gold = chunk Điều 10 của doc 166170 (32/2024/QH15)
+Q07,Tỷ lệ an toàn vốn tối thiểu theo Thông tư 41/2016/TT-NHNN,f4924965-73f4-5fd2-8a24-d634d56ebdb1,MIXED,Mã + semantic — gold = chunk Điều 6 (công thức CAR) của doc 117310
+Q08,Thông tư 22/2023/TT-NHNN sửa đổi Thông tư 41/2016 về tỷ lệ an toàn vốn,96edab3e-3305-5b10-a3e3-908a8be49736,MIXED,Mã + quan hệ sửa đổi — gold = chunk preamble doc 164719 (22/2023/TT-NHNN)

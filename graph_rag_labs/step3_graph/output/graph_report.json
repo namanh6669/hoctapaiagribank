@@ -1,0 +1,11 @@
+{
+  "uri": "bolt://localhost:7687",
+  "database": "neo4j",
+  "vector_index": "chunk_embedding",
+  "n_chunks": 91,
+  "n_nodes": 91,
+  "n_has_child": 90,
+  "n_next": 91,
+  "n_embeddings": 87,
+  "vector_dim": 384
+}

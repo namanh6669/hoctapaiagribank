@@ -1,0 +1,27 @@
+{
+  "source": "TT_39_2016_NHNN.pdf",
+  "extraction_method": "llamaparse_ocr",
+  "warnings": [
+    "page_2:text_layer_empty",
+    "page_3:text_layer_empty",
+    "page_4:text_layer_empty",
+    "page_5:text_layer_empty",
+    "page_6:text_layer_empty",
+    "page_7:text_layer_empty",
+    "page_8:text_layer_empty",
+    "page_9:text_layer_empty",
+    "page_10:text_layer_empty",
+    "page_11:text_layer_empty",
+    "page_12:text_layer_empty",
+    "page_13:text_layer_empty",
+    "page_14:text_layer_empty",
+    "page_15:text_layer_empty",
+    "page_16:text_layer_empty",
+    "page_17:text_layer_empty",
+    "page_18:text_layer_empty",
+    "fallback_to_llamaparse_for_whole_file",
+    "rendered_pages:18"
+  ],
+  "language": "vi",
+  "page_count": 1
+}

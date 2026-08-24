@@ -1,0 +1,58 @@
+[
+  {
+    "query_id": "Q01",
+    "question": "Tổ chức tín dụng cần thẩm định những nội dung gì trước khi cấp tín dụng?",
+    "relevant_chunk_ids": ["adv-legal-001"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q02",
+    "question": "Khách hàng vay phải cung cấp thông tin nào trong hồ sơ vay vốn?",
+    "relevant_chunk_ids": ["adv-legal-002"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q03",
+    "question": "Khi nào khoản vay được cơ cấu lại thời hạn trả nợ?",
+    "relevant_chunk_ids": ["adv-legal-003", "adv-legal-004"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q04",
+    "question": "Bên vay bị hụt nguồn thu tạm thời nhưng có dòng tiền phục hồi thì ngân hàng có thể làm gì?",
+    "relevant_chunk_ids": ["adv-legal-003", "adv-legal-004"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q05",
+    "question": "Hợp đồng tín dụng cần minh bạch nội dung nào về lãi suất và phí?",
+    "relevant_chunk_ids": ["adv-legal-005"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q06",
+    "question": "Các biện pháp bảo đảm tiền vay có thể bao gồm những hình thức nào?",
+    "relevant_chunk_ids": ["adv-legal-006"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q07",
+    "question": "Sau giải ngân, tổ chức tín dụng cần kiểm tra điều gì về việc sử dụng vốn vay?",
+    "relevant_chunk_ids": ["adv-legal-007"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q08",
+    "question": "Ai được phân công làm trọng tài trong hội thao bóng đá nội bộ?",
+    "relevant_chunk_ids": ["adv-out-001"],
+    "scope": "out_of_scope",
+    "needs_human_review": true
+  }
+]

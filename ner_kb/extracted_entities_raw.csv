@@ -1,0 +1,169 @@
+entity,entity_type,source,method,confidence,evidence
+Quốc hội,CoQuan,166170,metadata,1.0,metadata.co_quan_ban_hanh of id=166170 (so_ky_hieu=32/2024/QH15)
+Vương Đình Huệ,NguoiKy,166170,metadata,1.0,metadata.nguoi_ky of id=166170 (so_ky_hieu=32/2024/QH15)
+Tín dụng,LinhVuc,166170,metadata,1.0,metadata.linh_vuc of id=166170 (so_ky_hieu=32/2024/QH15)
+Tổ chức tín dụng,DoiTuongApDung,166170,gemini,1.0,Điều 2. Đối tượng áp dụng 1. Tổ chức tín dụng.
+Chi nhánh ngân hàng nước ngoài,DoiTuongApDung,166170,gemini,1.0,2. Chi nhánh ngân hàng nước ngoài.
+Văn phòng đại diện nước ngoài,DoiTuongApDung,166170,gemini,1.0,3. Văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài
+Chính phủ,CoQuan,112025,metadata,1.0,metadata.co_quan_ban_hanh of id=112025 (so_ky_hieu=73/2016/NĐ-CP)
+Nguyễn Xuân Phúc,NguoiKy,112025,metadata,1.0,metadata.nguoi_ky of id=112025 (so_ky_hieu=73/2016/NĐ-CP)
+doanh nghiệp bảo hiểm,DoiTuongApDung,112025,gemini,1.0,Nghị định này áp dụng đối với: a) Doanh nghiệp bảo hiểm;
+Chi nhánh nước ngoài,DoiTuongApDung,112025,gemini,1.0,Nghị định này áp dụng đối với: b) Chi nhánh nước ngoài;
+doanh nghiệp môi giới bảo hiểm,DoiTuongApDung,112025,gemini,1.0,"Nghị định này áp dụng đối với: c) Doanh nghiệp môi giới bảo hiểm, đại lý bảo hiểm;"
+Bảo hiểm,LinhVuc,112025,gemini,1.0,Quy định chi tiết thi hành Luật kinh doanh bảo hiểm
+Ngân hàng Nhà nước Việt Nam,CoQuan,38128,metadata,1.0,metadata.co_quan_ban_hanh of id=38128 (so_ky_hieu=37/2014/TT-NHNN)
+Đào Minh Tú,NguoiKy,38128,metadata,1.0,metadata.nguoi_ky of id=38128 (so_ky_hieu=37/2014/TT-NHNN)
+Phát hành và kho quỹ,LinhVuc,38128,metadata,1.0,metadata.linh_vuc of id=38128 (so_ky_hieu=37/2014/TT-NHNN)
+Các đơn vị có liên quan thuộc Ngân hàng Nhà nước,DoiTuongApDung,38128,gemini,0.95,1. Các đơn vị có liên quan thuộc Ngân hàng Nhà nước.
+Nhà máy in tiền Quốc gia,DoiTuongApDung,38128,gemini,0.95,2. Nhà máy in tiền Quốc gia.
+"Tổ chức, cá nhân khác có liên quan đến công việc thiết kế mẫu tiền, chế tạo bản in, khuôn đúc và in, đúc tiền",DoiTuongApDung,38128,gemini,0.95,"3. Tổ chức, cá nhân khác có liên quan đến công việc thiết kế mẫu tiền, chế tạo bản in, khuôn đúc và in, đúc tiền."
+Quốc hội,CoQuan,26750,metadata,1.0,metadata.co_quan_ban_hanh of id=26750 (so_ky_hieu=67/2011/QH12)
+Nguyễn Phú Trọng,NguoiKy,26750,metadata,1.0,metadata.nguoi_ky of id=26750 (so_ky_hieu=67/2011/QH12)
+kiểm toán viên hành nghề,DoiTuongApDung,26750,gemini,0.95,"quyền, nghĩa vụ của kiểm toán viên hành nghề, doanh nghiệp kiểm toán"
+doanh nghiệp kiểm toán,DoiTuongApDung,26750,gemini,0.95,"quyền, nghĩa vụ của kiểm toán viên hành nghề, doanh nghiệp kiểm toán"
+chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam,DoiTuongApDung,26750,gemini,0.95,chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam tại Việt Nam
+đơn vị được kiểm toán,DoiTuongApDung,26750,gemini,0.95,đơn vị được kiểm toán
+Kiểm toán độc lập,LinhVuc,26750,gemini,0.9,Luật Kiểm toán độc lập
+Chính phủ,CoQuan,163441,metadata,1.0,metadata.co_quan_ban_hanh of id=163441 (so_ky_hieu=46/2023/NĐ-CP)
+Lê Minh Khái,NguoiKy,163441,metadata,1.0,metadata.nguoi_ky of id=163441 (so_ky_hieu=46/2023/NĐ-CP)
+Bảo hiểm,LinhVuc,163441,metadata,1.0,metadata.linh_vuc of id=163441 (so_ky_hieu=46/2023/NĐ-CP)
+"Doanh nghiệp bảo hiểm phi nhân thọ, doanh nghiệp bảo hiểm nhân thọ, doanh nghiệp bảo hiểm sức khỏe",DoiTuongApDung,163441,gemini,1.0,"Doanh nghiệp bảo hiểm phi nhân thọ, doanh nghiệp bảo hiểm nhân thọ, doanh nghiệp bảo hiểm sức khỏe"
+Chính phủ,CoQuan,146468,metadata,1.0,metadata.co_quan_ban_hanh of id=146468 (so_ky_hieu=156/2020/NĐ-CP)
+Nguyễn Xuân Phúc,NguoiKy,146468,metadata,1.0,metadata.nguoi_ky of id=146468 (so_ky_hieu=156/2020/NĐ-CP)
+Chứng khoán,LinhVuc,146468,metadata,1.0,metadata.linh_vuc of id=146468 (so_ky_hieu=156/2020/NĐ-CP)
+"tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài",DoiTuongApDung,146468,gemini,1.0,"Tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài (sau đây gọi chung là tổ chức, cá nhân) thực hiện hành vi vi phạm hành chính trong lĩnh vực chứng khoán"
+Chứng khoán và thị trường chứng khoán,LinhVuc,146468,gemini,1.0,Quy định xử phạt vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán
+Ngân hàng Nhà nước Việt Nam,CoQuan,168220,metadata,1.0,metadata.co_quan_ban_hanh of id=168220 (so_ky_hieu=27/2024/TT-NHNN)
+Đào Minh Tú,NguoiKy,168220,metadata,1.0,metadata.nguoi_ky of id=168220 (so_ky_hieu=27/2024/TT-NHNN)
+"Thanh tra, giám sát ngân hàng",LinhVuc,168220,metadata,1.0,metadata.linh_vuc of id=168220 (so_ky_hieu=27/2024/TT-NHNN)
+Ngân hàng hợp tác xã,DoiTuongApDung,168220,gemini,1.0,1. Ngân hàng hợp tác xã.
+Quỹ tín dụng nhân dân,DoiTuongApDung,168220,gemini,1.0,2. Quỹ tín dụng nhân dân.
+Chính phủ,CoQuan,133858,metadata,1.0,metadata.co_quan_ban_hanh of id=133858 (so_ky_hieu=05/2019/NĐ-CP)
+Nguyễn Xuân Phúc,NguoiKy,133858,metadata,1.0,metadata.nguoi_ky of id=133858 (so_ky_hieu=05/2019/NĐ-CP)
+cơ quan nhà nước,DoiTuongApDung,133858,gemini,0.95,Nghị định này quy định về công tác kiểm toán nội bộ trong các cơ quan nhà nước
+đơn vị sự nghiệp công lập,DoiTuongApDung,133858,gemini,0.95,đơn vị sự nghiệp công lập và các doanh nghiệp
+doanh nghiệp,DoiTuongApDung,133858,gemini,0.95,đơn vị sự nghiệp công lập và các doanh nghiệp
+Kiểm toán,LinhVuc,133858,gemini,0.9,NGHỊ ĐỊNH Về kiểm toán nội bộ
+Ngân hàng Nhà nước Việt Nam,CoQuan,169221,metadata,1.0,metadata.co_quan_ban_hanh of id=169221 (so_ky_hieu=43/2024/TT-NHNN)
+Phạm Thanh Hà,NguoiKy,169221,metadata,1.0,metadata.nguoi_ky of id=169221 (so_ky_hieu=43/2024/TT-NHNN)
+Quản lý ngoại hối,LinhVuc,169221,metadata,1.0,metadata.linh_vuc of id=169221 (so_ky_hieu=43/2024/TT-NHNN)
+tổ chức tín dụng,DoiTuongApDung,169221,gemini,0.9,Số liệu liên quan đến diễn biến thanh khoản ngoại tệ và tình hình tiền gửi ngoại tệ và vàng của Kho bạc Nhà nước và các tổ chức tín dụng
+Kho bạc Nhà nước,DoiTuongApDung,169221,gemini,0.9,Số liệu liên quan đến diễn biến thanh khoản ngoại tệ và tình hình tiền gửi ngoại tệ và vàng của Kho bạc Nhà nước
+Chính phủ,CoQuan,95652,metadata,1.0,metadata.co_quan_ban_hanh of id=95652 (so_ky_hieu=135/2015/NĐ-CP)
+Nguyễn Tấn Dũng,NguoiKy,95652,metadata,1.0,metadata.nguoi_ky of id=95652 (so_ky_hieu=135/2015/NĐ-CP)
+Tổ chức kinh tế,DoiTuongApDung,95652,gemini,0.95,Tổ chức kinh tế theo quy định tại Khoản 16 Điều 3 Luật Đầu tư
+Cá nhân có quốc tịch Việt Nam,DoiTuongApDung,95652,gemini,0.95,Cá nhân có quốc tịch Việt Nam thuộc đối tượng được tham gia chương trình thưởng cổ phiếu phát hành ở nước ngoài.
+Ngân hàng thương mại,DoiTuongApDung,95652,gemini,0.95,"Tổ chức tự doanh, tổ chức nhận ủy thác là ngân hàng thương mại"
+Đầu tư,LinhVuc,95652,gemini,0.9,Nghị định quy định về đầu tư gián tiếp ra nước ngoài
+Bộ Tài chính,CoQuan,f69936f0-6937-11f1-a48d-29bc6b0fd706,metadata,1.0,metadata.co_quan_ban_hanh of id=f69936f0-6937-11f1-a48d-29bc6b0fd706 (so_ky_hieu=17/VBHN-BTC)
+Nguyễn Đức Chi,NguoiKy,f69936f0-6937-11f1-a48d-29bc6b0fd706,metadata,1.0,metadata.nguoi_ky of id=f69936f0-6937-11f1-a48d-29bc6b0fd706 (so_ky_hieu=17/VBHN-BTC)
+Chính phủ,CoQuan,f69936f0-6937-11f1-a48d-29bc6b0fd706,gemini,1.0,Nghị định số 156/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ
+"Tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài",DoiTuongApDung,f69936f0-6937-11f1-a48d-29bc6b0fd706,gemini,1.0,"Tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài (sau đây gọi chung là Tổ chức, cá nhân) thực hiện hành vi vi phạm"
+Chứng khoán,LinhVuc,f69936f0-6937-11f1-a48d-29bc6b0fd706,gemini,1.0,Quy định xử phạt vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán
+Bộ Tài chính,CoQuan,30402,metadata,1.0,metadata.co_quan_ban_hanh of id=30402 (so_ky_hieu=202/2012/TT-BTC)
+Trần Xuân Hà,NguoiKy,30402,metadata,1.0,metadata.nguoi_ky of id=30402 (so_ky_hieu=202/2012/TT-BTC)
+Quản lý dịch vụ tài chính và các quỹ tài chính,LinhVuc,30402,metadata,1.0,metadata.linh_vuc of id=30402 (so_ky_hieu=202/2012/TT-BTC)
+Kiểm toán viên,DoiTuongApDung,30402,gemini,0.95,Kiểm toán viên đăng ký hành nghề tại doanh nghiệp kiểm toán
+Doanh nghiệp kiểm toán,DoiTuongApDung,30402,gemini,0.95,"Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam"
+Kiểm toán,LinhVuc,30402,gemini,0.9,"Hướng dẫn về đăng ký, quản lý và công khai danh sách kiểm toán viên hành nghề kiểm toán"
+Ngân hàng Nhà nước Việt Nam,CoQuan,173460,metadata,1.0,metadata.co_quan_ban_hanh of id=173460 (so_ky_hieu=57/2024/TT-NHNN)
+Đoàn Thái Sơn,NguoiKy,173460,metadata,1.0,metadata.nguoi_ky of id=173460 (so_ky_hieu=57/2024/TT-NHNN)
+"Thanh tra, giám sát ngân hàng",LinhVuc,173460,metadata,1.0,metadata.linh_vuc of id=173460 (so_ky_hieu=57/2024/TT-NHNN)
+tổ chức tín dụng phi ngân hàng,DoiTuongApDung,173460,gemini,1.0,"Quy định hồ sơ, thủ tục cấp Giấy phép lần đầu của tổ chức tín dụng phi ngân hàng"
+Ngân hàng Nhà nước Việt Nam,CoQuan,27257,metadata,1.0,metadata.co_quan_ban_hanh of id=27257 (so_ky_hieu=44/2011/TT-NHNN)
+Trần Minh Tuấn,NguoiKy,27257,metadata,1.0,metadata.nguoi_ky of id=27257 (so_ky_hieu=44/2011/TT-NHNN)
+tổ chức tín dụng,DoiTuongApDung,27257,gemini,1.0,"Quy định về hệ thống kiểm soát nội bộ và kiểm toán nội bộ của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài"
+chi nhánh ngân hàng nước ngoài,DoiTuongApDung,27257,gemini,1.0,"Quy định về hệ thống kiểm soát nội bộ và kiểm toán nội bộ của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài"
+Ngân hàng,LinhVuc,27257,gemini,0.9,Căn cứ Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12 ngày 16 tháng 6 năm 2010
+Bộ Tài chính,CoQuan,143217,metadata,1.0,metadata.co_quan_ban_hanh of id=143217 (so_ky_hieu=66/2020/TT-BTC)
+Đỗ Hoàng Anh Tuấn,NguoiKy,143217,gemini,1.0,KT. BỘ TRƯỞNG THỨ TRƯỞNG (Đã ký) Đỗ Hoàng Anh Tuấn
+doanh nghiệp,DoiTuongApDung,143217,gemini,1.0,Thông tư này áp dụng đối với các doanh nghiệp quy định tại khoản 1 Điều 10 Nghị định số 05/2019/NĐ-CP
+kiểm toán nội bộ,LinhVuc,143217,gemini,0.95,Ban hành Quy chế mẫu về kiểm toán nội bộ áp dụng cho doanh nghiệp
+Ngân hàng Nhà nước Việt Nam,CoQuan,168859,metadata,1.0,metadata.co_quan_ban_hanh of id=168859 (so_ky_hieu=29/2024/TT-NHNN)
+Đào Minh Tú,NguoiKy,168859,metadata,1.0,metadata.nguoi_ky of id=168859 (so_ky_hieu=29/2024/TT-NHNN)
+"Thanh tra, giám sát ngân hàng",LinhVuc,168859,metadata,1.0,metadata.linh_vuc of id=168859 (so_ky_hieu=29/2024/TT-NHNN)
+quỹ tín dụng nhân dân,DoiTuongApDung,168859,gemini,1.0,Điều 2. Đối tượng áp dụng 1. Quỹ tín dụng nhân dân.
+Ngân hàng hợp tác xã,DoiTuongApDung,168859,gemini,1.0,Điều 2. Đối tượng áp dụng 2. Ngân hàng hợp tác xã.
+Tín dụng,LinhVuc,168859,gemini,0.9,Quy định về quỹ tín dụng nhân dân
+Bộ Tài chính,CoQuan,150974,metadata,1.0,metadata.co_quan_ban_hanh of id=150974 (so_ky_hieu=08/2021/TT-BTC)
+Tạ Anh Tuấn,NguoiKy,150974,metadata,1.0,metadata.nguoi_ky of id=150974 (so_ky_hieu=08/2021/TT-BTC)
+"Kế toán, kiểm toán",LinhVuc,150974,metadata,1.0,metadata.linh_vuc of id=150974 (so_ky_hieu=08/2021/TT-BTC)
+"doanh nghiệp, cơ quan nhà nước, đơn vị sự nghiệp công lập",DoiTuongApDung,150974,gemini,1.0,"áp dụng đối với các doanh nghiệp, cơ quan nhà nước, đơn vị sự nghiệp công lập quy định tại Điều 8, Điều 9, Điều 10"
+Kiểm toán nội bộ,LinhVuc,150974,gemini,1.0,Ban hành chuẩn mực kiểm toán nội bộ Việt Nam và các nguyên tắc đạo đức nghề nghiệp kiểm toán nội bộ
+Ngân hàng Nhà nước Việt Nam,CoQuan,164719,metadata,1.0,metadata.co_quan_ban_hanh of id=164719 (so_ky_hieu=22/2023/TT-NHNN)
+Đoàn Thái Sơn,NguoiKy,164719,metadata,1.0,metadata.nguoi_ky of id=164719 (so_ky_hieu=22/2023/TT-NHNN)
+"Thanh tra, giám sát ngân hàng",LinhVuc,164719,metadata,1.0,metadata.linh_vuc of id=164719 (so_ky_hieu=22/2023/TT-NHNN)
+ngân hàng,DoiTuongApDung,164719,gemini,1.0,"quy định tỷ lệ an toàn vốn đối với ngân hàng, chi nhánh ngân hàng nước ngoài"
+chi nhánh ngân hàng nước ngoài,DoiTuongApDung,164719,gemini,1.0,"quy định tỷ lệ an toàn vốn đối với ngân hàng, chi nhánh ngân hàng nước ngoài"
+Ngân hàng Nhà nước Việt Nam,CoQuan,173695,metadata,1.0,metadata.co_quan_ban_hanh of id=173695 (so_ky_hieu=56/2024/TT-NHNN)
+Đoàn Thái Sơn,NguoiKy,173695,metadata,1.0,metadata.nguoi_ky of id=173695 (so_ky_hieu=56/2024/TT-NHNN)
+"Thanh tra, giám sát ngân hàng",LinhVuc,173695,metadata,1.0,metadata.linh_vuc of id=173695 (so_ky_hieu=56/2024/TT-NHNN)
+ngân hàng thương mại,DoiTuongApDung,173695,gemini,1.0,Thông tư này áp dụng đối với: 1. Ngân hàng thương mại.
+chi nhánh ngân hàng nước ngoài,DoiTuongApDung,173695,gemini,1.0,Thông tư này áp dụng đối với: 2. Chi nhánh ngân hàng nước ngoài.
+văn phòng đại diện nước ngoài,DoiTuongApDung,173695,gemini,1.0,3. Văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài
+Ngân hàng Nhà nước Việt Nam,CoQuan,186482,metadata,1.0,metadata.co_quan_ban_hanh of id=186482 (so_ky_hieu=69/2025/TT-NHNN)
+Đoàn Thái Sơn,NguoiKy,186482,metadata,1.0,metadata.nguoi_ky of id=186482 (so_ky_hieu=69/2025/TT-NHNN)
+Cục An toàn hệ thống các tổ chức tín dụng,LinhVuc,186482,metadata,1.0,metadata.linh_vuc of id=186482 (so_ky_hieu=69/2025/TT-NHNN)
+tổ chức tín dụng,DoiTuongApDung,186482,gemini,0.95,"Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài"
+chi nhánh ngân hàng nước ngoài,DoiTuongApDung,186482,gemini,0.95,"tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, Công ty quản lý tài sản của các tổ chức tín dụng Việt Nam"
+Công ty quản lý tài sản của các tổ chức tín dụng Việt Nam,DoiTuongApDung,186482,gemini,0.95,Công ty quản lý tài sản của các tổ chức tín dụng Việt Nam chịu trách nhiệm thực hiện Thông tư này
+"quản lý, giám sát ngân hàng",LinhVuc,186482,gemini,0.9,"trong lĩnh vực quản lý, giám sát ngân hàng liên quan đến cắt giảm điều kiện kinh doanh"
+Bộ Tài chính,CoQuan,112924,metadata,1.0,metadata.co_quan_ban_hanh of id=112924 (so_ky_hieu=105/2016/TT-BTC)
+Trần Xuân Hà,NguoiKy,112924,metadata,1.0,metadata.nguoi_ky of id=112924 (so_ky_hieu=105/2016/TT-BTC)
+tổ chức kinh doanh chứng khoán,DoiTuongApDung,112924,gemini,1.0,Thông tư này áp dụng đối với tổ chức kinh doanh chứng khoán
+quỹ đầu tư chứng khoán,DoiTuongApDung,112924,gemini,1.0,Thông tư này áp dụng đối với... quỹ đầu tư chứng khoán
+công ty đầu tư chứng khoán,DoiTuongApDung,112924,gemini,1.0,Thông tư này áp dụng đối với... công ty đầu tư chứng khoán
+doanh nghiệp kinh doanh bảo hiểm,DoiTuongApDung,112924,gemini,1.0,Thông tư này áp dụng đối với... doanh nghiệp kinh doanh bảo hiểm
+Chứng khoán,LinhVuc,112924,gemini,0.9,Hướng dẫn hoạt động đầu tư gián tiếp ra nước ngoài của tổ chức kinh doanh chứng khoán
+Bảo hiểm,LinhVuc,112924,gemini,0.9,và doanh nghiệp kinh doanh bảo hiểm
+Ngân hàng Nhà nước Việt Nam,CoQuan,174218,metadata,1.0,metadata.co_quan_ban_hanh of id=174218 (so_ky_hieu=62/2024/TT-NHNN)
+Đoàn Thái Sơn,NguoiKy,174218,metadata,1.0,metadata.nguoi_ky of id=174218 (so_ky_hieu=62/2024/TT-NHNN)
+"Thanh tra, giám sát ngân hàng",LinhVuc,174218,metadata,1.0,metadata.linh_vuc of id=174218 (so_ky_hieu=62/2024/TT-NHNN)
+ngân hàng thương mại,DoiTuongApDung,174218,gemini,1.0,"Thông tư này quy định điều kiện, hồ sơ, thủ tục chấp thuận việc tổ chức lại ngân hàng thương mại"
+tổ chức tín dụng phi ngân hàng,DoiTuongApDung,174218,gemini,1.0,tổ chức tín dụng phi ngân hàng bao gồm công ty tài chính tổng hợp và công ty tài chính chuyên ngành.
+Ngân hàng Nhà nước Việt Nam,CoQuan,186888,metadata,1.0,metadata.co_quan_ban_hanh of id=186888 (so_ky_hieu=62/2025/TT-NHNN)
+Đoàn Thái Sơn,NguoiKy,186888,metadata,1.0,metadata.nguoi_ky of id=186888 (so_ky_hieu=62/2025/TT-NHNN)
+Cục An toàn hệ thống các tổ chức tín dụng,LinhVuc,186888,metadata,1.0,metadata.linh_vuc of id=186888 (so_ky_hieu=62/2025/TT-NHNN)
+tổ chức tín dụng là hợp tác xã,DoiTuongApDung,186888,gemini,1.0,"Tổ chức tín dụng là hợp tác xã bao gồm ngân hàng hợp tác xã, quỹ tín dụng nhân dân."
+tổ chức tài chính vi mô,DoiTuongApDung,186888,gemini,1.0,Tổ chức tài chính vi mô.
+Tín dụng,LinhVuc,186888,gemini,0.9,Quy định về hệ thống kiểm soát nội bộ của tổ chức tín dụng
+Ngân hàng,LinhVuc,186888,gemini,0.9,Căn cứ Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12
+Ngân hàng Nhà nước Việt Nam,CoQuan,6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,metadata,1.0,metadata.co_quan_ban_hanh of id=6e689cd0-6f81-11f1-94d6-fd5d6d5ff793 (so_ky_hieu=52/VBHN-NHNN)
+Đoàn Thái Sơn,NguoiKy,6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,metadata,1.0,metadata.nguoi_ky of id=6e689cd0-6f81-11f1-94d6-fd5d6d5ff793 (so_ky_hieu=52/VBHN-NHNN)
+ngân hàng thương mại,DoiTuongApDung,6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,gemini,0.7,Thông tư này áp dụng đối với: 1. Ngân hàng thương mại.
+chi nhánh ngân hàng nước ngoài,DoiTuongApDung,6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,gemini,0.7,Thông tư này áp dụng đối với: 2. Chi nhánh ngân hàng nước ngoài.
+văn phòng đại diện nước ngoài,DoiTuongApDung,6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,gemini,0.7,Thông tư này áp dụng đối với: 3. Văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài
+Ngân hàng,LinhVuc,6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,gemini,0.7,"Quy định hồ sơ, thủ tục cấp Giấy phép lần đầu của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài"
+Ngân hàng Nhà nước Việt Nam,CoQuan,185630,metadata,1.0,metadata.co_quan_ban_hanh of id=185630 (so_ky_hieu=63/2025/TT-NHNN)
+Đoàn Thái Sơn,NguoiKy,185630,metadata,1.0,metadata.nguoi_ky of id=185630 (so_ky_hieu=63/2025/TT-NHNN)
+"Lao động, tiền lương, tiền công",LinhVuc,185630,metadata,1.0,metadata.linh_vuc of id=185630 (so_ky_hieu=63/2025/TT-NHNN)
+quỹ tín dụng nhân dân,DoiTuongApDung,185630,gemini,1.0,"Sửa đổi, bổ sung một số điều của một số Thông tư về quỹ tín dụng nhân dân"
+ngân hàng hợp tác xã,DoiTuongApDung,185630,gemini,0.9,nộp lại sổ tiết kiệm trắng không sử dụng được cho ngân hàng hợp tác xã
+Tín dụng,LinhVuc,185630,gemini,0.9,"Sửa đổi, bổ sung một số điều của một số Thông tư về quỹ tín dụng nhân dân"
+Ngân hàng Nhà nước Việt Nam,CoQuan,117310,metadata,1.0,metadata.co_quan_ban_hanh of id=117310 (so_ky_hieu=41/2016/TT-NHNN)
+Nguyễn Đồng Tiến,NguoiKy,117310,metadata,1.0,metadata.nguoi_ky of id=117310 (so_ky_hieu=41/2016/TT-NHNN)
+"Thanh tra, giám sát ngân hàng",LinhVuc,117310,metadata,1.0,metadata.linh_vuc of id=117310 (so_ky_hieu=41/2016/TT-NHNN)
+ngân hàng,DoiTuongApDung,117310,gemini,1.0,"Thông tư này quy định tỷ lệ an toàn vốn đối với ngân hàng, chi nhánh ngân hàng nước ngoài tại Việt Nam."
+chi nhánh ngân hàng nước ngoài,DoiTuongApDung,117310,gemini,1.0,Đối tượng áp dụng gồm: a) Ngân hàng... b) Chi nhánh ngân hàng nước ngoài.
+Quốc hội,CoQuan,166269,metadata,1.0,metadata.co_quan_ban_hanh of id=166269 (so_ky_hieu=17/2023/QH15)
+Vương Đình Huệ,NguoiKy,166269,metadata,1.0,metadata.nguoi_ky of id=166269 (so_ky_hieu=17/2023/QH15)
+tổ hợp tác,DoiTuongApDung,166269,gemini,1.0,"Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã."
+hợp tác xã,DoiTuongApDung,166269,gemini,1.0,"Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã."
+liên hiệp hợp tác xã,DoiTuongApDung,166269,gemini,1.0,"Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã."
+Kinh tế tập thể,LinhVuc,166269,gemini,0.9,"tuyên truyền chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước về phát triển kinh tế tập thể"
+Ngân hàng Nhà nước Việt Nam,CoQuan,177271,metadata,1.0,metadata.co_quan_ban_hanh of id=177271 (so_ky_hieu=01/2025/TT-NHNN)
+Đoàn Thái Sơn,NguoiKy,177271,metadata,1.0,metadata.nguoi_ky of id=177271 (so_ky_hieu=01/2025/TT-NHNN)
+Cục An toàn hệ thống các tổ chức tín dụng,LinhVuc,177271,metadata,1.0,metadata.linh_vuc of id=177271 (so_ky_hieu=01/2025/TT-NHNN)
+quỹ tín dụng nhân dân,DoiTuongApDung,177271,gemini,1.0,"Quy định về cấp Giấy phép lần đầu, cấp đổi Giấy phép của quỹ tín dụng nhân dân"
+Tín dụng,LinhVuc,177271,gemini,0.9,"Quy định về cấp Giấy phép lần đầu, cấp đổi Giấy phép của quỹ tín dụng nhân dân"
+Ngân hàng Nhà nước Việt Nam,CoQuan,44209,metadata,1.0,metadata.co_quan_ban_hanh of id=44209 (so_ky_hieu=01/2014/TT-NHNN)
+Đào Minh Tú,NguoiKy,44209,metadata,1.0,metadata.nguoi_ky of id=44209 (so_ky_hieu=01/2014/TT-NHNN)
+Phát hành và kho quỹ,LinhVuc,44209,metadata,1.0,metadata.linh_vuc of id=44209 (so_ky_hieu=01/2014/TT-NHNN)
+tổ chức tín dụng,DoiTuongApDung,44209,gemini,1.0,"Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài."
+chi nhánh ngân hàng nước ngoài,DoiTuongApDung,44209,gemini,1.0,"Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài."
+khách hàng,DoiTuongApDung,44209,gemini,1.0,"Khách hàng trong quan hệ giao dịch tiền mặt, tài sản quý, giấy tờ có giá"
+Quốc hội,CoQuan,25692,metadata,1.0,metadata.co_quan_ban_hanh of id=25692 (so_ky_hieu=46/2010/QH12)
+Nguyễn Phú Trọng,NguoiKy,25692,metadata,1.0,metadata.nguoi_ky of id=25692 (so_ky_hieu=46/2010/QH12)
+tổ chức tín dụng,DoiTuongApDung,25692,gemini,0.95,bảo đảm an toàn hoạt động ngân hàng và hệ thống các tổ chức tín dụng
+Tiền tệ,LinhVuc,25692,gemini,0.95,"Ngân hàng Nhà nước thực hiện chức năng quản lý nhà nước về tiền tệ, hoạt động ngân hàng và ngoại hối"
+Ngân hàng,LinhVuc,25692,gemini,0.95,"Ngân hàng Nhà nước thực hiện chức năng quản lý nhà nước về tiền tệ, hoạt động ngân hàng và ngoại hối"
